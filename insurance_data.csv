@@ -1,0 +1,1339 @@
+﻿Policy_ID,eligible_for_discount,gender,life_stage,obesity,region,risk_factor,smoker,age,bmi,children,Claims,premium
+00320b34-d3e6-4499-a810-17ec535a0d00,false,Male,Senior,Obese,NE,Very Low,No,61,33.9,0,$13143.86,$52575.00
+005044ca-6c5e-4343-9a63-6a010c992af5,false,Female,Adult,Obese,SW,Very Low,No,58,33.1,0,$11848.14,$23696.00
+00a430ee-ac6d-4b59-9e74-db67cde37acd,false,Female,Adult,Obese,NW,Very Low,No,45,35.8,0,$7731.86,$15464.00
+0107ff53-7058-4871-80ec-42b935f1bf73,false,Male,Youth,Obese,NW,Very Low,No,26,33.9,1,$3292.53,$3293.00
+015e9b35-f0ad-42b1-a99e-7fe03fc123d9,false,Male,Adult,Obese,SE,Very Low,No,49,35.9,0,$8124.41,$16249.00
+0170443f-e980-4a23-bd6c-d369aa5521d2,false,Female,Youth,Obese,NW,Very Low,No,20,31.9,0,$2261.57,$2262.00
+01ab54fd-c3ae-4139-b9e5-228b6ba8303d,true,Male,Adult,Obese,SE,Very Low,No,36,34.4,0,$37742.58,$75485.00
+01b41162-e282-4bd6-9b4e-244bd8e04edb,true,Male,Adult,Obese,SW,Medium,Yes,50,34.2,2,$42856.84,$85714.00
+020458fd-b5c3-49e5-935a-8ec9eb7cf3d1,false,Male,Adult,Obese,SW,Very Low,No,43,32.6,2,$7441.50,$14883.00
+0207d84d-664e-4dec-a593-fd16b0063164,false,Male,Senior,Overweight,NW,High,Yes,63,28.3,0,$13770.10,$55080.00
+026d26c0-06cb-48da-a4ef-e6c0c9153a05,false,Male,Youth,Normal,SW,Very Low,No,26,23.7,2,$3484.33,$3484.00
+037d48b4-716c-4abc-830f-90158061013a,false,Female,Youth,Obese,NW,Low,Yes,21,35.7,0,$2404.73,$2405.00
+03a37d7e-74cb-4ec3-a0d4-7c8bd1f9b3f4,false,Female,Adult,Overweight,NE,Medium,Yes,54,28.9,2,$12096.65,$24193.00
+03cdd164-1a26-4eff-8c80-206262f13b17,true,Male,Adult,Obese,NE,Very Low,No,40,32.8,1,$39125.33,$78251.00
+03d84df6-1f7e-450d-8614-cda4f7613224,false,Male,Adult,Obese,NW,Medium,Yes,41,37.1,2,$7265.70,$14531.00
+03dc4285-be6d-4e03-a15a-3a58f9c2ce53,false,Female,Adult,Overweight,NW,Very Low,No,54,27.6,1,$11305.93,$22612.00
+0406cf89-118e-4c3d-bfc8-13df07fe73de,false,Female,Youth,Normal,NW,Very Low,No,26,22.6,0,$3176.82,$3177.00
+042bd530-54a0-41c1-9c5e-f685caccda45,false,Male,Adult,Obese,NW,Very Low,No,57,34,0,$11356.66,$22713.00
+04565a8c-10fb-4630-8f04-914424bab0c7,false,Female,Youth,Obese,SE,Very Low,No,18,33.9,0,$11482.63,$11483.00
+04c2eb8a-3e9d-4d62-902c-83a14978424f,false,Male,Adult,Normal,NE,Very Low,No,59,24.7,0,$12323.94,$24648.00
+04e3f96d-3489-408c-a593-a81db9cdf4c1,false,Male,Adult,Normal,NE,Very Low,No,49,22.5,0,$8688.86,$17378.00
+04fd0122-b895-4c5c-a46c-889c68193415,true,Female,Senior,Obese,SW,Very Low,No,63,32.2,2,$47305.31,$189221.00
+057820af-5989-4387-9fbf-7b14c19ed873,false,Female,Adult,Overweight,SW,Very Low,No,36,25.9,1,$5472.45,$10945.00
+059a5b85-1109-4b67-9029-a04f4026ee41,true,Female,Youth,Overweight,SW,Low,Yes,19,27.9,0,$16884.92,$16885.00
+05e92a85-26ad-4471-9acb-cb5c34d2cb93,true,Female,Adult,Normal,NW,Very Low,No,30,23.7,3,$18765.88,$18766.00
+0619ab1b-a741-4533-bd96-6ec611a6cbf8,false,Male,Youth,Obese,SW,Very Low,No,19,30.4,0,$1256.30,$1256.00
+0630857f-9a29-4886-9a01-234287151ecc,false,Female,Adult,Overweight,SW,Very Low,No,44,27.5,1,$7626.99,$15254.00
+0683cb69-9de4-4772-b59f-f4c18be3878a,false,Female,Youth,Normal,NW,Very Low,No,19,24.5,1,$2709.11,$2709.00
+068e0b8c-f346-44aa-bd0c-9e69290b46b2,true,Male,Youth,Overweight,SW,Low,Yes,21,25.7,4,$17942.11,$17942.00
+06b86124-d888-4fa8-8a25-b073af36fa47,false,Female,Adult,Obese,NE,Very Low,No,53,32.3,2,$29186.48,$58373.00
+071e7e32-b00e-44df-9b16-9bee7b6997e2,false,Male,Youth,Obese,SE,Low,Yes,18,30.1,0,$1131.51,$1132.00
+07297297-4b2d-4e66-a447-e1a04e48ef5f,true,Female,Senior,Obese,NE,Very Low,No,61,36.4,1,$48517.56,$194070.00
+07697af2-554a-46c2-b56b-932acf7c8039,false,Male,Youth,Obese,SE,Very Low,No,23,41.9,0,$1837.28,$1837.00
+077ba8c6-ef1d-4752-81af-77cb7ccaa423,false,Male,Youth,Obese,NW,Very Low,No,27,33.2,2,$4058.71,$4059.00
+07a7baa5-f77e-4244-907b-8ce4b119387c,false,Female,Youth,Obese,NW,Very Low,No,27,30.4,3,$18804.75,$18805.00
+07dc580c-aa7e-4285-9cfa-e8e22fad32f0,false,Male,Youth,Overweight,SE,Low,Yes,22,26.8,0,$1665.00,$1665.00
+081c3750-58ca-4b65-8ab1-cbd530631abf,false,Female,Adult,Underweight,NW,Very Low,No,52,18.3,0,$9991.04,$19982.00
+08c97cf7-be1f-4f27-a265-b255abd77abd,false,Male,Adult,Overweight,NW,Very Low,No,37,28,2,$6203.90,$12408.00
+08cfb8ad-c67c-4ec4-baf8-e9d07a3deb2d,false,Female,Adult,Normal,SE,Very Low,No,51,21.6,1,$9855.13,$19710.00
+08dda9e5-0b79-441c-8cbd-b2401f47be68,false,Female,Youth,Obese,SW,Very Low,No,23,33.4,0,$10795.94,$10796.00
+09477b7d-8382-4b0c-9afd-0725b329db68,false,Male,Adult,Obese,SE,Very Low,No,33,30.3,0,$3704.35,$7409.00
+09ec5436-5081-44af-bb81-1d8ff09c2d36,false,Female,Adult,Overweight,SW,Very Low,No,48,28.9,0,$8277.52,$16555.00
+0a34212f-67f9-4c1b-83ca-912088f7469e,false,Female,Senior,Overweight,SE,High,Yes,61,25.1,0,$24513.09,$98052.00
+0a80002d-bd07-4ec2-a9e0-eb508aeed070,true,Male,Youth,Obese,NE,Very Low,No,18,31.7,0,$33732.69,$33733.00
+0aaa22f3-dee8-4cdd-bb03-2671e122f069,true,Female,Senior,Overweight,NE,High,Yes,63,27.7,0,$29523.17,$118093.00
+0acfbc84-6e8b-443e-b0d6-018468a058a5,true,Male,Senior,Overweight,NW,Very Low,No,61,28.3,1,$28868.66,$115475.00
+0ae5ceda-334e-4f09-a8b9-dae1866ce0a5,false,Female,Adult,Obese,NE,Very Low,No,35,38.1,2,$24915.05,$49830.00
+0aec47f4-cea5-4168-8716-1affb3933192,false,Female,Adult,Overweight,NE,Medium,Yes,56,28.3,0,$11657.72,$23315.00
+0af887aa-5f4e-4e70-8827-82e4d192e705,false,Male,Youth,Obese,SE,Very Low,No,21,36.9,0,$1534.30,$1534.00
+0b35947b-c3ee-4317-ae99-be7beff76059,false,Female,Youth,Obese,SE,Very Low,No,18,36.9,0,$1629.83,$1630.00
+0b38e11c-0fde-4877-b9da-adfeb4c3eb54,true,Male,Adult,Overweight,SW,Very Low,No,31,25.9,3,$19199.94,$38400.00
+0b7d60fa-52b7-48e1-b3e7-2e5d713e340b,false,Female,Adult,Obese,SE,Very Low,No,55,30.1,2,$11881.97,$23764.00
+0bb7e3b9-e427-4f20-8ef4-0c87ee7c0d34,false,Male,Youth,Overweight,NW,Very Low,No,29,29.7,2,$18157.88,$18158.00
+0bbf24eb-32ee-4e25-bbd9-a4ddf97fc1a8,false,Female,Youth,Overweight,NE,Low,Yes,26,29.6,4,$24671.66,$24672.00
+0bbf899e-594f-4982-b745-a3609f02d80f,true,Male,Youth,Overweight,NW,Very Low,No,20,28,1,$17560.38,$17560.00
+0bd0b171-6d96-4e99-bc7e-07643d25c842,false,Male,Adult,Obese,SE,Very Low,No,33,33.4,5,$6653.79,$13308.00
+0be3bebc-0450-4de0-8276-569354d2e17b,false,Male,Adult,Obese,SE,Very Low,No,51,30,1,$9377.90,$18756.00
+0c4c304a-07db-4795-82a6-7ce1e2480d7a,false,Female,Adult,Overweight,SE,Very Low,No,46,28.1,1,$8233.10,$16466.00
+0d968616-7fd1-402e-a4b7-c4cb9bbea57f,true,Male,Adult,Overweight,SW,Very Low,No,43,27.8,0,$37829.72,$75659.00
+0ddc4062-f2cb-4829-aaa9-c676664863ae,false,Male,Adult,Normal,NE,Very Low,No,41,23.9,1,$6858.48,$13717.00
+0de13a3d-5137-4812-a56f-48ec9edb9df1,false,Female,Adult,Overweight,SW,Very Low,No,40,29.6,0,$5910.94,$11822.00
+0e213396-4afd-4b1c-bee1-e93f63ad3ad9,false,Female,Adult,Obese,SE,Very Low,No,56,39.8,0,$11090.72,$22181.00
+0e31903d-a929-4717-8804-70c86d4b5152,false,Male,Adult,Obese,SE,Very Low,No,31,38.4,2,$4463.21,$8926.00
+0f3bcf0a-35ae-4e69-9b9b-8f6461e13e71,false,Male,Adult,Obese,SE,Very Low,No,33,42.5,1,$11326.71,$22653.00
+0f7cd0ab-59c9-46f4-9ef8-c47f83d821c4,false,Female,Senior,Obese,NW,Very Low,No,64,30.1,3,$16455.71,$65823.00
+0f8a38d6-eacf-40d5-8b4a-57390412f4b7,true,Male,Youth,Normal,SE,Low,Yes,28,24,3,$17663.14,$17663.00
+0fc1776b-7e33-48ca-a04c-b3c0c4c444ad,true,Male,Adult,Normal,SE,Medium,Yes,42,24.6,0,$19515.54,$39031.00
+0fd0f06a-e8f7-40dd-9828-bdf3201da9ff,false,Female,Adult,Obese,NE,Very Low,No,58,32.4,1,$13019.16,$26038.00
+0feac455-e74e-440a-8e0a-31864e397c9e,false,Female,Adult,Obese,NE,Medium,Yes,46,48.1,2,$9432.93,$18866.00
+1022ca30-2892-49d3-81f8-f3ff35fb98ee,false,Female,Adult,Overweight,NE,Very Low,No,40,25.5,1,$7077.19,$14154.00
+107e726f-e4a7-4d45-b46b-b07d50981031,false,Female,Youth,Overweight,SW,Very Low,No,29,25.6,4,$5708.87,$5709.00
+1104bf3f-dac6-4d9b-834d-609f78f42c5d,false,Female,Youth,Obese,NE,Very Low,No,18,35.6,0,$2211.13,$2211.00
+1135c1c5-8127-48d0-bb72-843235c6bba4,false,Male,Senior,Overweight,SW,Very Low,No,64,25.6,2,$14988.43,$59954.00
+11ca1bc0-5478-4513-b398-796e6ff149b2,false,Female,Adult,Overweight,NW,Very Low,No,42,25,2,$8017.06,$16034.00
+11ca613a-4957-4487-a486-63917c817cfa,false,Female,Adult,Obese,SE,Very Low,No,54,31.9,3,$27322.73,$54645.00
+120cdbb7-8257-408c-b808-ea4c19b7021b,true,Female,Youth,Obese,NW,Low,Yes,22,30.4,0,$33907.55,$33908.00
+121dca85-8c7b-4d79-ba9b-a3fabdf3ca8e,false,Female,Adult,Obese,SE,Very Low,No,37,30.8,2,$6313.76,$12628.00
+121fbc77-7e39-4058-ba4b-d6f0febdb13d,true,Male,Senior,Obese,SE,Very Low,No,61,35.9,0,$46599.11,$186396.00
+12818055-c76e-4d37-b2ff-55d8922b60a3,false,Male,Youth,Obese,SE,Very Low,No,27,32.7,0,$2497.04,$2497.00
+129247b1-2f9a-4a1c-b37c-42ef68545100,false,Male,Youth,Obese,SE,Very Low,No,24,35.9,0,$1986.93,$1987.00
+12bdcba3-4d49-4f2d-a5e7-b3221cb6a8b6,false,Female,Youth,Overweight,SE,Very Low,No,22,28.1,0,$2155.68,$2156.00
+12cd37b1-16f1-40de-acba-be96aab59711,true,Male,Youth,Overweight,NE,Very Low,No,18,27.4,1,$17178.68,$17179.00
+12eb1f2a-9619-405a-9dd3-6ef85d7f0a15,false,Male,Youth,Underweight,NE,Very Low,No,18,16,0,$1694.80,$1695.00
+132a1e7a-b498-46f3-acd4-456c7ce674dd,false,Female,Adult,Overweight,NW,Medium,Yes,36,25.8,0,$5266.37,$10533.00
+14671f85-3e2f-4ccb-8965-d0517c4b1699,false,Female,Youth,Overweight,NE,Very Low,No,24,25.3,0,$3044.21,$3044.00
+14d0c3b8-2939-4925-9c6d-348ec58d6663,true,Female,Adult,Obese,SW,Very Low,No,37,34.8,2,$39836.52,$79673.00
+14e8ef02-7bb7-4267-8dd3-bd04a09131d1,false,Female,Adult,Obese,SE,Very Low,No,53,38.1,3,$20463.00,$40926.00
+14f0d526-61b5-4d08-86d1-9a888754bdca,true,Female,Adult,Obese,SE,Medium,Yes,47,36.6,1,$42969.85,$85940.00
+14f36794-787c-40a9-bc78-e4116958f7b8,true,Female,Adult,Overweight,NW,Very Low,No,43,26.9,0,$21774.32,$43549.00
+1505e933-c13f-4a2d-95a2-41ce9d4b06cf,false,Male,Senior,Obese,NE,Very Low,No,61,33.5,0,$13143.34,$52573.00
+1516e6b7-1fee-461c-9758-f4ab1186ddc3,false,Male,Youth,Obese,SE,Very Low,No,18,37.3,0,$1141.45,$1141.00
+1549993f-d2bd-4bdc-aa26-88410c918016,false,Female,Senior,Normal,NW,Very Low,No,60,24,0,$13012.21,$26024.00
+159722bf-12c5-4234-9fa7-b8bea6f92724,false,Female,Adult,Obese,NW,Very Low,No,34,37.3,2,$5989.52,$11979.00
+15d84025-9ed4-48e7-b9d4-84bf21920140,true,Male,Youth,Obese,SE,Low,Yes,18,31.7,2,$34303.17,$34303.00
+15db4fa7-9ead-49ab-a5da-dc3ea3fc21f1,false,Male,Adult,Overweight,NE,Very Low,No,50,27.5,1,$9617.66,$19235.00
+161ad0d2-9874-418e-8e0e-a6c0e0b5008f,false,Male,Youth,Normal,NE,Very Low,No,18,23,0,$1704.57,$1705.00
+164255a9-8361-4a1c-a65f-b26122c75542,false,Male,Youth,Obese,SW,Very Low,No,26,30,1,$2904.09,$2904.00
+1649d219-0791-4062-9b39-f9f310bf3706,false,Male,Adult,Obese,NW,Medium,Yes,58,34.4,0,$11743.93,$23488.00
+16921730-2d4e-4625-8b58-b44778bb6a28,false,Female,Youth,Obese,NE,Very Low,No,18,31.9,0,$2205.98,$2206.00
+16b9ce05-ff09-4761-aa00-658436c781fc,false,Female,Adult,Obese,NW,Very Low,No,41,33,0,$6571.02,$13142.00
+16c4b437-7f2c-4682-8489-b04539aa640e,true,Male,Adult,Overweight,NE,Very Low,No,39,29.9,1,$22462.04,$44924.00
+17197cd5-6c3d-4f6f-bc94-d7a400432e5f,false,Female,Youth,Normal,SW,Low,Yes,24,22.6,0,$2457.50,$2458.00
+17394896-0ef5-4ecf-9f3f-af122699761d,false,Male,Adult,Obese,SW,Very Low,No,43,30.1,1,$6849.03,$13698.00
+1756bf68-5c17-49fa-a5fb-fa135f2d269b,false,Female,Youth,Obese,NW,Very Low,No,19,31.8,1,$2719.28,$2719.00
+183f9a2c-d126-4531-bfc0-8002bc17615a,false,Female,Youth,Obese,SE,Very Low,No,18,38.2,0,$1631.67,$1632.00
+186c784e-13c3-4037-8ea1-b81e094e1a0a,false,Female,Youth,Obese,SE,Very Low,No,28,33,2,$4349.46,$4349.00
+18744d72-ce44-4851-835b-b2dc169df1d8,false,Male,Senior,Obese,NW,Very Low,No,63,41.3,3,$15555.19,$62221.00
+18a9a789-e437-4df1-8de7-e51c87a309ec,false,Male,Youth,Obese,SE,Very Low,No,26,46.5,1,$2927.06,$2927.00
+18d1b51b-0f96-4c72-8c57-5b026798ea59,false,Male,Youth,Obese,SW,Very Low,No,19,34.4,0,$1261.86,$1262.00
+18f25bdf-e68b-4fb3-8c00-cb7d11fe89e7,false,Male,Adult,Obese,SW,Very Low,No,52,38.6,2,$10325.21,$20650.00
+1907932c-4d8f-4c02-a484-48282e9af5dc,false,Female,Adult,Normal,SE,Very Low,No,52,24.9,0,$27117.99,$54236.00
+191414e5-2691-411a-89bf-b0070882a359,false,Male,Adult,Obese,SW,Very Low,No,53,36.6,3,$11264.54,$22529.00
+1981b5b9-a70f-472e-990c-b89437393408,false,Female,Adult,Obese,NW,Very Low,No,52,37.5,2,$33471.97,$66944.00
+19ac6fd6-c749-45b0-a99f-5ce3eefefc31,false,Male,Youth,Normal,SE,Very Low,No,18,23.3,1,$1711.03,$1711.00
+1a16c718-468a-49a4-9a98-036a0101b576,true,Male,Adult,Normal,NE,Very Low,No,42,24.6,2,$21259.38,$42519.00
+1a31f6c0-cd2e-46ce-8522-76b3418f7eaa,false,Male,Adult,Overweight,NW,Very Low,No,55,27.6,0,$10594.50,$21189.00
+1a4cf4e2-dbb3-44bc-b221-37d32126f7d4,true,Male,Youth,Obese,NE,Very Low,No,20,30.7,0,$33475.82,$33476.00
+1a6a6474-561b-487b-b292-0264799613d5,false,Female,Adult,Obese,NE,Medium,Yes,48,32.3,2,$10043.25,$20087.00
+1a766e27-bd83-4493-aaaf-9d32a7a28d45,true,Female,Adult,Overweight,NW,Very Low,No,47,27.6,2,$24535.70,$49071.00
+1b94e539-f3f3-402c-ab47-fc77d7fae810,true,Female,Adult,Underweight,SW,Very Low,No,39,18.3,5,$19023.26,$38047.00
+1ba0d2d0-4b73-455b-8207-8c7263efa365,false,Female,Youth,Normal,NW,Very Low,No,24,24.2,0,$2842.76,$2843.00
+1bc1ee34-96c9-464c-bd96-9bd46ec6bd97,true,Male,Adult,Obese,NW,Very Low,No,56,33.6,0,$43921.18,$87842.00
+1beb2b4c-5fb1-4cd4-afc9-09b25afca2f4,false,Female,Adult,Overweight,NW,Very Low,No,47,29.5,1,$8930.93,$17862.00
+1bfed144-e7c8-4a2f-a2a1-20dc67affcb6,false,Female,Youth,Normal,SE,Low,Yes,27,23.2,1,$3561.89,$3562.00
+1c12626b-761a-4e28-b851-cd0bf4e54ead,false,Female,Adult,Obese,SW,Very Low,No,50,31.6,2,$10118.42,$20237.00
+1c74ef67-9015-470b-ac58-cafdb9ef5419,true,Female,Senior,Normal,SE,Very Low,No,64,23,0,$27037.91,$108152.00
+1c7f1190-0b02-4d94-a868-3b178df7f3e6,false,Male,Youth,Overweight,SW,Low,Yes,29,27.2,0,$2866.09,$2866.00
+1c893931-d510-47c0-be25-d8bc9c19f883,false,Male,Adult,Normal,NW,Very Low,No,39,21.9,1,$6117.49,$12235.00
+1c8d5e4e-e1c5-462e-83c9-fe05303e47fa,false,Male,Adult,Obese,SW,Very Low,No,53,36.1,1,$10085.85,$20172.00
+1c964df0-648c-40f7-8b8f-69165a2e2784,false,Female,Adult,Obese,SE,Very Low,No,35,35.9,2,$5836.52,$11673.00
+1cd8d19a-9c60-4701-9088-893a37b3cc9a,false,Male,Senior,Normal,SW,Very Low,No,62,21.4,0,$12957.12,$51828.00
+1d2dd04c-e173-4abf-a180-549a128d2d78,false,Female,Adult,Overweight,NW,Very Low,No,48,27.9,4,$11015.17,$22030.00
+1d831ca7-af67-4907-8219-6ce3bfe7a41d,false,Female,Adult,Obese,NW,Very Low,No,56,33.8,2,$12643.38,$25287.00
+1dc6bcbb-13ca-4723-aaa1-b5e7ee994e73,false,Male,Youth,Obese,NE,Low,Yes,22,31.7,0,$2254.80,$2255.00
+1df00a04-07c9-4fb9-9733-bd96a28979c4,false,Female,Youth,Obese,SW,Very Low,No,21,34.6,0,$2020.18,$2020.00
+1df80722-b621-4ae4-b24f-6152badc82a2,true,Male,Adult,Normal,NW,Very Low,No,51,24.8,2,$23967.38,$47935.00
+1e5110bb-52f4-4a52-bac1-62b685ffa6b0,true,Male,Adult,Obese,SE,Very Low,No,52,41.8,2,$47269.85,$94540.00
+1e56423f-d7e7-4f23-a78e-f131007c8119,false,Male,Adult,Obese,SE,Very Low,No,42,36,2,$7160.33,$14321.00
+1e6d99af-507f-49e4-9517-bdc0cc2c08ec,true,Male,Adult,Obese,NW,Very Low,No,31,34.4,3,$38746.36,$77493.00
+1eae9790-ee3d-45f7-bed9-66bfeee1b077,true,Male,Senior,Obese,SE,Very Low,No,64,33.9,0,$46889.26,$187557.00
+1ee4f097-9a9d-463e-a9c0-a7715a347245,true,Male,Youth,Overweight,SE,Very Low,No,27,29.2,0,$18246.50,$18247.00
+1eec9d7f-3062-44c5-a56f-d36938cee670,true,Male,Adult,Normal,SE,Medium,Yes,43,20.1,2,$18767.74,$37535.00
+1f3b4e52-b7c9-4158-b161-5c11423c8140,true,Female,Youth,Obese,NE,Low,Yes,23,42.8,1,$40904.20,$40904.00
+1f4e9480-16e0-4286-9e1a-ec1f62072bae,false,Male,Adult,Overweight,SW,Very Low,No,53,28.6,3,$11253.42,$22507.00
+1f595b60-f54f-4160-9879-a4ca10e9e9fc,false,Female,Youth,Obese,NE,Very Low,No,23,34.9,0,$2899.49,$2899.00
+1fa111ca-0644-4480-9e4c-05f712076435,true,Male,Adult,Obese,SE,Medium,Yes,30,35.5,0,$36950.26,$36950.00
+1fb4964b-6877-402a-a5ee-11fe607ef984,false,Female,Adult,Normal,NE,Very Low,No,36,22.1,3,$7228.22,$14456.00
+1fd7e772-4355-4e35-bdcd-8de5609c055c,false,Male,Adult,Obese,SE,Very Low,No,55,32.7,1,$10807.49,$21615.00
+1ff187b9-6f03-4ce9-a9f9-2a59ac037493,false,Male,Adult,Overweight,SW,Very Low,No,51,25.4,0,$8782.47,$17565.00
+20019eaa-f0f5-4d7f-8942-7ccba6ea1d08,false,Female,Adult,Overweight,NW,Medium,Yes,58,28.2,0,$12224.35,$24449.00
+20056f86-665d-43a9-94ab-71eaa0f8e111,false,Male,Youth,Obese,SE,Very Low,No,20,35.3,1,$27724.29,$27724.00
+20195712-8f5e-4e26-97c5-562ae0885b19,false,Female,Adult,Overweight,NW,Very Low,No,34,26.4,1,$5385.34,$10771.00
+2022861d-7f56-4c3c-bd0f-ae47dcf90fb2,true,Male,Adult,Obese,SE,Very Low,No,38,38.4,3,$41949.24,$83898.00
+202ed1de-69f6-47ce-84f6-d1ef00657300,false,Female,Senior,Obese,SW,Very Low,No,62,39.2,0,$13470.86,$53883.00
+2047ab3a-e653-4c9f-ac14-fb7a70ceb12d,false,Male,Youth,Normal,SE,Very Low,No,18,21.8,2,$11884.05,$11884.00
+207e03e9-8ce7-4d94-8205-3fc8af19e365,false,Male,Youth,Underweight,NW,Very Low,No,23,17.4,1,$2775.19,$2775.00
+2080357f-045a-4772-a52a-10199d096eac,false,Male,Adult,Obese,SW,Very Low,No,58,38,0,$11365.95,$22732.00
+20824fa9-3edd-446d-85fe-f11e5513c9a8,true,Male,Adult,Overweight,SE,Very Low,No,31,29.8,0,$19350.37,$38701.00
+20b239e8-e93e-4fd0-b6dc-b08237e6ae3e,false,Female,Adult,Normal,SW,Medium,Yes,57,20.1,1,$12032.33,$24065.00
+213f6856-edf1-47fe-89cd-a2689eedd6aa,false,Female,Adult,Obese,NW,Very Low,No,47,33.9,3,$10115.01,$20230.00
+21ddb86a-3541-40e1-a4dd-1ea89f836563,false,Female,Adult,Overweight,NW,Very Low,No,49,29.9,0,$8988.16,$17976.00
+220e81b1-9a2b-42ca-8d96-e5bf4fed8330,true,Female,Youth,Obese,NW,Very Low,No,19,32.5,0,$36898.73,$36899.00
+22104fc8-1a56-46bb-bc61-a7fb2cbbdea1,false,Male,Adult,Obese,SE,Very Low,No,32,30,1,$4074.45,$8149.00
+22399c14-6b0b-47ba-8044-ba6e8324adc6,false,Male,Adult,Obese,NW,Very Low,No,44,32,2,$8116.27,$16233.00
+2240977d-8195-4dd1-b925-ba6e9ce69349,true,Female,Adult,Overweight,NE,Very Low,No,47,26.1,1,$23401.31,$46803.00
+225f7b55-f160-47fb-af87-3658c781b6ac,false,Female,Adult,Obese,NW,Very Low,No,57,31.8,0,$11842.62,$23685.00
+2266cb97-8815-4c7b-8ea7-0c0f9c4bb95b,false,Male,Adult,Obese,NW,Very Low,No,56,33.7,0,$10976.25,$21953.00
+22d1ad89-7891-4dde-9ecc-6346d5db7239,false,Female,Adult,Obese,SW,Very Low,No,51,34.2,1,$9872.70,$19745.00
+22df7f13-84ba-46d4-98d6-dabc90d8abec,false,Male,Adult,Normal,SE,Very Low,No,41,21.8,1,$6272.48,$12545.00
+22ea4db9-8ac2-4c7c-9151-13e9385ac119,false,Male,Adult,Normal,SE,Very Low,No,45,20.4,3,$8605.36,$17211.00
+235f0ec7-fa6c-4c64-b5d5-6e372b37f67a,false,Female,Youth,Overweight,SW,Very Low,No,24,27.6,0,$18955.22,$18955.00
+238829ea-646a-4716-a19d-1bf8faa2fb56,false,Male,Adult,Normal,SW,Very Low,No,58,23.3,0,$11345.52,$22691.00
+23cb44fb-0c7b-4579-bd81-33f852ba0c76,false,Female,Adult,Obese,NW,Very Low,No,43,34.6,1,$7727.25,$15455.00
+23eae5ac-ac68-4b4e-943b-bd2c24929e11,false,Female,Adult,Obese,NE,Very Low,No,46,33.7,1,$8823.99,$17648.00
+23f1ff21-d4a1-439a-b869-8cbd5daa399c,false,Male,Adult,Obese,SE,Very Low,No,52,47.7,1,$9748.91,$19498.00
+240f03e1-bb9d-4f8c-90e1-547aac492659,true,Male,Senior,Overweight,NE,Very Low,No,62,26.7,0,$28101.33,$112405.00
+24146f73-7e65-4780-9129-901838b10938,false,Male,Adult,Obese,SW,Very Low,No,55,37.3,0,$20630.28,$41261.00
+24502969-c94b-43f9-b429-f66e4d9f0aa4,false,Female,Adult,Obese,NW,Very Low,No,48,36.6,0,$8671.19,$17342.00
+246268b3-bfc9-4b89-9c45-2d81df05fdba,false,Male,Adult,Obese,NE,Very Low,No,56,32.1,1,$11763.00,$23526.00
+246ec490-3cb6-42a2-937c-1f8808b157e0,false,Male,Youth,Overweight,NE,Low,Yes,21,27.4,0,$2104.11,$2104.00
+24a38dbb-46d8-4205-8e75-3531ea42f03c,true,Female,Adult,Overweight,NE,Medium,Yes,37,25.6,1,$20296.86,$40594.00
+24d00dc9-a894-425e-85c8-d14596c7344b,false,Male,Adult,Obese,SE,Very Low,No,41,34.2,1,$6289.75,$12580.00
+24dd785d-743a-434c-a891-128e1fed707b,false,Male,Adult,Overweight,NE,Very Low,No,31,27.6,2,$5031.27,$10063.00
+25144931-203c-42f5-a70b-13c24125551d,false,Female,Adult,Overweight,SE,Very Low,No,34,26.7,1,$5002.78,$10006.00
+2581f0a8-b49a-4c40-8b79-146a9fd44f3b,false,Female,Youth,Normal,NW,Very Low,No,22,21.3,3,$4296.27,$4296.00
+259d27fe-4ff2-4790-b449-7a730cb25153,false,Male,Youth,Normal,NE,Very Low,No,29,22.5,3,$5209.58,$5210.00
+25e4ba1f-5576-4418-ab37-a6a4da22d456,false,Female,Youth,Normal,SW,Very Low,No,26,19.8,1,$3378.91,$3379.00
+260c579e-d639-4d95-b6af-e4038eeb74f3,false,Female,Youth,Obese,SW,Very Low,No,19,40.5,0,$1759.34,$1759.00
+2634f2db-9fae-42c4-8308-054b6dcc010c,false,Female,Youth,Obese,NE,Very Low,No,18,38.7,2,$3393.36,$3393.00
+264ac003-7025-4988-bcec-0d747a895d5e,false,Female,Adult,Normal,NE,Medium,Yes,40,23.4,3,$8252.28,$16505.00
+26f0430e-5f47-44eb-9482-b188c0ce2978,true,Female,Youth,Overweight,SE,Very Low,No,29,27.9,1,$19107.78,$19108.00
+27050729-60dc-4427-851d-72f7befe4195,false,Male,Adult,Overweight,SW,Medium,Yes,40,29.9,2,$6600.36,$13201.00
+27447766-aeb7-4107-836a-089f5935b7e8,false,Female,Adult,Normal,SE,Medium,Yes,50,23.5,2,$10107.22,$20214.00
+276b0878-214c-417f-92db-e224b8672ec4,false,Female,Adult,Obese,SE,Very Low,No,38,30.7,1,$5976.83,$11954.00
+2798ea8e-1f0d-4f83-ba97-fe7e5f12dad7,true,Male,Adult,Normal,SE,Very Low,No,48,24.4,0,$21223.68,$42447.00
+27ab7fcd-b71c-4066-9dc6-f5f1298d79e7,false,Female,Adult,Obese,NE,Very Low,No,41,31.6,1,$7358.18,$14716.00
+27be8e0a-66ee-4f67-bf61-e391b5f3b3a4,true,Male,Youth,Normal,NE,Low,Yes,29,22.9,0,$16138.76,$16139.00
+27d196e2-43db-4f89-800b-13f3e18e23a6,false,Male,Youth,Obese,SE,Very Low,No,18,41.1,0,$1146.80,$1147.00
+27dd87c2-9536-42ce-9328-43d3d365ed25,false,Female,Senior,Obese,SE,Very Low,No,62,39.2,0,$13470.80,$53883.00
+282599bf-7b22-4f97-9670-19b1f037d5a7,false,Female,Youth,Overweight,NW,Very Low,No,19,25.7,1,$2710.83,$2711.00
+283af5e8-4041-4c3b-ba54-b9b12dfaa41e,false,Male,Adult,Obese,NE,Medium,Yes,46,33.3,1,$8334.46,$16669.00
+2861fc53-33da-44d6-96f7-6fad6613fe86,false,Male,Adult,Overweight,NW,Medium,Yes,59,25.5,0,$12124.99,$24250.00
+28e1aa35-4d9a-4b22-a091-7ed150afaf2f,false,Male,Adult,Normal,SE,Very Low,No,45,24.3,5,$9788.87,$19578.00
+28ef438b-206b-4f5d-b154-11e5a3481fbd,false,Male,Adult,Obese,NE,Very Low,No,52,32.2,3,$11488.32,$22977.00
+2910d6ef-f5e4-4090-8a6d-b7a8f537dcc6,false,Female,Adult,Normal,SE,Medium,Yes,33,24.3,0,$4185.10,$8370.00
+29807760-0f22-40f3-9c4f-9597ce7102f4,false,Male,Adult,Underweight,NW,Very Low,No,35,17.9,1,$5116.50,$10233.00
+29d13163-9790-4e67-b2da-80148d4077c9,false,Male,Youth,Obese,SE,Very Low,No,20,33.3,0,$1391.53,$1392.00
+29da5109-4f95-49be-aaec-5016c4c96d78,false,Male,Adult,Obese,NE,Medium,Yes,33,35.2,0,$12404.88,$24810.00
+29eb288d-8fff-4c6d-b28a-6b604e609c83,false,Male,Youth,Obese,SE,Very Low,No,22,33.8,0,$1674.63,$1675.00
+2a2af2e3-95b2-4738-8c57-97eaaae09cba,true,Female,Youth,Obese,SE,Very Low,No,19,33.1,0,$34439.86,$34440.00
+2a6b9bd4-7dfd-4b1a-a9f4-a399de799769,true,Female,Senior,Overweight,SE,Very Low,No,62,26.3,0,$27808.73,$111235.00
+2a8079bb-a583-4380-8da8-51a0d271d61c,false,Female,Adult,Overweight,NE,Very Low,No,50,27.4,0,$25656.58,$51313.00
+2ab39e94-74c3-4a16-94ee-7130c9c72319,false,Male,Youth,Obese,SW,Very Low,No,21,31.1,0,$1526.31,$1526.00
+2b110606-7684-478e-bca8-ebcc11bf3753,false,Female,Adult,Obese,SE,Very Low,No,50,46.1,1,$9549.57,$19099.00
+2b3622f1-24fb-4177-a15d-e529f4003203,true,Male,Adult,Overweight,NW,Medium,Yes,34,27.8,1,$20009.63,$40019.00
+2b469255-cf30-4322-b752-1a04f83abc53,false,Male,Adult,Obese,NW,Medium,Yes,32,33.8,1,$4462.72,$8925.00
+2ba3150a-b949-4195-a8d6-d04b2c2a5203,true,Male,Senior,Obese,NW,Very Low,No,62,30.9,3,$46718.16,$186873.00
+2c2446ca-3b83-426d-ad39-27b6e59e73db,false,Female,Adult,Overweight,SE,Very Low,No,57,25.7,2,$12629.17,$25258.00
+2c63cf18-7288-4a30-9c31-478abb6f735c,false,Female,Adult,Normal,NE,Very Low,No,35,23.5,2,$6402.29,$12805.00
+2c6e0de2-6b22-4902-984f-687272af854f,false,Male,Adult,Overweight,SW,Very Low,No,57,28.1,0,$10965.45,$21931.00
+2cdf9c58-9e1e-4c3e-ad27-9dc906c8f150,false,Male,Adult,Obese,SE,Very Low,No,37,46.5,3,$6435.62,$12871.00
+2d0b8f7d-c104-4410-bf2f-a4a54a70ddb2,false,Male,Adult,Overweight,SW,Medium,Yes,45,27.5,3,$8615.30,$17231.00
+2d224fc8-7cea-4d27-82b5-f71a9154a445,true,Male,Adult,Obese,SE,Very Low,No,33,35.8,1,$38282.75,$76566.00
+2d4f1879-ee08-4c45-9bfa-11f8e7fdb7ef,false,Female,Adult,Obese,SW,Very Low,No,50,33.7,4,$11299.34,$22599.00
+2d760b94-47e6-486c-9bcf-2dad3732fa2b,false,Male,Adult,Obese,SW,Very Low,No,32,30.8,3,$5253.52,$10507.00
+2d819c7d-3a17-43f6-8880-558f0fc1b52c,true,Female,Youth,Underweight,NE,Low,Yes,26,17.2,2,$14455.64,$14456.00
+2de862cc-44a9-4091-bd37-ecb080e6b5fd,false,Female,Youth,Overweight,NE,Very Low,No,20,28.8,0,$2457.21,$2457.00
+2e2d10b1-c2f6-4a48-8904-c205bd8a79be,false,Male,Youth,Obese,SW,Low,Yes,19,35.4,0,$1263.25,$1263.00
+2e441c77-6aed-4602-ae90-0ca30db9b980,false,Male,Senior,Obese,NW,Very Low,No,62,30,0,$13352.10,$53408.00
+2e5d4ffe-d57e-48ef-bdac-063cb3e18cd5,false,Male,Adult,Overweight,NE,Medium,Yes,56,25.9,0,$11165.42,$22331.00
+2e6f0b60-81b5-484a-b872-35b5a8e3a98e,false,Female,Youth,Overweight,SE,Very Low,No,24,27.7,0,$2464.62,$2465.00
+2f1e5950-fce5-4d41-bf98-50bf5098f8ef,false,Male,Adult,Overweight,SE,Medium,Yes,43,25.5,5,$14478.33,$28957.00
+2f2a2e09-937e-4400-a9ae-84b23514c5c6,false,Female,Youth,Obese,NE,Low,Yes,27,30.6,1,$16796.41,$16796.00
+2f41d825-eabc-43a9-ab4c-15e7cea517a5,false,Male,Adult,Normal,SW,Very Low,No,57,23.7,0,$10959.33,$21919.00
+2f4acc64-f9af-4621-a40c-09c0c1561e36,false,Female,Adult,Obese,SW,Medium,Yes,45,33.1,0,$7345.08,$14690.00
+2f8582ac-54b2-4724-aef0-aa69935a495c,true,Male,Senior,Obese,SE,Very Low,No,63,35.1,0,$47055.53,$188222.00
+2fcd56b5-6710-4f32-9d6b-c14c637d62a1,false,Female,Adult,Obese,SE,Very Low,No,39,41.8,0,$5662.23,$11324.00
+2fdd4083-aab8-4730-a0d0-d8b2c12c790d,true,Male,Youth,Normal,NE,Very Low,No,18,21.6,0,$13747.87,$13748.00
+2ff847b4-46f0-43b1-9f7c-7f809b53626c,false,Male,Adult,Overweight,NE,Very Low,No,59,25.5,1,$12913.99,$25828.00
+307e2f1c-6962-4bfa-bf6b-f366e8de204a,true,Female,Adult,Overweight,NE,Very Low,No,40,28.1,1,$22331.57,$44663.00
+30927e8b-824e-470b-b220-859c98425b92,false,Female,Adult,Overweight,SW,Very Low,No,32,29.8,2,$5152.13,$10304.00
+3096545e-62bc-421e-9523-9b96bcb0acef,false,Male,Youth,Obese,SW,Very Low,No,20,33,1,$1980.07,$1980.00
+30a2527a-63ad-481a-9502-151863fb313f,false,Female,Adult,Normal,SE,Very Low,No,32,23.7,1,$17626.24,$35252.00
+30ff6257-390e-4d0b-85f6-04f951fee397,false,Male,Adult,Obese,SE,Very Low,No,53,41.5,0,$9504.31,$19009.00
+31220749-4294-4c41-95ad-09d515f8199a,true,Female,Adult,Normal,NW,Very Low,No,46,23.7,1,$21677.28,$43355.00
+31e3e898-7001-4c80-a81d-706a4646cc68,true,Female,Adult,Normal,SW,Very Low,No,32,24.6,0,$17496.31,$34993.00
+320eea8a-f8ee-4358-a761-96630a3a07b8,false,Male,Senior,Overweight,NW,Very Low,No,62,27.6,1,$13937.67,$55751.00
+32358e14-c5bf-46af-802f-9da78a064980,true,Female,Adult,Overweight,SW,Very Low,No,50,27.6,1,$24520.26,$49041.00
+323aae6a-93ba-4fda-813f-6a72d839fb01,false,Female,Adult,Normal,NW,Very Low,No,30,20,3,$5693.43,$5693.00
+3286aaeb-013d-4274-9985-2772684b26d6,false,Female,Senior,Overweight,SE,Very Low,No,62,29.9,0,$13457.96,$53832.00
+32d579f8-8d9b-4080-8894-d4c3cac94c6d,false,Female,Adult,Normal,NE,Very Low,No,53,23.8,2,$11729.68,$23459.00
+32eb8fac-ef4b-4541-8f37-f713302ee276,false,Female,Adult,Obese,SE,Very Low,No,30,33.3,1,$4151.03,$4151.00
+3303e365-1a7d-42df-baaa-9bce8a3f0ab3,true,Male,Senior,Obese,SW,Very Low,No,60,39.9,0,$48173.36,$96347.00
+3322f8f8-8730-4e14-819a-fc2bebba899a,false,Female,Youth,Obese,SE,Very Low,No,21,39.5,0,$2026.97,$2027.00
+3328cc3f-c6cb-4e0d-84b0-816d3c611dd8,false,Male,Youth,Overweight,NW,Low,Yes,21,29,0,$1906.36,$1906.00
+332ccce6-bbc5-4c6d-9f21-ef5ee8267d01,false,Male,Adult,Overweight,NE,Very Low,No,43,27.4,3,$8606.22,$17212.00
+336d4254-180d-40eb-b277-3306863e6057,false,Female,Youth,Overweight,NE,Very Low,No,26,28.8,0,$3385.40,$3385.00
+3376d2a1-f9b4-483c-8cd3-fe94dc20de52,false,Female,Adult,Obese,NE,Very Low,No,54,32.3,1,$11512.41,$23025.00
+337fdba6-3794-4fd5-907d-83d4e43e1161,false,Female,Youth,Normal,SE,Very Low,No,18,24.1,1,$2201.10,$2201.00
+3391c76b-09ae-4bea-af25-2db68f45173e,false,Female,Youth,Normal,SW,Very Low,No,29,24.6,2,$4529.48,$4529.00
+33a2c84f-ceea-4e01-869d-66f000cb17ce,false,Male,Adult,Obese,SW,Very Low,No,59,37.1,1,$12347.17,$24694.00
+33a6e33d-03bb-4c98-9b32-345f32e7fe51,false,Female,Adult,Overweight,NE,Very Low,No,50,27.1,1,$10106.13,$20212.00
+33ff5828-c137-4193-bb93-0d96a4a92325,true,Male,Youth,Overweight,SW,Very Low,No,20,27.3,0,$16232.85,$16233.00
+3484b625-4c1d-4983-824a-806002023b29,false,Female,Adult,Normal,NE,Very Low,No,38,20,2,$7133.90,$14268.00
+34f0df1f-a580-48a1-9dd3-b53e2b03bc0c,false,Female,Adult,Obese,NW,Very Low,No,49,34.8,1,$9583.89,$19168.00
+350a3988-c99c-4ba7-961e-8328e5ec8855,false,Female,Youth,Obese,SE,Very Low,No,18,31.4,0,$1622.19,$1622.00
+355881df-b7cf-4231-8ce0-0148e13fb5aa,false,Male,Youth,Overweight,NW,Low,Yes,19,27.8,0,$1635.73,$1636.00
+35a360d7-18cf-4a4e-9456-1dfb63c3164a,false,Male,Adult,Obese,NE,Very Low,No,51,32.3,1,$9964.06,$19928.00
+35b2a5d4-2d38-466e-b191-02d9e4a0e2aa,false,Female,Adult,Overweight,NE,Very Low,No,35,26.1,0,$5227.99,$10456.00
+35dc7e4f-f1a6-4bbc-baaa-bbfb5b48e39f,false,Male,Adult,Obese,NW,Very Low,No,35,34.8,2,$5729.01,$11458.00
+35ea8920-c29c-4670-8cf6-64727d815490,true,Female,Adult,Obese,SE,Medium,Yes,37,38.4,0,$40419.02,$80838.00
+35ee4a00-9ddd-4ed9-bf81-fce93ab0c0c3,false,Female,Adult,Normal,NE,Medium,Yes,32,20.5,0,$4544.23,$9088.00
+3628accb-c00c-4b11-9a5f-a2ef732d2909,false,Female,Senior,Overweight,NW,High,Yes,63,25.1,0,$14254.61,$57018.00
+362bd954-70fc-4795-b3ad-1ab4f6b2b0a7,false,Female,Adult,Obese,NW,Very Low,No,52,31.7,2,$11187.66,$22375.00
+362c688e-8dd6-4ebf-bd16-baf18ac83480,false,Male,Youth,Overweight,NE,Very Low,No,25,25.8,1,$3309.79,$3310.00
+369881cb-8d51-4ac8-801f-bc21625a2b81,false,Female,Adult,Obese,NW,Medium,Yes,55,33.5,2,$12269.69,$24539.00
+36ad735b-e5d8-47e8-99e8-04846860acac,false,Male,Adult,Overweight,SW,Very Low,No,55,29.9,0,$10214.64,$20429.00
+36d06318-6634-456c-b14f-f488f1b902d0,true,Female,Youth,Obese,SE,Low,Yes,27,36.1,0,$37133.90,$37134.00
+36d8f8e8-a633-42b8-82f0-24d585cfce16,false,Female,Adult,Obese,SE,Very Low,No,47,45.3,1,$8569.86,$17140.00
+376ee65a-0195-4de0-883e-f07554e8e5b2,true,Female,Adult,Normal,NW,Very Low,No,59,23.7,0,$25678.78,$51358.00
+379598f5-ac28-4114-80b3-6a8a0ca36772,false,Female,Adult,Obese,SW,Medium,Yes,43,34.4,3,$8522.00,$17044.00
+380fe950-b8f7-43d0-8a69-0e5ff0bbccd8,false,Male,Adult,Obese,NW,Medium,Yes,31,31.1,3,$5425.02,$10850.00
+382f303e-e381-42c8-b0d5-bfec6eab4ed9,false,Male,Adult,Overweight,SW,Very Low,No,49,28.7,1,$8703.46,$17407.00
+3847325b-2a66-47b3-8625-47d2ece39463,false,Female,Adult,Overweight,SE,Very Low,No,42,29.5,2,$7640.31,$15281.00
+38af15ae-63f2-48e2-8fca-e15dd2f4a4c6,false,Female,Adult,Obese,SE,Medium,Yes,54,31.9,1,$10928.85,$21858.00
+3922ae40-574a-43fa-a58c-38e794320b62,false,Male,Youth,Obese,NW,Low,Yes,28,30.9,0,$3062.51,$3063.00
+393b64ab-8294-489b-b713-bbdc085d2ef5,true,Male,Adult,Obese,SW,Very Low,No,30,37.8,2,$39241.44,$39241.00
+393cba17-015d-40f2-a4fd-67fa69a3daf1,false,Male,Adult,Normal,NW,Very Low,No,33,22.7,0,$21984.47,$43969.00
+39a05eb5-7b71-4e3e-86af-1b8bea5648c1,false,Female,Youth,Overweight,NE,Very Low,No,18,28.2,0,$2200.83,$2201.00
+39a76da4-99db-4b0f-bd14-9fa552dd8666,false,Male,Youth,Overweight,NE,Very Low,No,26,27.3,3,$4661.29,$4661.00
+39c12483-514c-456c-ae58-99f87621dd0a,false,Female,Adult,Obese,SE,Very Low,No,39,34.3,5,$8596.83,$17194.00
+39cb3be6-302d-4cc8-b780-7e9b16298e72,false,Male,Senior,Obese,SE,High,Yes,64,40.5,0,$13831.12,$55324.00
+3a449096-a5be-47d2-9ddd-d40a083e73ba,false,Male,Youth,Normal,NW,Very Low,No,19,20.4,0,$1625.43,$1625.00
+3a4c82ec-821a-4eee-9c78-2271dcbfae9d,true,Male,Adult,Obese,SW,Very Low,No,39,35.3,2,$40103.89,$80208.00
+3a5c361b-1c17-437b-9683-c23394d928a6,false,Female,Adult,Overweight,SE,Very Low,No,36,29.9,0,$4889.04,$9778.00
+3a5d6768-8236-436c-865b-c5708f35042a,true,Female,Youth,Overweight,SW,Very Low,No,19,28.3,0,$17081.08,$17081.00
+3a63ee8f-8aab-4bc8-8ea5-6ae5254c5f5d,false,Female,Senior,Obese,SW,Very Low,No,61,39.1,2,$14235.07,$56940.00
+3a9152b2-6d07-43b3-9e6d-d0dac6182396,true,Female,Adult,Underweight,NW,Medium,Yes,32,17.8,2,$32734.19,$65468.00
+3ab13ac5-c73e-4547-9ebe-5415ca6b5d0e,false,Male,Youth,Obese,SW,Low,Yes,28,37.1,1,$3277.16,$3277.00
+3acdd8b3-0b67-49e8-8b9e-1d8a562bce81,false,Female,Adult,Obese,NW,Very Low,No,40,41.4,1,$28476.73,$56953.00
+3ae27cfd-58e1-40bf-9c6d-983b56840fdb,false,Female,Youth,Obese,SW,Very Low,No,27,34.8,1,$3578.00,$3578.00
+3aed0dcc-d31b-46de-a196-f2dfd45bf0df,false,Male,Adult,Overweight,NW,Very Low,No,44,25.4,1,$7518.03,$15036.00
+3b06189b-d581-45dd-9d02-4c364d52e355,false,Female,Adult,Overweight,NW,Very Low,No,58,27.2,0,$12222.90,$24446.00
+3b11febe-b9ad-48b2-8b43-689e3c92a059,false,Female,Youth,Normal,SE,Low,Yes,21,21.9,2,$3180.51,$3181.00
+3ba04cb6-8503-458e-b129-25f006929cea,false,Female,Adult,Normal,NE,Very Low,No,39,23.3,3,$7986.48,$15973.00
+3bb5deef-097d-4f74-9950-edf38e9a6416,false,Female,Youth,Obese,SE,Very Low,No,18,31.1,0,$1621.88,$1622.00
+3c0e2bee-25f6-4695-9469-dd185b4f047d,true,Female,Adult,Obese,NE,Very Low,No,51,37.1,3,$46255.11,$92510.00
+3c3361a4-a883-42c1-a02a-998eba80e737,false,Female,Adult,Obese,SE,Medium,Yes,49,41.5,4,$10977.21,$21954.00
+3c7c5f5f-47b8-491b-a937-c061d397ef0e,false,Female,Adult,Obese,NE,Very Low,No,49,30.8,1,$9778.35,$19557.00
+3cb8af98-5859-4ab7-b302-45b3bc045eaa,false,Male,Youth,Normal,NW,Low,Yes,19,21.8,0,$1627.28,$1627.00
+3d2e6c3e-89dc-43b8-b51e-ed357bd6651a,false,Female,Adult,Obese,NE,Very Low,No,45,40,3,$9704.67,$19409.00
+3d57d920-59b6-448f-a9d6-080851b5d0aa,true,Female,Adult,Overweight,SE,Very Low,No,37,26.4,0,$19539.24,$39078.00
+3d85160c-0c20-4225-b6f3-43017966f854,false,Male,Adult,Obese,SW,Very Low,No,51,37,0,$8798.59,$17597.00
+3dde8db6-50f4-4e13-895b-73c661b1fe99,false,Male,Adult,Obese,SE,Very Low,No,57,40.4,0,$10982.50,$21965.00
+3e4027a7-1234-4fdc-b9d5-22e5392b724e,false,Male,Youth,Overweight,SW,Very Low,No,19,28.7,0,$1253.94,$1254.00
+3e4355c7-0d57-4b1f-8f4d-ba255bb6b043,false,Female,Adult,Obese,SW,Very Low,No,54,46.7,2,$11538.42,$23077.00
+3e6050df-eb4b-4f81-90a7-55d59e6e3d7a,false,Male,Youth,Obese,NW,Very Low,No,26,31.1,0,$2699.57,$2700.00
+3e793888-0aec-4b22-801b-27256a7994cc,false,Male,Adult,Obese,NE,Very Low,No,35,39.7,4,$19496.72,$38993.00
+3e92b671-63e7-4bc9-8fce-4a43405680c3,false,Male,Senior,Obese,SE,Very Low,No,63,41.5,0,$13405.39,$53622.00
+3f07db79-db6a-4cbe-83c3-9051c9c00892,false,Female,Adult,Normal,NW,Very Low,No,37,23.4,2,$6686.43,$13373.00
+3f11b349-4042-4a0e-9d77-31dab0875b83,true,Male,Adult,Obese,SE,Very Low,No,46,42.4,3,$46151.12,$92302.00
+3f5c18eb-f89b-42d0-904a-0d8711869103,true,Female,Adult,Obese,SE,Very Low,No,43,32.6,3,$40941.29,$81883.00
+3f78c9bf-f5da-433b-b5a6-d150f2b7d2f4,false,Male,Youth,Normal,NE,Very Low,No,18,21.5,0,$1702.46,$1702.00
+3fa39a77-7f39-4c7f-9e4c-3f0158c4227b,false,Male,Adult,Obese,SE,Very Low,No,59,31.8,2,$12928.79,$25858.00
+3fd39d09-5b3e-4c48-a13f-864ccf386135,false,Male,Adult,Obese,SW,Medium,Yes,52,30.2,1,$9724.53,$19449.00
+3feb8bb8-3668-4ce6-aa20-784176e773c1,false,Male,Adult,Normal,NW,Very Low,No,46,19.9,0,$7526.71,$15053.00
+4008610c-c1d3-4b9e-83fa-34b0ac646d66,true,Male,Adult,Obese,NE,Very Low,No,54,40.6,3,$48549.18,$97098.00
+400b6da9-5b14-4666-bd5e-a3f92f5655dc,true,Male,Senior,Obese,NE,Very Low,No,62,32,0,$45710.21,$182841.00
+4027ee1d-19e5-4ba2-a018-fba9b29cdecb,false,Female,Adult,Obese,NE,Very Low,No,49,33.3,2,$10370.91,$20742.00
+403e9569-0021-4d08-8cae-6c18519b87bd,false,Female,Adult,Obese,NW,Very Low,No,38,30.2,3,$7537.16,$15074.00
+405eb164-7ad6-4bc7-8a1a-a7c9189e6329,true,Female,Youth,Normal,NE,Very Low,No,21,21.9,1,$15359.10,$15359.00
+40fbb5f0-6b43-40d7-b9d5-11bfa135d6cf,false,Female,Youth,Obese,NE,Very Low,No,18,40.2,0,$2217.47,$2217.00
+414c2094-833a-41a1-b271-14ac9ef2f892,true,Female,Adult,Overweight,SE,Very Low,No,47,27.8,0,$23065.42,$46131.00
+4170ff24-5a02-463a-903e-ed5455927047,false,Male,Adult,Overweight,SW,Very Low,No,39,29.6,4,$7512.27,$15025.00
+417254e5-b660-4e8f-bace-81fdef40e5ce,false,Male,Adult,Obese,SE,Very Low,No,46,38.2,2,$8347.16,$16694.00
+41863219-cba5-4f44-a88d-c8f9488c7c6a,true,Male,Adult,Overweight,NE,Very Low,No,36,28,1,$20773.63,$41547.00
+418fe8e2-d980-4c35-a4bb-7643a5c841b2,false,Male,Adult,Overweight,SE,Very Low,No,59,26.4,0,$11743.30,$23487.00
+41af801e-fa72-402c-8da7-2da7ac6ee161,false,Female,Senior,Obese,SW,High,Yes,64,39.7,0,$14319.03,$57276.00
+41e90642-b4b2-440b-bc82-3f9416ad21a9,false,Male,Adult,Obese,SW,Very Low,No,44,37.1,2,$7740.34,$15481.00
+420f0bff-818d-48de-897e-c5c57b7b091d,true,Male,Adult,Obese,SE,Very Low,No,36,35.2,1,$38709.18,$77418.00
+422340e9-f8d8-46d7-88ca-14c48a970367,true,Male,Youth,Overweight,SE,Very Low,No,26,27.1,0,$17043.34,$17043.00
+426633e7-1306-4c54-bbfb-f4a5b378eedc,false,Female,Youth,Overweight,NW,Very Low,No,29,26,0,$3736.46,$3736.00
+42a9e62b-784b-4b99-b05e-ae9359eaa287,false,Female,Adult,Normal,NE,Very Low,No,33,22.1,1,$5354.07,$10708.00
+42b9f2e3-4246-4733-8600-5afed0176639,false,Female,Adult,Overweight,SE,Very Low,No,46,27.7,1,$8232.64,$16465.00
+42c7fd6d-6265-4733-863f-306bfe3746b8,false,Female,Adult,Obese,SE,Very Low,No,45,36.3,2,$8527.53,$17055.00
+43120039-5f56-4fe2-98f9-44de3b94a9b7,false,Female,Adult,Obese,SW,Very Low,No,34,38,3,$6196.45,$12393.00
+432dc287-1a50-4c69-95aa-dcd5bdb1b1c6,false,Male,Adult,Overweight,NE,Very Low,No,49,29.8,1,$9288.03,$18576.00
+43500cb9-0765-4424-81b4-7756dc93e6db,false,Male,Adult,Obese,NW,Medium,Yes,50,32.2,0,$8835.26,$17671.00
+437ee43e-cdc7-4cc1-b836-93082a1450ab,false,Male,Adult,Obese,SW,Medium,Yes,40,35.3,3,$7196.87,$14394.00
+43ac3efc-e2ff-4ad1-a4b3-e71c0b1ade1b,false,Male,Adult,Obese,SE,Very Low,No,55,33,0,$20781.49,$41563.00
+43aef5d6-bfb3-4484-bb7f-c036c5a2690f,false,Male,Youth,Obese,SE,Low,Yes,28,33,3,$4449.46,$4449.00
+442392b8-5c4e-4ca8-9b10-2e7aefe49efc,false,Male,Adult,Obese,SE,Very Low,No,30,38.8,1,$18963.17,$18963.00
+443ea5f1-af4a-46e9-b747-507d290a49bb,true,Female,Youth,Obese,SE,Very Low,No,22,31,3,$35595.59,$35596.00
+4458209f-6cf2-45e1-b7f4-974522359ba1,false,Female,Adult,Obese,NW,Very Low,No,36,30,0,$5272.18,$10544.00
+445b0633-3d8f-41ad-a11c-5f88f086be62,false,Female,Youth,Underweight,NE,Very Low,No,28,17.3,0,$3732.63,$3733.00
+449e924b-99e1-4e79-a440-1a1e7ddd8fbf,false,Female,Youth,Normal,SW,Low,Yes,25,24.3,3,$4391.65,$4392.00
+44eeb6a9-dc90-4fdc-8811-d40a750a88d7,false,Female,Adult,Obese,NE,Medium,Yes,52,30.8,1,$10797.34,$21595.00
+44f5d64c-6998-4884-944e-b81a244d2e29,false,Male,Youth,Normal,SE,Very Low,No,18,23.2,0,$1121.87,$1122.00
+45323eab-1965-49cc-bcd4-4ebe37159bd9,false,Female,Adult,Obese,SE,Very Low,No,59,35.2,0,$12244.53,$24489.00
+45340c38-8dc9-4d2e-a8bc-6dcd03e970be,false,Female,Adult,Obese,NE,Medium,Yes,44,36.5,0,$12797.21,$25594.00
+453efd99-0277-42ac-8d5f-04dc0364a6d9,false,Female,Youth,Normal,NW,Very Low,No,22,20.2,0,$2527.82,$2528.00
+45577dde-c21d-487c-903a-73f1a65a0b2f,false,Male,Adult,Overweight,NW,Very Low,No,40,29.4,1,$6393.60,$12787.00
+459c3c13-c4df-42e7-92a8-d95da2ef57e2,true,Male,Adult,Overweight,NW,Very Low,No,56,26.7,1,$26109.33,$52219.00
+4627b52a-9316-49d6-bd4c-7d62706a1319,false,Male,Adult,Overweight,NW,Very Low,No,53,28.9,0,$9869.81,$19740.00
+4671af03-f3d4-4dd4-96a1-b43c5bfef41a,false,Male,Youth,Normal,SW,Very Low,No,20,22,1,$1964.78,$1965.00
+46a12d32-774a-4842-a08e-76775f4c9518,true,Female,Adult,Obese,NE,Medium,Yes,51,35,2,$44641.20,$89282.00
+470117d5-689e-496d-abd9-ccef5b0912d0,false,Female,Adult,Obese,SE,Very Low,No,35,43.3,2,$5846.92,$11694.00
+4788271f-a33f-4c5f-9b6e-81a88b725f0b,false,Female,Youth,Obese,SE,Very Low,No,25,32.2,1,$18218.16,$18218.00
+47f405db-aee2-4bed-b914-46606f7953ae,false,Female,Youth,Normal,SE,Low,Yes,24,23.2,0,$25081.77,$25082.00
+48960eb4-aee9-42d7-989a-a6abebe8d4c3,false,Female,Youth,Overweight,NE,Very Low,No,26,29.4,2,$4564.19,$4564.00
+48b98e61-1bc5-4a1a-b6c0-42b435b9f1fc,true,Male,Adult,Obese,SW,Medium,Yes,36,33.4,2,$38415.47,$76831.00
+48cad531-686d-4198-a743-dba2eebbe3f5,true,Female,Youth,Overweight,SE,Low,Yes,23,28.5,1,$18328.24,$18328.00
+4912856e-ad87-4be3-a847-74488fba7e39,false,Female,Adult,Obese,SE,Medium,Yes,53,39.6,1,$10579.71,$21159.00
+492a3203-1190-4091-9508-3fe65133577b,false,Male,Youth,Normal,SW,Low,Yes,25,23.9,5,$5080.10,$5080.00
+4943420e-c6b6-4f79-bec3-b187aed74386,false,Male,Senior,Normal,NE,Very Low,No,61,23.7,0,$13129.60,$52518.00
+494d0729-7753-479d-98ea-a00e20db1f68,false,Male,Youth,Obese,NE,Very Low,No,28,35.4,0,$3268.85,$3269.00
+499659eb-d62c-4097-ac30-4ba99098f4e2,false,Female,Youth,Overweight,SW,Very Low,No,19,28.6,5,$4687.80,$4688.00
+49d7a47e-79b5-40ed-bcf5-b0a01f469059,false,Male,Youth,Obese,SE,Very Low,No,29,37.3,2,$4058.12,$4058.00
+49f4aae4-c972-4a7d-86c4-a92b902c45b3,false,Female,Senior,Obese,SE,High,Yes,61,33.3,4,$36580.28,$146321.00
+4a12f6c2-e0df-4ccc-bd7c-4b327ffa78bc,false,Male,Youth,Normal,NW,Low,Yes,23,18.7,0,$21595.38,$21595.00
+4a7fa8ee-c8b6-4034-b3a1-13b1391bcbf2,true,Male,Adult,Obese,SW,Medium,Yes,34,30.8,0,$35491.64,$70983.00
+4a980c33-dbef-48c2-a25e-fcc457889540,false,Male,Senior,Obese,NW,Very Low,No,61,32.3,2,$14119.62,$56478.00
+4ad04431-c045-4aaf-8431-b4559b3c4f49,false,Male,Adult,Overweight,NW,Very Low,No,32,27.8,1,$4454.40,$8909.00
+4af1dbd7-98cb-4f01-a759-c99158a659e1,false,Male,Adult,Obese,SE,Very Low,No,50,37.1,1,$9048.03,$18096.00
+4af940ba-07ae-4595-9be5-a3c3e61e36d7,false,Male,Youth,Obese,NW,Very Low,No,29,31.7,2,$4433.39,$4433.00
+4b1aea52-4f4c-4521-8e53-b9992a01ba88,true,Female,Adult,Obese,NW,Medium,Yes,44,39,0,$42983.46,$85967.00
+4b26dbe0-4cac-42fe-b1c3-5f7c0cf1c7d2,false,Male,Adult,Normal,NW,Very Low,No,33,24.6,2,$5257.51,$10515.00
+4b3be85e-6700-4b99-84f0-a07d2ceb5dba,false,Female,Adult,Overweight,SE,Very Low,No,31,26.6,0,$3757.84,$7516.00
+4b3f2c7b-163c-42f6-a631-8e2d6d0146bc,false,Male,Youth,Overweight,NW,Very Low,No,19,27.3,2,$22493.66,$22494.00
+4b46cfd2-6aca-490f-b900-ea6731252cde,true,Female,Youth,Obese,SE,Very Low,No,18,36.9,0,$36149.48,$36149.00
+4b66d53b-a275-43b2-9200-9de832c22f4a,false,Female,Adult,Obese,SW,Very Low,No,39,34.1,3,$7418.52,$14837.00
+4bd3729e-7e1c-46e1-a51e-c2360a55c2a8,false,Male,Adult,Overweight,SE,Very Low,No,40,25.1,0,$5415.66,$10831.00
+4be03a7c-ec67-43ed-a60c-8d89ac66a358,false,Female,Youth,Obese,NE,Very Low,No,22,30.4,0,$2741.95,$2742.00
+4bf9f4b1-61d5-41a9-a047-cf5efd92c9e4,false,Female,Adult,Overweight,NE,Very Low,No,48,27.3,1,$9447.25,$18895.00
+4c17e82f-ff86-4e31-a748-41f3492f56b1,true,Female,Adult,Overweight,SW,Very Low,No,43,26.7,2,$22478.60,$44957.00
+4c5d58c5-5f2d-4996-b273-c3dc33b2a990,false,Female,Adult,Overweight,SW,Very Low,No,59,27.5,0,$12233.83,$24468.00
+4c87d261-be38-4b20-b20d-5815864e6849,false,Male,Youth,Obese,NW,Low,Yes,19,35.5,0,$1646.43,$1646.00
+4cbaf337-9b41-4967-ace5-2d055aa347c1,false,Male,Adult,Obese,NE,Very Low,No,39,42.7,0,$5757.41,$11515.00
+4cbbfd39-a0b3-4df1-a2a8-d1eaeabb2846,true,Male,Youth,Obese,SE,Very Low,No,19,30.3,0,$32548.34,$32548.00
+4cee57a4-85c3-4f15-b13e-e865ef198daa,false,Male,Adult,Obese,NW,Very Low,No,45,30.5,2,$8413.46,$16827.00
+4d48b77f-ce64-4656-bf62-8c04d58eff86,false,Male,Youth,Overweight,NE,Low,Yes,22,28.9,0,$2250.84,$2251.00
+4d83f5ad-11ff-4d2c-b9fe-17f3c5276d7f,true,Female,Youth,Normal,SE,Very Low,No,20,24.4,0,$26125.67,$26126.00
+4dd7807f-08f3-4a2d-aeb7-d4b27de30461,true,Male,Senior,Obese,SE,Very Low,No,64,37,2,$49577.66,$198311.00
+4dde62f3-226c-4c2a-9a66-cb3f32cd6265,false,Female,Senior,Obese,SE,Very Low,No,60,38.1,0,$12648.70,$25297.00
+4ddfbf4c-6223-4653-8bdf-4abf41f89838,true,Male,Adult,Obese,SW,Medium,Yes,44,30.2,2,$38998.55,$77997.00
+4df35ed6-751e-47cf-b9ed-17a0799f1c4d,false,Male,Adult,Obese,NW,Very Low,No,37,30.9,3,$6796.86,$13594.00
+4dfde3e3-b6ae-44e0-9e7c-8384cb0c305b,false,Male,Adult,Obese,NW,Very Low,No,52,32.8,3,$11289.11,$22578.00
+4e222f4a-9388-40ef-8c99-c10b8bf98be1,false,Female,Youth,Obese,NW,Very Low,No,19,37.4,0,$2138.07,$2138.00
+4e65ce74-6ac9-4459-ab3f-f6701c94c53c,false,Female,Adult,Obese,SE,Very Low,No,54,31.2,0,$10338.93,$20678.00
+4e7d640e-b6e5-4f75-bf2b-93eed6afe3f4,false,Female,Senior,Normal,NE,High,Yes,61,22,0,$13616.36,$54465.00
+4e819520-9875-4578-ad0a-2e7bd223f943,false,Female,Adult,Obese,NW,Very Low,No,33,42.9,3,$6360.99,$12722.00
+4e9e76b2-39e6-4ecc-99a9-79d081ea609b,false,Male,Senior,Obese,NW,Very Low,No,64,37.9,0,$14210.54,$56842.00
+4fa5f16f-8f03-47d9-a305-88dd5b4f4cbe,false,Male,Adult,Obese,SW,Very Low,No,30,31.4,1,$3659.35,$3659.00
+4fa6ebf7-a922-45a5-a6e2-912d18b8555a,false,Female,Youth,Normal,NW,Low,Yes,28,23.8,2,$4719.74,$4720.00
+4fef8c1c-fd59-4641-b6e5-4021de519ebb,false,Male,Youth,Normal,SW,Very Low,No,21,22.3,1,$2103.08,$2103.00
+50442001-552d-4980-b394-a4239188aaf9,false,Male,Adult,Obese,SE,Very Low,No,39,32.3,2,$6338.08,$12676.00
+505a35d6-2e0e-4bf5-927d-af1516ddc203,false,Female,Adult,Overweight,SE,Very Low,No,45,27.8,2,$8515.76,$17032.00
+507833d9-1067-4be5-a56e-4b6a7a0a1f3a,false,Female,Adult,Overweight,NE,Very Low,No,55,29.8,0,$11286.54,$22573.00
+50961261-1e0b-43fe-957d-42f93ed2bed6,false,Female,Youth,Obese,NE,Very Low,No,22,39.8,0,$2755.02,$2755.00
+51401e9d-7f72-40cd-a6ff-98d4dc7ef573,false,Male,Youth,Obese,SW,Very Low,No,23,37.1,3,$3597.60,$3598.00
+51cea1b2-8e1b-4834-a5f5-458e67903a4b,false,Female,Adult,Overweight,SW,Very Low,No,56,25.3,0,$11070.54,$22141.00
+51efa733-56b6-4025-9cd6-a617c6f33e90,false,Male,Adult,Obese,NW,Very Low,No,57,31.5,0,$11353.23,$22706.00
+51ff46c4-d28d-4690-a3e8-f5de59260c13,false,Male,Senior,Obese,SE,Very Low,No,63,33.7,3,$15161.53,$60646.00
+5260aab5-15b4-4a66-9517-13bf9ee536a0,false,Male,Youth,Obese,NE,Very Low,No,18,30.4,3,$3481.87,$3482.00
+5342def4-3feb-4c4c-a3f3-2a745c4ab633,false,Male,Adult,Normal,SW,Medium,Yes,43,23.2,0,$6250.44,$12501.00
+5372b1dc-2a16-47e1-b5b4-3efd581740fd,true,Female,Youth,Underweight,NE,Low,Yes,27,18,2,$15006.58,$15007.00
+537bf256-9708-4e2b-be96-3f3a43581ef9,true,Male,Youth,Obese,SE,Very Low,No,22,37.1,2,$37484.45,$37484.00
+537fbcb6-a3f6-4650-89e4-8fd4ad248a92,false,Male,Senior,Obese,SE,High,Yes,60,33.1,3,$13919.82,$27840.00
+5385e127-7fe7-4c3f-a891-8b95f1edf92f,true,Male,Adult,Overweight,NW,Very Low,No,47,28.2,3,$24915.22,$49830.00
+539ea3e8-e7e2-469e-a574-1680a7ad2e73,true,Female,Youth,Obese,SE,Very Low,No,18,42.2,0,$38792.69,$38793.00
+53acae4f-e426-462a-aa32-3a2b2944d2ea,false,Female,Adult,Overweight,NW,Very Low,No,39,26.3,2,$7201.70,$14403.00
+53d72fc7-2e92-413c-aac4-2189f30accd3,false,Male,Adult,Obese,NW,Very Low,No,40,32.3,2,$6986.70,$13973.00
+5401bf12-bd97-4751-9ef9-627e29f59fd6,false,Female,Adult,Obese,SE,Very Low,No,31,36.6,2,$4949.76,$9900.00
+54233723-fc2f-4f96-9f33-b161c15c1a38,false,Male,Adult,Obese,SE,Very Low,No,43,35.3,2,$18806.15,$37612.00
+542c0ef3-bbed-4145-8635-c68015c139c5,false,Male,Adult,Overweight,NW,Very Low,No,39,26.2,1,$6123.57,$12247.00
+5476026d-8f42-4679-9d17-a8965027b893,false,Male,Adult,Normal,SE,Very Low,No,54,21,2,$11013.71,$22027.00
+5498e199-baf1-412d-a433-208e96f8164f,false,Male,Adult,Obese,SW,Very Low,No,52,36.7,0,$9144.57,$18289.00
+54a264f0-f991-4c7a-899e-7906ee8f10a6,false,Male,Youth,Normal,SE,Very Low,No,27,23.1,0,$2483.74,$2484.00
+5564a147-5f7f-4afb-b2d4-3f378b1ed358,false,Male,Adult,Overweight,SW,Very Low,No,34,27,2,$11737.85,$23476.00
+556606be-0dda-4e0f-942f-6090ef10a952,false,Female,Adult,Obese,SW,Very Low,No,30,30.9,3,$5325.65,$5326.00
+557038e0-9e23-4999-84c1-643e9279f1c5,false,Male,Youth,Overweight,NE,Low,Yes,18,26.1,0,$1708.93,$1709.00
+5573ec22-0927-4394-9873-89ab85acdef0,false,Female,Adult,Overweight,NW,Medium,Yes,50,26.2,2,$10493.95,$20988.00
+559885ef-5b4b-4589-b971-148cdd20f447,true,Female,Youth,Normal,NW,Very Low,No,27,20,3,$16420.49,$16420.00
+55c645f8-a48d-4c1b-8722-74b3307da4d4,false,Female,Youth,Obese,NW,Very Low,No,28,34.8,0,$3556.92,$3557.00
+56607d08-bf88-4b4a-a8ba-11b60b107f6e,false,Male,Adult,Obese,SE,Very Low,No,58,32,1,$11946.63,$23893.00
+567b432d-8df3-47a5-a58e-52275e7a2728,true,Male,Adult,Obese,NE,Medium,Yes,43,35,1,$41034.22,$82068.00
+5682c2b6-9eca-48fa-a411-edbf6b18870b,false,Male,Adult,Overweight,NW,Very Low,No,33,27.5,2,$5261.47,$10523.00
+569eb8ff-8b1e-4b98-a423-a5e1f12cf53c,false,Female,Senior,Obese,NE,Very Low,No,64,31.8,2,$16069.08,$64276.00
+57033718-6276-4b69-bf6d-00116b529212,false,Female,Adult,Overweight,NE,Very Low,No,55,25.4,3,$13047.33,$26095.00
+5705013e-30d6-4838-9c9a-fb01a4d2e5bb,false,Female,Adult,Obese,NE,Very Low,No,33,36.3,3,$6551.75,$13104.00
+579f1834-8078-40c2-a6eb-3e31526eaec2,false,Male,Adult,Overweight,SE,Medium,Yes,38,28.3,1,$5484.47,$10969.00
+57afa567-b964-4379-8740-d3c94a217a79,false,Female,Youth,Obese,NW,Very Low,No,19,30.6,2,$24059.68,$24060.00
+57e46d9f-c559-4ae5-b8ff-edf9f8a41c83,false,Female,Adult,Obese,NW,Very Low,No,32,33.2,3,$6128.80,$12258.00
+57e58d07-dde4-45fc-b18c-7691c12a9e77,false,Male,Adult,Normal,NW,Medium,Yes,45,21.4,0,$7222.79,$14446.00
+58089223-7a33-4a6d-af0e-9af33416e52a,false,Male,Youth,Underweight,NW,Very Low,No,26,17.7,0,$2680.95,$2681.00
+585a08d7-60e4-41ca-9a3c-35925ccd84e1,false,Male,Adult,Overweight,NW,Very Low,No,38,29.3,2,$6457.84,$12916.00
+585e0e19-4e1d-4221-a0c2-2f6b43dccd6c,true,Male,Youth,Obese,SW,Very Low,No,26,32.9,2,$36085.22,$36085.00
+586151f7-7ab3-46d3-ada7-05cc8505727b,true,Female,Adult,Overweight,SE,Very Low,No,57,29.8,0,$27533.91,$55068.00
+58b9bbab-106d-4b31-afa4-2de2e0dd64bb,false,Male,Youth,Obese,SW,Very Low,No,27,30.5,0,$2494.02,$2494.00
+58d09d02-0449-49a7-a492-abc438deb182,false,Female,Youth,Normal,SW,Very Low,No,27,24.1,0,$2974.13,$2974.00
+58d5ef04-870b-4aaf-92cc-3911a8434447,false,Female,Adult,Obese,SE,Very Low,No,41,31,0,$6185.32,$12371.00
+59020217-2b4f-4dda-8e97-1240723b76e4,true,Male,Youth,Underweight,NE,Very Low,No,18,17.3,2,$12829.46,$12829.00
+5918a4fc-db99-4c70-a308-ff34dba4451a,false,Male,Adult,Obese,SW,Very Low,No,42,34.1,0,$5979.73,$11959.00
+5960921c-9406-46d5-9fa2-7e7636e0dd65,true,Male,Adult,Obese,NE,Very Low,No,35,36.7,1,$39774.28,$79549.00
+5974399d-ba9f-439f-91d1-067e608e9fe8,false,Female,Adult,Obese,NE,Medium,Yes,59,32.4,3,$14590.63,$29181.00
+597bc8fd-339e-4067-9be1-a4ce853af7d9,false,Female,Youth,Obese,NE,Very Low,No,18,31.4,4,$4561.19,$4561.00
+59c4d952-c62b-4576-892d-a91dff7bf956,false,Male,Youth,Normal,NE,Very Low,No,18,23.8,0,$1705.62,$1706.00
+59c6159b-a4d5-4c4a-b3ff-0bdbee1f0d9d,false,Male,Youth,Overweight,SW,Very Low,No,19,28.4,1,$1842.52,$1843.00
+59cb9b28-0e89-4a5a-bfaf-a75e2e7cdbe6,false,Male,Adult,Overweight,SW,Very Low,No,44,27.4,2,$7726.85,$15454.00
+5a083b25-18c3-41bc-aeda-c13ac79f8b40,false,Female,Adult,Normal,SW,Very Low,No,51,20.6,0,$9264.80,$18530.00
+5a1a7362-b7d4-4a28-8db9-3cd8ec66994a,true,Female,Youth,Overweight,NW,Low,Yes,19,28.9,0,$17748.51,$17749.00
+5a7a88cb-21e7-421c-b8e7-e5704228be80,false,Male,Youth,Normal,NW,Very Low,No,24,23.7,0,$2352.97,$2353.00
+5aad4be4-bc1e-46e8-87d2-0b597e38294e,false,Male,Senior,Obese,SW,Very Low,No,63,39.8,3,$15170.07,$60680.00
+5ae2d8e1-2ba0-4c38-b804-aecc5acd3211,true,Male,Adult,Normal,NW,Very Low,No,30,23,2,$17361.77,$17362.00
+5af4aea3-7920-41f6-b576-96798df308f0,false,Male,Adult,Obese,SW,Very Low,No,45,33.7,1,$7445.92,$14892.00
+5b0aa5d8-758a-4720-a5f8-60c4956eb374,false,Female,Youth,Obese,SE,Very Low,No,18,39.8,0,$1633.96,$1634.00
+5bed8abd-de34-4358-9458-fe03f5642ccc,false,Female,Adult,Obese,NE,Very Low,No,52,38.4,2,$11396.90,$22794.00
+5c0a13d9-c44a-489e-88c9-7a2160f4a935,false,Male,Adult,Obese,SW,Medium,Yes,32,35.2,2,$4670.64,$9341.00
+5c1531d5-bc88-4b48-8207-871a37c58093,false,Male,Adult,Overweight,NE,Very Low,No,37,29.8,2,$6406.41,$12813.00
+5c31430f-60a6-4ed4-872e-e4a6199baace,true,Female,Youth,Normal,SE,Very Low,No,27,24.8,0,$16577.78,$16578.00
+5d7159eb-7af6-46a9-80db-b69ccef1cfbc,false,Female,Youth,Normal,SW,Very Low,No,19,23.4,2,$2913.57,$2914.00
+5d8af1b2-eace-4168-832a-1da26684d013,false,Male,Adult,Obese,SE,Medium,Yes,30,44.2,2,$4266.17,$4266.00
+5dca80f0-99f9-4918-9dee-e242f4b703ae,false,Female,Adult,Obese,SW,Very Low,No,38,34.8,2,$6571.54,$13143.00
+5e10346d-3de3-4e63-b4ff-1a52baee4c8a,true,Male,Senior,Obese,SE,Very Low,No,60,40.9,0,$48673.56,$97347.00
+5e3f6b35-f221-45ee-930d-064ad04fd4d1,true,Male,Youth,Obese,SE,Very Low,No,25,45.5,2,$42112.24,$42112.00
+5e4ed7a1-d646-4b04-89a1-d554547baf8e,false,Female,Adult,Overweight,NW,Very Low,No,53,26.6,0,$10355.64,$20711.00
+5e92fe3c-9c70-4091-9718-42623e0d2a59,false,Male,Adult,Normal,NE,Very Low,No,44,22.1,2,$8302.54,$16605.00
+5ebe2988-5382-4663-82cc-c85f4a747f57,false,Female,Adult,Overweight,NW,Very Low,No,37,27.7,3,$7281.51,$14563.00
+5ee2c245-ad54-4c88-ab71-9cbe1265aeb6,true,Male,Youth,Obese,SE,Low,Yes,24,40.2,0,$38126.25,$38126.00
+5f087000-eb8e-447b-a9b5-f6db4b438bf6,false,Female,Youth,Obese,NE,Very Low,No,27,32.4,1,$18903.49,$18903.00
+5f0c95b1-dfeb-4a63-af20-e019de50ec4e,false,Male,Adult,Overweight,NW,Very Low,No,34,25.3,1,$4894.75,$9790.00
+5f858de2-6a57-4122-9fee-5d1eac458d20,true,Male,Adult,Obese,SE,Very Low,No,45,30.4,0,$62592.87,$125186.00
+5f935d6a-76c1-42cb-bc55-a73fd7008c7d,false,Male,Adult,Obese,SE,Very Low,No,50,44.8,1,$9058.73,$18117.00
+60024119-81c2-4853-84b8-c6632f14a38d,true,Male,Adult,Overweight,SW,Medium,Yes,47,29.8,3,$25309.49,$50619.00
+602ddd32-cb31-4e72-9655-877a02e8135a,false,Male,Youth,Normal,NE,Low,Yes,23,23.8,0,$2395.17,$2395.00
+60320ce3-fcd3-42e1-b310-889ff00482be,false,Male,Youth,Obese,NW,Very Low,No,25,35.6,0,$2534.39,$2534.00
+6064a266-e19c-4e5d-98e5-1eaa0ea3b14a,false,Female,Senior,Obese,SE,Very Low,No,64,39.1,3,$16085.13,$64341.00
+6127b990-ae7d-4025-af42-23856e20a97e,false,Male,Youth,Obese,NW,Low,Yes,20,32.4,1,$2362.23,$2362.00
+613c77e6-da45-4eb7-b112-75f10bd44134,false,Female,Adult,Obese,SW,Very Low,No,35,31,1,$5240.77,$10482.00
+616d92c2-3945-4de1-8fdc-b7da8135f618,false,Male,Youth,Normal,SW,Low,Yes,28,24.3,5,$5615.37,$5615.00
+6196e6ba-5c2b-4209-bd05-19d6e48ca0f3,false,Female,Adult,Obese,NE,Very Low,No,56,32.3,3,$13430.27,$26861.00
+61e77bdc-6fc7-4548-ad38-1efb71fe5010,false,Female,Adult,Normal,NW,Medium,Yes,54,21.5,3,$12475.35,$24951.00
+623b5b8b-b985-45d0-8662-3f9d79976826,false,Female,Youth,Obese,SE,Very Low,No,28,37.6,1,$3766.88,$3767.00
+626e8582-7e17-43b0-8c2a-aad7fdd37c0e,false,Female,Youth,Obese,NW,Very Low,No,19,36.6,0,$2136.88,$2137.00
+6329cfd5-296b-4ffe-b602-5e173d6fcb34,false,Male,Youth,Underweight,NW,Very Low,No,19,17.5,0,$1621.34,$1621.00
+63788929-48df-45f9-93ab-1daa6abd1f3f,false,Female,Youth,Overweight,NW,Low,Yes,25,26.8,2,$4189.11,$4189.00
+639a9219-2773-482b-ac89-31339db670c3,true,Female,Adult,Normal,NE,Very Low,No,42,23.4,0,$19964.75,$39930.00
+6406a2f2-c9ce-4824-bc52-043113a766e5,false,Female,Senior,Underweight,NE,Very Low,No,60,18.3,0,$13204.29,$26409.00
+6437ac0e-86e8-4368-a99a-3621235cdf45,false,Female,Adult,Overweight,SW,Very Low,No,38,28,3,$7151.09,$14302.00
+64876dbd-1139-4dd3-8000-43330cad510a,false,Male,Adult,Overweight,NW,Very Low,No,37,29.6,0,$5028.15,$10056.00
+64ea12ba-57a8-4510-8f56-2572d99ba5f8,true,Female,Adult,Overweight,NW,Very Low,No,35,28,0,$20234.85,$40470.00
+64fb13c0-6c88-430a-a2bd-4b1354153808,false,Male,Adult,Obese,NE,Medium,Yes,48,30.8,3,$10141.14,$20282.00
+64fe7716-920b-427f-a46d-327bcd607381,false,Male,Adult,Obese,SE,Very Low,No,56,33.7,4,$12949.16,$25898.00
+651c83ad-3970-4c65-bfed-e0a5d68f607a,true,Male,Adult,Obese,NE,Medium,Yes,41,30.8,3,$39597.41,$79195.00
+6532ca58-4025-452f-b4ea-52efbca3d1a3,true,Male,Adult,Overweight,NW,Very Low,No,42,28.3,3,$32787.46,$65575.00
+6549901f-5387-4709-abe4-df6b1c6604e9,false,Female,Senior,Obese,SW,Very Low,No,60,35.1,0,$12644.59,$25289.00
+655a1bff-30f0-404d-a114-912efb08d18a,true,Male,Senior,Obese,NW,High,Yes,60,31.4,3,$46130.53,$92261.00
+65763898-3864-4457-a160-c883e6e6f49d,false,Male,Adult,Obese,SW,Very Low,No,47,32.3,1,$8062.76,$16126.00
+65a10f46-7479-4719-a6ce-3425de2014bb,false,Male,Youth,Normal,SW,Low,Yes,24,23.4,0,$1969.61,$1970.00
+65c54daf-48f7-476d-944b-6d2ab3bb340e,false,Female,Adult,Obese,SW,Very Low,No,49,31.9,5,$11552.90,$23106.00
+65c59304-2c51-4014-8a73-e2d0f79f41a0,false,Female,Adult,Overweight,NE,Very Low,No,47,26.6,2,$9715.84,$19432.00
+65d11fef-adb0-40c1-b0e7-3ae37a73d41f,false,Female,Adult,Obese,NW,Medium,Yes,31,32.8,2,$5327.40,$10655.00
+66160faa-c38f-49a7-b867-23a79eed22ce,true,Male,Youth,Obese,SW,Very Low,No,29,34.4,0,$36197.70,$36198.00
+66179a0c-f1cb-40fb-9fdb-0384010070a0,true,Male,Adult,Overweight,NW,Very Low,No,32,28.1,4,$21472.48,$42945.00
+66358570-4ce3-4457-bfec-0a53116ffd71,false,Female,Adult,Overweight,SE,Very Low,No,42,26.2,1,$7046.72,$14093.00
+66627158-e5a8-4348-929f-839df3728678,false,Male,Adult,Obese,NW,Very Low,No,41,30.6,2,$7256.72,$14513.00
+667b2f5f-99f4-4f2e-ba50-60dee9ac5344,false,Male,Youth,Obese,NW,Very Low,No,26,30.9,2,$3877.30,$3877.00
+66a1991c-3825-49cf-83c9-5301cea88e92,true,Male,Adult,Normal,NW,Very Low,No,45,22.9,2,$21098.55,$42197.00
+66df31a4-8c6b-4950-9fd9-1adeeb2bb0ef,false,Female,Adult,Obese,SE,Very Low,No,44,32.3,1,$7633.72,$15267.00
+66f1b02e-5fd1-4c60-8270-4b17bac6f59c,true,Male,Adult,Overweight,NW,Medium,Yes,49,25.8,2,$23807.24,$47614.00
+66f4c474-fa58-42fa-b41d-fd0b97ce3202,false,Female,Youth,Overweight,SE,Very Low,No,18,26.7,0,$1615.77,$1616.00
+6798bbc7-11d5-4743-b820-28cb00ff0e6f,false,Male,Adult,Obese,SW,Very Low,No,50,32.3,2,$9630.40,$19261.00
+67a4b9b7-783d-41a0-b0a4-1a6f8213c295,false,Female,Youth,Overweight,SW,Low,Yes,29,25.9,0,$3353.28,$3353.00
+68012bca-3f0a-40ec-ada2-3b3cfa78f123,false,Male,Youth,Obese,SE,Very Low,No,21,35.5,0,$1532.47,$1532.00
+68661e4a-95aa-48bb-b0c8-789a257eb0bd,false,Female,Senior,Overweight,NE,Very Low,No,60,27.6,0,$13217.09,$26434.00
+6874ea55-8c0a-48c7-add4-fc58bcdc9c82,false,Male,Youth,Overweight,NE,Very Low,No,21,25.7,2,$3279.87,$3280.00
+689506a7-0ab1-4a0f-8811-ef60b005e503,false,Female,Youth,Overweight,SW,Very Low,No,19,29.8,0,$1744.47,$1744.00
+68ae8edd-9c70-4bf4-ade2-f843a7d27053,false,Male,Youth,Obese,SE,Very Low,No,23,32.6,0,$1824.29,$1824.00
+69002946-6e07-4676-874a-b0d108ac2c73,true,Male,Adult,Overweight,SE,Medium,Yes,34,25.3,2,$18972.50,$37945.00
+69e9d29b-ddda-4539-91e9-da2bd540b0dc,true,Female,Youth,Normal,NE,Very Low,No,29,21.8,1,$16657.72,$16658.00
+6a21d1bc-d905-4e24-bdde-4da28f6e5daa,false,Female,Senior,Obese,NW,Very Low,No,64,33,0,$14692.67,$58771.00
+6ab91107-056c-4f97-8acb-d5f9c9af3de3,false,Female,Adult,Overweight,NW,Very Low,No,33,26.7,0,$4571.41,$9143.00
+6ae2cdbd-26cf-4f50-8c9f-a3ba72c39452,false,Female,Adult,Obese,NE,Very Low,No,42,41.3,1,$7650.77,$15302.00
+6b1e05cd-d255-498d-a300-9f235ba56908,false,Male,Adult,Obese,SE,Very Low,No,51,33.3,3,$10560.49,$21121.00
+6b22124d-0cc3-40db-970f-e28aabad6f70,false,Female,Adult,Overweight,NE,Very Low,No,56,28.6,0,$11658.12,$23316.00
+6b2cc2c6-7d6b-49f1-8fdd-ed513ca83400,false,Male,Adult,Overweight,NW,Very Low,No,36,28.6,3,$6548.20,$13096.00
+6b38a627-a3bb-4466-8580-f60f44abb80b,false,Female,Youth,Obese,NW,Very Low,No,23,35,3,$4466.62,$4467.00
+6b6f9342-cd32-47d5-8ba1-2243470d10be,true,Male,Adult,Obese,NW,Very Low,No,48,40.6,2,$45702.02,$91404.00
+6b811d31-3ab0-4d33-95f1-e435f76e9efa,false,Female,Adult,Obese,NW,Very Low,No,51,36.7,2,$10848.13,$21696.00
+6b98ead9-df4a-42c9-ba2f-b7ffbf4c1812,true,Male,Adult,Obese,SE,Very Low,No,54,30.8,1,$41999.52,$83999.00
+6bc4ad3b-bbdb-4f4f-ade5-8ee9c84b5b55,false,Male,Adult,Obese,SE,Very Low,No,44,34.3,1,$7147.47,$14295.00
+6bf7f090-9583-4650-9851-2963b20d5d2f,false,Male,Adult,Obese,SE,Very Low,No,35,34.3,3,$5934.38,$11869.00
+6c517ced-8b6f-4fb2-a3ea-5f3d268556ad,false,Female,Adult,Obese,SE,Very Low,No,41,36.1,1,$6781.35,$13563.00
+6c5eac7b-99be-4cd8-9f77-b5b40b00e6e0,false,Male,Adult,Underweight,NE,Very Low,No,57,18.3,0,$11534.87,$23070.00
+6c87cb7b-1b25-49b7-b897-2bc1afdedf14,false,Female,Adult,Normal,NE,Very Low,No,30,21.9,1,$4718.20,$4718.00
+6d1418ad-fe81-448e-896a-273b1ee6a214,false,Female,Adult,Normal,NE,Very Low,No,34,23.6,0,$4992.38,$9985.00
+6d146354-492c-4386-acc8-60681a8060ff,false,Female,Adult,Obese,NE,Very Low,No,46,32.3,2,$9411.01,$18822.00
+6d32cbd7-0100-4d46-b79a-289a05eb4656,false,Female,Adult,Normal,SE,Very Low,No,57,24,1,$22192.44,$44385.00
+6d9fb8d6-d605-4496-86dc-50295d8dc42b,false,Female,Adult,Obese,NW,Very Low,No,43,30.7,2,$8310.84,$16622.00
+6db0c1ce-d0dc-4cf8-b2c3-c17678c2e817,false,Male,Adult,Normal,NE,Very Low,No,54,24,0,$10422.92,$20846.00
+6dc82b39-eefe-4fb0-8b1d-b9824c89e10e,false,Male,Adult,Obese,NW,Very Low,No,55,32.8,0,$10601.63,$21203.00
+6df873ae-2e53-4f9a-becd-16e0143c8d56,false,Female,Senior,Obese,SE,High,Yes,63,36.9,0,$13887.97,$55552.00
+6e41e320-f3fb-419d-8a04-da2ab7c4f8cb,false,Female,Adult,Overweight,NE,Very Low,No,30,27.9,0,$4137.52,$4138.00
+6e48c9c4-26d9-4fd9-9ab6-a355a152c609,false,Male,Youth,Normal,NE,Low,Yes,22,20,3,$4005.42,$4005.00
+6ece42b0-ad09-47e5-82e5-4880e43b9570,false,Male,Senior,Obese,SW,Very Low,No,61,36.1,3,$27941.29,$111765.00
+6edba267-c17c-417f-90e3-3e13845025ac,false,Male,Youth,Normal,SW,Low,Yes,19,20.9,1,$1832.09,$1832.00
+6edc5234-07d1-4f87-9bac-247da31bbac8,false,Male,Adult,Obese,NE,Very Low,No,34,34.7,0,$4518.83,$9038.00
+6edfbe0d-208c-43c0-9fe2-b4063e6d85cc,false,Female,Youth,Overweight,NE,Very Low,No,24,26.6,0,$3046.06,$3046.00
+6f20d1e5-0b41-4563-8752-2562b284ca9b,true,Male,Adult,Normal,SW,Very Low,No,38,19.3,0,$15820.70,$31641.00
+6f2936d3-1af2-455a-ac98-43cf9dcda77c,false,Female,Youth,Overweight,NW,Very Low,No,24,29.9,0,$2850.68,$2851.00
+6f761aab-47c8-433e-9fe8-f794710e99a4,false,Male,Adult,Overweight,SW,Medium,Yes,59,27.5,1,$12333.83,$24668.00
+6f81386b-7c8b-4e80-90fa-c5bf6e7f1d48,false,Female,Youth,Overweight,NE,Very Low,No,28,28.9,1,$4337.74,$4338.00
+6fbb6776-aa22-4064-a1b1-b8fffc93c464,false,Female,Adult,Overweight,NW,Very Low,No,36,26.9,0,$5267.82,$10536.00
+6fe215e8-aab6-4444-8d64-3ae210e70576,false,Male,Adult,Obese,SE,Very Low,No,32,37.2,2,$4673.39,$9347.00
+700b7e57-9c39-4768-a2a3-e88492b395bf,false,Male,Adult,Obese,NW,Very Low,No,36,33.8,1,$5377.46,$10755.00
+702c0af3-7705-451c-9fcc-4a72cbbf02da,false,Female,Adult,Normal,NW,Medium,Yes,38,19.5,2,$6933.24,$13866.00
+705dc6bc-adf8-4225-a028-95d59c9a2e42,false,Female,Adult,Overweight,SE,Very Low,No,34,29.3,3,$6184.30,$12369.00
+7068fc5f-ea24-4b2c-bf68-921dae447ac5,false,Male,Youth,Normal,SE,Very Low,No,21,23.2,0,$1515.34,$1515.00
+709a820b-eb91-40ba-8146-211f454835fc,false,Female,Adult,Normal,SW,Very Low,No,47,24.1,1,$26236.58,$52473.00
+70c8da69-a0dc-49e1-a4ae-bce4895cc09a,true,Male,Adult,Normal,SE,Medium,Yes,53,20.9,0,$21195.82,$42392.00
+70fe1e4a-2003-4def-b7ed-7a843e0fea5d,false,Female,Youth,Obese,NW,Very Low,No,19,32.1,0,$2130.68,$2131.00
+710625b1-27f0-485b-915d-8df57e9a2773,true,Male,Adult,Overweight,NE,Very Low,No,59,29.8,3,$30184.94,$60370.00
+715b6fcb-282b-4b31-b6dd-f3c410b9702e,true,Female,Adult,Obese,NW,Very Low,No,34,30.2,1,$43943.88,$87888.00
+7181af4c-3b38-4ecd-96f1-f77e643f08ec,false,Male,Youth,Obese,SE,Very Low,No,28,38.1,0,$2689.50,$2690.00
+718d3538-d7ce-4718-bc08-bacec3293a15,false,Female,Adult,Overweight,NE,Very Low,No,36,27.7,0,$5469.01,$10938.00
+71c4b72d-88a1-4822-86d5-e7fdda612f6c,false,Female,Adult,Obese,NW,Very Low,No,35,35.8,1,$5630.46,$11261.00
+71d8977e-ed86-4d74-a01b-38a4c08d85c7,true,Female,Adult,Obese,NW,Very Low,No,57,31.2,0,$43578.94,$87158.00
+71e9e62b-fb4e-41cb-b1d9-36f38e099efc,false,Female,Adult,Obese,SW,Very Low,No,46,30.2,2,$8825.09,$17650.00
+71ec7ee3-95f0-486d-a20b-01f5a0875a61,false,Female,Youth,Normal,SW,Very Low,No,25,20.8,1,$3208.79,$3209.00
+71ef8e46-7749-4b60-b9b8-f7a777ed809e,false,Male,Youth,Obese,NW,Very Low,No,28,33.8,0,$19673.34,$19673.00
+72402813-6557-4147-8942-2c13d2e8d78c,false,Male,Adult,Obese,NE,Very Low,No,58,30.3,0,$11938.26,$23877.00
+726b6079-8131-4c06-accf-097bc7aa2685,false,Male,Adult,Overweight,NE,Very Low,No,36,28.9,3,$6748.59,$13497.00
+73044f4f-0fa1-4457-95d2-79c5c165a577,false,Female,Adult,Overweight,SW,Very Low,No,45,25.7,3,$9101.80,$18204.00
+734f8d51-23aa-4f77-ad43-22b106bbde85,false,Female,Youth,Obese,NW,Very Low,No,25,34.5,0,$3021.81,$3022.00
+7376f7ac-db10-472e-98ce-858bc1bba6c3,false,Male,Adult,Normal,SW,Very Low,No,31,20.4,0,$3260.20,$6520.00
+737d7257-1152-4ccd-b0f1-d0af2aabc76e,false,Female,Youth,Obese,SE,Low,Yes,25,42.1,1,$3238.44,$3238.00
+73aa0faf-c80a-4a87-84ab-dfa50ae9080e,false,Male,Adult,Obese,NW,Very Low,No,54,30,0,$24476.48,$48953.00
+74116b91-bd92-4cab-9e2d-d60d2763d2f2,false,Male,Adult,Overweight,SE,Very Low,No,50,25.3,0,$8442.67,$16885.00
+741ad066-689c-4597-9fd6-64607bb39044,false,Female,Youth,Normal,SW,Very Low,No,19,20.6,0,$1731.68,$1732.00
+74415cf9-e677-43be-80fe-96e993a3614f,false,Male,Adult,Obese,SE,Very Low,No,49,37.5,2,$9304.70,$18609.00
+7485fe5d-e70d-4b39-954c-04efb7c224fa,false,Female,Adult,Overweight,NW,Very Low,No,44,27.6,0,$7421.19,$14842.00
+748db412-4f03-4d1a-9d61-7b2bef9c5666,false,Male,Youth,Normal,NE,Very Low,No,27,18.9,3,$4827.90,$4828.00
+74c6ff80-f8fa-4b50-ab60-759e9989d601,false,Male,Adult,Overweight,SE,Very Low,No,57,27.9,1,$11554.22,$23108.00
+74cf8622-0bd2-4985-b264-11ebc98556ce,false,Female,Adult,Normal,NE,Very Low,No,39,22.8,3,$7985.82,$15972.00
+74fdaa3c-c804-40ff-9f90-28617f863cdd,false,Male,Youth,Obese,SW,Very Low,No,27,45.9,2,$3693.43,$3693.00
+753bce65-3578-40c0-9f2b-d0d4e7291aac,false,Male,Adult,Normal,NW,Very Low,No,39,24.5,2,$6710.19,$13420.00
+7544a847-84ca-4bfa-aed9-981025861747,false,Male,Adult,Overweight,NE,Very Low,No,30,27.6,1,$4237.13,$4237.00
+756d00bb-fcb9-43d1-b819-c23b92443b96,false,Male,Senior,Obese,NE,High,Yes,60,37,0,$12741.17,$25482.00
+758737c4-61cc-4e32-b922-1badd1778da3,false,Female,Adult,Obese,NE,Very Low,No,45,38.3,0,$7935.29,$15871.00
+76239a03-dc6b-4727-b071-dce352e98155,false,Female,Adult,Overweight,NW,Very Low,No,32,29.7,0,$4357.04,$8714.00
+76cd447f-15a0-4b39-8860-68bfc52d6946,false,Female,Adult,Obese,SW,Medium,Yes,59,32.1,3,$14007.22,$28014.00
+76eec013-de45-438f-904f-367ab7c7c1b4,false,Female,Youth,Obese,NE,Low,Yes,18,40.3,0,$2217.60,$2218.00
+77843722-44b5-4fcb-86c2-993772d2e017,false,Male,Youth,Overweight,NE,Very Low,No,18,25.5,0,$1708.00,$1708.00
+77e87b91-e065-44d5-ba11-ce125655c198,false,Male,Senior,Obese,SE,Very Low,No,64,39.2,1,$14418.28,$57673.00
+78002e33-28e8-4157-9612-4eeaa76c86d8,false,Male,Youth,Obese,NE,Very Low,No,27,32.6,3,$4846.92,$4847.00
+7809a042-85da-4251-8195-b62c32de2a64,false,Female,Adult,Overweight,SW,Very Low,No,53,26.7,2,$11150.78,$22302.00
+780f1191-0f1f-45ba-9db4-db93a150abc8,false,Male,Youth,Obese,SE,Very Low,No,18,43,0,$1149.40,$1149.00
+78552dcf-d0fb-4cee-91aa-efed6ba858a2,true,Female,Adult,Normal,SE,Very Low,No,40,22.2,2,$19444.27,$38889.00
+788ab3b6-b338-4b2e-badc-bc31f5c87caf,true,Male,Youth,Overweight,SW,Very Low,No,19,27.7,0,$16297.85,$16298.00
+789ecfe0-67d8-42c8-908a-3202eff5dc27,false,Male,Adult,Obese,SW,Medium,Yes,41,32.2,2,$6875.96,$13752.00
+78e0d5da-0c59-44e0-bcd9-b1e7105d870c,false,Female,Youth,Obese,NW,Low,Yes,21,33.6,2,$3579.83,$3580.00
+78e33cba-23fa-4ddc-970c-302ea80d84c6,true,Male,Adult,Obese,NE,Very Low,No,50,31.8,0,$41097.16,$82194.00
+78fb00e8-cf94-481e-a8c8-c80800c5e819,false,Female,Adult,Overweight,SW,Very Low,No,30,27.7,0,$3554.20,$3554.00
+790b70d8-5590-434e-a0cd-d0b57171aa18,false,Male,Youth,Overweight,SE,Low,Yes,29,27.9,0,$2867.12,$2867.00
+792e01b9-e8a2-4590-b5db-2cf6875f8b09,false,Female,Adult,Obese,NE,Medium,Yes,31,31.1,0,$4347.02,$8694.00
+79445f7c-3943-48b3-971f-ccdc16d0ca4b,true,Male,Adult,Normal,NE,Very Low,No,56,20,0,$22412.65,$44825.00
+79ada25e-c36d-4f09-835d-8ddf3bfb73eb,false,Female,Adult,Obese,SE,Very Low,No,56,41.9,0,$11093.62,$22187.00
+79bc30c0-b377-44cd-b150-18b24b6b0e89,true,Male,Adult,Obese,NW,Very Low,No,52,34.5,3,$60021.40,$120043.00
+7a0c5617-b53c-4732-9a1e-e48ec150e89c,false,Male,Youth,Obese,SE,Very Low,No,18,33.3,0,$1135.94,$1136.00
+7a6317b3-fa51-435b-9918-b863b6e87ed9,false,Male,Adult,Overweight,SW,Very Low,No,41,28.8,1,$6282.24,$12564.00
+7ad0049e-81d6-4d42-be58-5d1ce1b3e539,false,Male,Adult,Overweight,NE,Medium,Yes,42,26.1,2,$7729.65,$15459.00
+7aff814e-1f9a-4f25-a2e1-34c428ad3ce2,false,Male,Adult,Obese,SW,Medium,Yes,58,35.7,0,$11362.76,$22726.00
+7b17476f-34e8-47b6-975a-5d075d296648,false,Male,Adult,Overweight,NW,Very Low,No,59,28.8,0,$12129.61,$24259.00
+7b47f7ea-15da-478b-9557-bc314e7ee31b,false,Male,Youth,Obese,SE,Very Low,No,24,32,0,$1981.58,$1982.00
+7b85e33e-6902-4413-82ff-e60de02aa1ac,false,Female,Youth,Obese,SE,Low,Yes,18,40.3,0,$1634.57,$1635.00
+7b9ca0bf-5090-40e9-a393-b258173f7346,false,Male,Adult,Obese,SW,Medium,Yes,36,31.5,0,$4402.23,$8804.00
+7be23a3c-c08a-460e-aca6-dd4475cfcfe9,true,Female,Senior,Overweight,NW,Very Low,No,63,27,0,$28950.47,$115802.00
+7bee22a4-6ccc-4464-8c3f-4071b49d6c27,false,Female,Youth,Obese,SE,Very Low,No,20,33,0,$1880.07,$1880.00
+7c1b787d-8416-4cc6-93e0-60e4a57ffed2,false,Male,Adult,Obese,SE,Medium,Yes,34,34.2,0,$3935.18,$7870.00
+7c5651f0-82ce-4ee4-92ed-e9f0edddba6e,false,Female,Adult,Overweight,SW,Very Low,No,40,29.3,4,$15828.82,$31658.00
+7c864186-620e-464a-a9ad-586932f984cf,false,Female,Senior,Obese,SW,Very Low,No,60,30.5,0,$12638.20,$25276.00
+7ce46894-0841-4060-ab8f-2dad24f0e0ad,false,Female,Adult,Obese,NW,Very Low,No,59,31.4,0,$12622.18,$25244.00
+7ce7762a-de1f-4ff7-869c-adf80f8b7c68,false,Male,Youth,Overweight,SE,Very Low,No,25,25.7,0,$2137.65,$2138.00
+7d1109e2-19f7-4fe6-a5ce-83ac7b002821,true,Male,Adult,Obese,SE,Very Low,No,59,41.1,1,$48970.25,$97941.00
+7d1c7942-0ff0-4ace-9baa-821dda6932be,true,Female,Adult,Obese,NE,Very Low,No,37,30.8,0,$37270.15,$74540.00
+7d2d813a-7f48-43f2-b883-09d84b459c2e,false,Female,Youth,Obese,SE,Very Low,No,18,39.2,0,$1633.04,$1633.00
+7d78bca4-c818-4ff9-8baf-ca36ab65f45b,true,Female,Senior,Overweight,NW,High,Yes,61,29.1,0,$29141.36,$116565.00
+7d81a2bb-ff58-4f72-a8a6-a90d317b1b71,false,Male,Youth,Overweight,SW,Very Low,No,24,25.8,0,$1972.95,$1973.00
+7dadf9a7-2f15-400e-87f2-e2ef129d1992,false,Female,Adult,Overweight,SW,Very Low,No,58,25.2,0,$11837.16,$23674.00
+7daefba8-61c6-46d4-83bc-e376bf54788d,false,Female,Adult,Obese,NE,Very Low,No,41,33.2,3,$8538.29,$17077.00
+7dce3957-8261-48cb-ae7c-b0a930b20435,true,Female,Adult,Overweight,NW,Very Low,No,42,26.6,0,$21348.71,$42697.00
+7e18d9c2-fe10-487f-ac90-cc6a10e0bb6a,false,Male,Youth,Obese,SW,Very Low,No,27,30.3,3,$4260.74,$4261.00
+7e470f1a-dbac-4ea3-8769-1c238877a381,false,Male,Youth,Obese,NW,Very Low,No,22,31.4,1,$2643.27,$2643.00
+7e4addfc-b500-429c-a60c-a0237a3a02d7,false,Male,Youth,Overweight,NE,Low,Yes,21,26,0,$2102.26,$2102.00
+7e5b2c68-0f77-4f51-b628-a0c1f58eaea7,false,Male,Adult,Obese,SW,Very Low,No,38,31,1,$5488.26,$10977.00
+7e645a4b-9e6b-49c2-8f44-e8565e83d68c,false,Male,Adult,Obese,SW,Very Low,No,54,31.6,0,$9850.43,$19701.00
+7eb81064-9a31-4a59-b1b6-7ab6daa632a6,false,Male,Adult,Normal,NE,Medium,Yes,34,22.4,2,$27375.90,$54752.00
+7ef47316-3013-4927-b110-9425a76a2c1f,false,Male,Adult,Obese,NE,Medium,Yes,52,33.3,0,$9722.77,$19446.00
+7f497e6f-650b-4233-81c1-6212293a3744,false,Female,Youth,Normal,NW,Very Low,No,29,20.2,2,$4906.41,$4906.00
+7f60ca10-ef04-4715-9c79-7fc0936e1dc8,false,Female,Adult,Normal,SW,Very Low,No,54,23,3,$12094.48,$24189.00
+7f95a558-ee48-440b-815e-6309d1f98f51,true,Male,Adult,Obese,NE,Very Low,No,53,34.1,0,$43254.42,$86509.00
+7feb4270-c2a1-4f90-83b9-bdb81172a3c4,true,Male,Youth,Overweight,NW,Very Low,No,27,28.5,0,$18310.74,$18311.00
+7ff9cbdd-d53c-484e-9214-c5573447c43b,false,Female,Adult,Obese,NW,Very Low,No,51,36.4,3,$11436.74,$22873.00
+803cede7-1948-4a31-b575-6de1adecfd99,false,Male,Adult,Obese,NW,Medium,Yes,42,31.3,0,$6358.78,$12718.00
+8064be20-3ac0-4ca7-8701-fde77b8c0f0b,true,Male,Adult,Obese,SW,Very Low,No,31,36.3,2,$38711.00,$77422.00
+8072edee-f594-4ef1-9530-e3e2d2c46233,false,Male,Youth,Obese,SW,Very Low,No,22,34.8,3,$3443.06,$3443.00
+8079f035-cf8a-4487-b005-89f3c15ade07,true,Male,Adult,Overweight,SW,Very Low,No,49,25.6,2,$23306.55,$46613.00
+8090a891-f471-4354-bee2-769c68a0f99f,false,Male,Senior,Obese,NE,High,Yes,63,31.4,0,$13974.46,$55898.00
+80a9a103-6c55-42c9-adbb-0aa5817a181a,false,Female,Adult,Overweight,NW,Very Low,No,56,26.6,1,$12044.34,$24089.00
+80d4e337-31ca-4198-a450-2a21b85181a2,false,Female,Adult,Normal,NW,Very Low,No,39,24.2,5,$8965.80,$17932.00
+812ec584-ae8e-4584-a7cc-6c316015d332,false,Male,Youth,Obese,SE,Very Low,No,29,38.9,1,$3471.41,$3471.00
+8167690e-5794-4095-9fa4-577caefa61f0,false,Female,Adult,Obese,SW,Medium,Yes,47,32,1,$8551.35,$17103.00
+81a58279-34b4-466f-a9ac-dbe189df8636,false,Female,Youth,Overweight,SW,Low,Yes,19,28.4,1,$2331.52,$2332.00
+81d26a2f-e678-458d-ae47-4fb9bcbe0b25,false,Male,Adult,Normal,NW,Medium,Yes,30,24.1,1,$4032.24,$4032.00
+81f6ed95-d008-4292-8353-ab195f023c2f,false,Female,Adult,Overweight,NW,Very Low,No,30,28.4,1,$4527.18,$4527.00
+81ffb666-e81d-47cf-9eb6-c017bdbed44f,false,Male,Adult,Obese,NW,Medium,Yes,50,31,3,$10600.55,$21201.00
+8204543e-ebf0-44cb-9348-3dadeca97fe8,false,Female,Youth,Obese,SW,Very Low,No,24,30.1,3,$4234.93,$4235.00
+8210491f-706a-46cf-965a-71e7794e593a,false,Male,Adult,Obese,SW,Very Low,No,57,43.7,1,$11576.13,$23152.00
+821309ab-ef61-4a2f-a15d-741e61b38c42,true,Male,Youth,Obese,NW,Low,Yes,20,35.6,3,$37465.34,$37465.00
+82302ba7-863c-426e-972a-f09f9be9c30e,false,Male,Youth,Normal,NE,Low,Yes,21,20.2,3,$3861.21,$3861.00
+828298a8-cdda-49cb-84f1-31d65099faaa,false,Male,Adult,Normal,NE,Very Low,No,40,22.7,2,$7173.36,$14347.00
+8291e0c4-c6c7-4e36-ba0c-4223acf13491,false,Female,Youth,Overweight,NE,Very Low,No,27,25.2,0,$3558.62,$3559.00
+82cc9823-34f7-45b1-9331-eaf88f5a063f,false,Female,Adult,Obese,NE,Very Low,No,31,30.5,3,$6113.23,$12226.00
+8335510a-70b2-40b9-9090-0adf470edafb,false,Female,Adult,Obese,SE,Medium,Yes,46,33.4,1,$8240.59,$16481.00
+835d5d5e-b98c-4890-86d5-c90d9ad0b1ed,false,Female,Adult,Overweight,SW,Medium,Yes,38,27.6,0,$5383.54,$10767.00
+8384f02e-5507-4861-8d9b-f46718ed7e68,false,Male,Senior,Overweight,NE,Very Low,No,64,26.4,0,$14394.56,$57578.00
+83d8c40e-7bab-4f09-ae66-a9e417cd95c8,false,Male,Adult,Overweight,NW,Very Low,No,50,25.4,2,$30284.64,$60569.00
+8448d4b8-a634-416b-8cfa-168335e48698,false,Female,Adult,Obese,SW,Very Low,No,39,32.8,0,$5649.72,$11299.00
+852ab0fd-c192-4265-b7dc-37a3163376eb,false,Female,Adult,Obese,SW,Very Low,No,39,32.5,1,$6238.30,$12477.00
+85328b33-b96a-4d98-a119-51771bcf7928,false,Female,Adult,Obese,NE,Very Low,No,32,31.5,1,$5148.55,$10297.00
+8560b61e-1078-4338-96bf-994b3f491cac,false,Male,Youth,Normal,NE,Very Low,No,18,23.1,0,$1704.70,$1705.00
+8586816b-a9b5-412f-a67b-f99695880a2c,false,Female,Adult,Overweight,SW,Medium,Yes,40,27.4,1,$6496.89,$12994.00
+85a9b52a-22bd-47e5-8f40-e6ca4438e654,true,Male,Adult,Overweight,NE,Very Low,No,57,29,0,$27218.44,$54437.00
+85f09031-1476-4eac-908f-0b14b2e0a797,false,Male,Adult,Obese,NE,Medium,Yes,32,37.3,1,$4667.61,$9335.00
+86182d02-009b-47c8-8940-92039d43e3a2,true,Male,Adult,Normal,SE,Medium,Yes,51,23.2,1,$22218.11,$44436.00
+861bd2cd-c664-49c9-93c2-c294d297a3e8,false,Female,Senior,Normal,NW,High,Yes,61,21.1,0,$13415.04,$53660.00
+8629d295-a262-426a-aaf5-86a6a5b3824c,false,Female,Adult,Obese,SE,Medium,Yes,51,37.7,1,$9877.61,$19755.00
+86384a7a-5fcd-4074-a9ef-7833926ef26c,true,Female,Youth,Overweight,SE,Very Low,No,20,26.8,1,$17085.27,$17085.00
+865f047f-785c-4e37-82bc-a9710f40f8da,false,Male,Youth,Obese,SW,Very Low,No,23,32.7,3,$3591.48,$3591.00
+869314f8-4d91-45d5-bd21-5be0ecc9d16c,true,Male,Adult,Normal,SE,Very Low,No,35,24.4,3,$19362.00,$38724.00
+86df551b-9880-4205-9834-c551640c71a6,false,Female,Adult,Overweight,SW,Very Low,No,55,29.7,2,$11881.36,$23763.00
+86e1a485-5f43-4a4c-b411-520cafd8f712,false,Male,Adult,Overweight,NE,Very Low,No,53,26.4,2,$11244.38,$22489.00
+87091094-09a5-4c04-a446-54c6b011a3a6,false,Male,Youth,Normal,SW,Low,Yes,26,20.8,0,$2302.30,$2302.00
+87128224-44b8-4772-a463-ea132b97894a,false,Male,Adult,Obese,SE,Very Low,No,31,39.5,1,$3875.73,$7751.00
+87e2d956-a57e-4a30-93b4-1b9e5c9710e8,true,Male,Youth,Obese,SE,Very Low,No,22,37.6,1,$37165.16,$37165.00
+87f5c687-7ce0-421c-9069-d9ef4f20ed0e,false,Male,Youth,Overweight,SE,Very Low,No,23,26.5,0,$1815.88,$1816.00
+8870ef60-1c73-4f52-a0bb-604a1b78bd39,true,Female,Adult,Obese,NW,Very Low,No,35,34.1,3,$39983.43,$79967.00
+89162501-eb8a-47bf-82a3-3d4eafd4c0e9,false,Male,Youth,Obese,NE,Very Low,No,20,40.5,0,$1984.45,$1984.00
+897f0b36-3e3e-4b69-91ce-06b8aa6bc696,false,Male,Adult,Overweight,NW,Medium,Yes,31,25.9,1,$4239.89,$8480.00
+8a012b2f-6812-4b92-9f70-42a64b51826f,false,Male,Adult,Obese,SE,Very Low,No,30,31.6,3,$4837.58,$4838.00
+8a3a66e8-e3d5-47d0-a856-2f9a2e4adbec,false,Female,Youth,Overweight,NE,Very Low,No,18,25.1,0,$2196.47,$2196.00
+8a706f5d-6460-43a3-94db-3f27d16243d2,false,Female,Youth,Overweight,SE,Low,Yes,29,29.6,1,$3947.41,$3947.00
+8a8888a3-612b-42a5-8afb-b08dc7c0f966,false,Male,Adult,Obese,SE,Medium,Yes,56,34.4,0,$10594.23,$21188.00
+8a8a5548-3eb0-4828-8bb7-e1258ca2020a,false,Male,Youth,Overweight,NW,Very Low,No,22,28.3,1,$2639.04,$2639.00
+8aa3c0d7-8bee-431b-ae88-8a7344add73d,false,Male,Adult,Obese,SW,Very Low,No,56,39.6,0,$10601.41,$21203.00
+8ab04f40-329f-471c-beaf-895223f00714,false,Male,Adult,Underweight,NE,Very Low,No,38,16.8,2,$6640.54,$13281.00
+8aba47f4-532c-45ab-83c5-8cf46488ef99,false,Female,Adult,Overweight,SE,Very Low,No,45,28.6,2,$8516.83,$17034.00
+8afa29c2-f5b0-47b7-933b-f4683f6679ac,false,Female,Adult,Obese,SW,Very Low,No,52,31.2,0,$9625.92,$19252.00
+8b368553-f2f5-48b4-90ad-5832468b01aa,false,Female,Adult,Obese,SW,Very Low,No,52,33.3,2,$10806.84,$21614.00
+8b419fe6-b527-449a-b06f-39aa551fb0a5,true,Male,Youth,Obese,NE,Very Low,No,24,31.1,0,$34254.05,$34254.00
+8bd75698-0561-4d29-b937-56d39c48632d,false,Male,Adult,Overweight,SW,Very Low,No,46,27.6,0,$24603.05,$49206.00
+8bdea759-fc1d-4628-aac9-6341942205e5,false,Female,Adult,Normal,NE,Medium,Yes,36,19.9,0,$5458.05,$10916.00
+8bfc1094-c706-43d7-93bd-ce6ff6441983,false,Male,Youth,Normal,NE,Very Low,No,23,24.5,0,$2396.10,$2396.00
+8c069582-071b-4fb3-a4e7-2551704a18c7,false,Female,Adult,Overweight,NW,Very Low,No,46,27.7,0,$8026.67,$16053.00
+8c380ee9-6034-47b2-98e6-c7c05dcf59ca,false,Female,Adult,Obese,NW,Very Low,No,42,36.2,1,$7443.64,$14887.00
+8c8bd6f7-4685-4343-8a98-69e3ab1003d2,true,Female,Senior,Overweight,NW,High,Yes,64,26.9,0,$29330.98,$117324.00
+8ca992fb-c7fc-4c7d-ab4c-2c619896a364,false,Male,Adult,Overweight,SW,Very Low,No,50,26.6,0,$8444.47,$16889.00
+8caf0d16-8792-4cf4-b322-1a0f5cb5fb7f,false,Female,Youth,Obese,NW,Very Low,No,24,30.2,3,$4618.08,$4618.00
+8cda0fb4-8ba0-4e07-93cf-162c1200f334,false,Female,Senior,Obese,SE,High,Yes,63,36.3,0,$13887.20,$55549.00
+8d55a8fe-cbf7-4dd7-bdc5-4e95d0540698,false,Female,Senior,Obese,NW,Very Low,No,61,31.2,0,$13429.04,$53716.00
+8dc2fdfb-490c-40e4-b1c9-eb197bdce018,true,Female,Adult,Overweight,SE,Very Low,No,48,25.9,3,$24180.93,$48362.00
+8dc3e9eb-85be-4fff-8f8d-5c34c47727c2,false,Female,Adult,Obese,NW,Very Low,No,58,36.5,0,$12235.84,$24472.00
+8dd273ac-e62c-45cf-8663-c0090c9180da,false,Male,Youth,Overweight,NE,Very Low,No,25,26.2,0,$2721.32,$2721.00
+8dfb62a0-25ba-4186-8502-b9c793a15b57,false,Male,Youth,Obese,SW,Very Low,No,19,33.1,0,$23082.96,$23083.00
+8e391252-50d0-485e-bbbd-0dd27de9bb70,true,Male,Adult,Normal,NE,Very Low,No,33,24.8,0,$17904.53,$35809.00
+8e798eed-67eb-4a1c-bc63-facfb43fdea2,true,Male,Adult,Obese,NW,Very Low,No,45,36.5,2,$42760.50,$85521.00
+8e81f949-2c4b-4793-8e88-f79b956aa0d5,false,Female,Adult,Underweight,NE,Very Low,No,37,17.3,2,$6877.98,$13756.00
+8f04d85a-6450-48b8-a398-12e33342c6e6,true,Female,Adult,Obese,SE,Very Low,No,44,38.1,0,$48885.14,$97770.00
+8f21fda6-4a5e-413e-8058-e85c39d4634c,true,Female,Adult,Normal,NE,Very Low,No,33,19.1,2,$16776.30,$33553.00
+8f6b035d-e819-4eab-95e5-eed1d0888456,false,Female,Adult,Overweight,SW,Very Low,No,44,25.8,1,$7624.63,$15249.00
+8f8066be-e183-4a56-a61d-15ced33ceaa8,true,Male,Youth,Normal,NW,Very Low,No,25,24.1,0,$15817.99,$15818.00
+8f9dfa66-8709-4dba-8d59-d620d9adfb2f,false,Female,Youth,Underweight,NE,Very Low,No,21,16.8,1,$3167.46,$3167.00
+908303fc-99c7-4622-b9f9-2fcf0563b79c,true,Female,Adult,Obese,NW,Very Low,No,33,35.5,0,$55135.40,$110271.00
+90c6e18f-860a-4b66-a65e-44b4b9eaa05e,false,Male,Adult,Normal,NE,Very Low,No,44,21.9,3,$8891.14,$17782.00
+90ddfcbf-da26-4b92-961b-ebbc4af5b4fb,false,Female,Youth,Obese,NE,Low,Yes,18,30.1,0,$21344.85,$21345.00
+90e4ee4b-ea49-4a95-b890-cc9d8bea2929,false,Female,Senior,Obese,SE,High,Yes,63,35.2,1,$14474.68,$57899.00
+912cad37-5fe6-4887-8ab6-41a78d5e03c1,false,Male,Youth,Normal,SW,Very Low,No,19,20.3,0,$1242.26,$1242.00
+917b4a4f-8808-47fc-bffc-5f6bbd7bf020,false,Female,Adult,Obese,NW,Very Low,No,50,30.1,1,$9910.36,$19821.00
+91b2439e-9dbc-4ea3-9070-4020d1770dbe,false,Male,Adult,Obese,SW,Very Low,No,50,36.2,0,$8457.82,$16916.00
+91d16830-150f-409c-bf22-60afde8fd378,false,Female,Adult,Normal,NW,Very Low,No,49,22.6,1,$9566.99,$19134.00
+91e08d6f-3e05-4da3-97d5-1e50c589f295,true,Male,Adult,Obese,SE,Very Low,No,47,38.9,2,$44202.65,$88405.00
+9210894f-6428-4727-9c17-c2d6c803f488,false,Female,Adult,Obese,SE,Very Low,No,48,32.2,1,$8871.15,$17742.00
+9222c752-b7c5-495b-b83c-f03620350dc4,false,Female,Adult,Normal,NE,Very Low,No,41,21.8,1,$13725.47,$27451.00
+923258ae-b985-4869-8678-216656510056,true,Male,Adult,Overweight,NE,Very Low,No,39,26.4,0,$20149.32,$40299.00
+92495c69-5ebd-4c31-a486-3d107711a00d,false,Male,Adult,Obese,NE,Medium,Yes,31,30.9,0,$3857.76,$7716.00
+92909f27-59ba-4626-b73a-61fbea6d1805,false,Male,Adult,Normal,NE,Very Low,No,46,24.8,3,$9500.57,$19001.00
+92be0fff-e3f1-4e60-8ef8-941026240b82,false,Male,Youth,Obese,SW,Very Low,No,23,34.4,0,$1826.84,$1827.00
+9301629e-053a-4035-9480-19c050c7a085,false,Female,Adult,Overweight,NW,Very Low,No,41,28.3,1,$7153.55,$14307.00
+93360a72-bfec-45e7-bab7-579ee1f6f51f,false,Female,Adult,Obese,SW,Very Low,No,54,30.8,3,$12105.32,$24211.00
+9387813d-8954-4630-80d3-b08ccc2f0c23,false,Female,Adult,Overweight,NE,Very Low,No,48,27.4,1,$9447.38,$18895.00
+93b07e3e-a098-493d-8955-5038abffb316,true,Female,Adult,Obese,NE,Very Low,No,46,35.5,0,$42111.66,$84223.00
+93c8ca31-6aba-45dc-af42-0420df60187f,false,Female,Adult,Overweight,SE,Very Low,No,50,28.2,3,$10702.64,$21405.00
+93cb272d-f8d8-461e-af73-5bacc7f0796a,false,Male,Senior,Obese,NE,Very Low,No,63,36.8,0,$13981.85,$55927.00
+941fd626-8e8d-4de0-b8d4-23817fdf96e6,false,Female,Adult,Obese,NW,Very Low,No,41,33.1,2,$7749.16,$15498.00
+942a7dd9-1b39-434d-a563-d2ca4aa60222,false,Female,Adult,Obese,NW,Very Low,No,57,30.5,0,$11840.78,$23682.00
+942cdaa2-882e-4d53-bb8e-10d368d8c049,false,Male,Adult,Obese,NW,Very Low,No,44,39.5,0,$6948.70,$13897.00
+94347809-7ac0-455e-8833-3edb8f4e44ff,false,Female,Adult,Obese,SW,Very Low,No,45,30.9,2,$8520.03,$17040.00
+9457e621-66f1-49aa-a0ae-50835d440fcb,false,Male,Adult,Obese,SW,Very Low,No,47,36.2,1,$8068.19,$16136.00
+946e6c68-7bef-47d9-b5b5-6d287f221673,false,Female,Youth,Obese,NW,Very Low,No,26,40.2,0,$3201.25,$3201.00
+94a2d21e-05c1-426c-bdf5-c1cec41e8fca,false,Female,Youth,Normal,NW,Very Low,No,25,22.5,1,$3594.17,$3594.00
+94afd935-1e3c-4c4d-b64e-a638488b90c1,false,Female,Adult,Obese,SW,Medium,Yes,51,39.5,1,$9880.07,$19760.00
+95406739-ed88-4c56-adea-75999c86e83f,false,Female,Adult,Overweight,SW,Very Low,No,57,28.7,0,$11455.28,$22911.00
+9550a489-7a7e-4352-98ea-110ba077f9f9,false,Male,Youth,Overweight,NW,Very Low,No,25,27.6,0,$2523.17,$2523.00
+95942b56-d561-4cff-b992-cffa9f09a612,false,Female,Youth,Overweight,SE,Very Low,No,26,29.9,1,$3392.98,$3393.00
+95e19bd7-20d7-4b2b-9bc6-c32125860eb8,false,Male,Youth,Overweight,NE,Very Low,No,20,27.9,0,$1967.02,$1967.00
+95f556b7-e8c5-45cd-870b-45da8f679f82,false,Female,Adult,Overweight,NE,Very Low,No,43,25.1,0,$7325.05,$14650.00
+9604a910-c54b-463f-bca6-79f2496dc41f,false,Female,Youth,Obese,SE,Low,Yes,23,39.3,2,$3500.61,$3501.00
+96662667-9b0a-49b8-8485-d1c43c5a48e4,false,Female,Adult,Normal,SW,Medium,Yes,49,21.3,1,$9182.17,$18364.00
+967a453a-6c25-41c0-95fd-9a4a9e607e8f,false,Male,Adult,Normal,SE,Medium,Yes,42,24.9,0,$5966.89,$11934.00
+969660e6-3968-43a1-ba34-13371f06efb1,true,Female,Youth,Obese,SW,Very Low,No,23,31.4,0,$34166.27,$34166.00
+96bd5d45-ccef-486a-b8bd-51999f186c9b,true,Female,Senior,Obese,SW,Very Low,No,64,31.3,2,$47291.06,$189164.00
+974d1a24-fc4d-4d9c-aea3-97b9b638a453,false,Male,Adult,Normal,NW,Very Low,No,37,24.3,2,$6198.75,$12398.00
+97539c2f-34b1-414b-84fb-7a9384dc7826,false,Male,Adult,Obese,NE,Very Low,No,40,41.2,1,$6610.11,$13220.00
+975413f1-ffd1-4c0e-98b6-8e76c633ed27,false,Female,Senior,Overweight,SW,Very Low,No,61,28.2,0,$13041.92,$52168.00
+975f1ca3-dd67-4be1-b59f-7ee929d9db88,false,Male,Adult,Overweight,SE,Very Low,No,46,26.6,1,$7742.11,$15484.00
+97677839-e10a-486a-ab57-4e5b3319e7f9,false,Male,Adult,Normal,NW,Very Low,No,47,19.6,1,$8428.07,$16856.00
+9804d93c-bb48-405e-9a13-42030f52d11b,true,Female,Youth,Normal,SW,Very Low,No,19,21.7,0,$13844.51,$13845.00
+985d9ed5-d63f-41a4-9a6e-e077c8f91fed,false,Female,Adult,Overweight,NE,Very Low,No,45,25.2,2,$9095.07,$18190.00
+98b7a7df-78f3-4b51-be81-2a6c2548f052,true,Male,Adult,Overweight,SW,Very Low,No,54,25.1,3,$25382.30,$50765.00
+99082643-7c9b-44c1-b0ab-7323f973e0a7,false,Male,Adult,Obese,SE,Very Low,No,39,34.1,2,$23563.02,$47126.00
+991a6a88-29a6-45a5-88b0-19494ea2767f,false,Male,Youth,Overweight,NW,Very Low,No,25,26.7,4,$4877.98,$4878.00
+993ab1b5-a87b-4aab-8856-10c08ceb1aec,false,Female,Youth,Obese,NE,Very Low,No,22,34.6,2,$3925.76,$3926.00
+994db696-add7-4ff6-abfc-e3197d6380ae,false,Female,Adult,Overweight,SW,Very Low,No,31,29.1,0,$3761.29,$7523.00
+9955ea9b-78c5-458c-8fe5-2b1c111c73d0,true,Female,Youth,Overweight,NW,Very Low,No,23,28.3,0,$18033.97,$18034.00
+997e2dce-1f0d-48ec-a894-ab15e4eeb647,false,Female,Youth,Normal,NE,Very Low,No,21,22.1,0,$2585.85,$2586.00
+99f21d86-55ac-4edd-b429-ca653e99dcaa,false,Female,Youth,Overweight,SW,Very Low,No,21,26.4,1,$2597.78,$2598.00
+99f7cc15-6f5a-48a2-96bf-bdb51ee381c8,false,Female,Adult,Overweight,NE,Very Low,No,38,27.8,2,$7144.86,$14290.00
+9a341ca9-bce4-4164-bdd4-f85e0eadfe86,false,Male,Adult,Overweight,SE,Very Low,No,53,29.5,0,$9487.64,$18975.00
+9a40eb13-2aaa-49b0-9a61-7a54a2e97067,false,Female,Adult,Overweight,NW,Very Low,No,45,27.6,1,$28340.19,$56680.00
+9a40f81e-8bbe-42e0-8b00-1ca7d8cd2f95,false,Female,Adult,Obese,SW,Very Low,No,55,37.1,0,$10713.64,$21427.00
+9ab21452-2f61-4743-910a-35dd30d0f049,false,Male,Adult,Obese,NW,Very Low,No,40,30.9,4,$8162.72,$16325.00
+9b2bcdba-16dd-467a-bc4f-bf40b522276c,false,Male,Adult,Obese,SE,Very Low,No,48,40.2,0,$7804.16,$15608.00
+9b30234b-7059-4b5b-bd37-9196ce6b826a,true,Female,Adult,Normal,NE,Very Low,No,39,24.9,3,$21659.93,$43320.00
+9b44d1ec-d4a2-458e-a156-3f69fd75a6f6,false,Male,Adult,Overweight,NE,Very Low,No,31,28.5,5,$6799.46,$13599.00
+9b56e78a-642a-47d2-87f5-6ff4f6e206e5,false,Male,Adult,Obese,NE,Very Low,No,48,35.6,4,$10736.87,$21474.00
+9b58a0ef-5694-4a91-ae11-f1cc9e6f92cd,false,Female,Youth,Obese,NE,Very Low,No,20,30.6,0,$2459.72,$2460.00
+9b746ec5-c5d7-4e59-8b35-daf112d53927,false,Male,Adult,Obese,SW,Very Low,No,35,30.5,1,$4751.07,$9502.00
+9b751e7d-02d5-415f-bc74-3402b1a99ec4,false,Female,Youth,Normal,SW,Very Low,No,19,24.7,0,$1737.38,$1737.00
+9b781e28-8356-420e-80b0-5f4189b5d73b,true,Female,Youth,Normal,NE,Very Low,No,24,20.5,0,$14571.89,$14572.00
+9bcdd574-c687-4403-b66f-60e384133fc2,true,Female,Youth,Normal,SW,Very Low,No,20,21.8,0,$20167.34,$20167.00
+9bf1891a-d20f-41b9-8f2a-9d5ca761dd39,false,Male,Youth,Normal,SW,Low,Yes,19,19.8,0,$1241.57,$1242.00
+9c062156-762e-45ec-8d59-aec8cd644b4c,false,Male,Adult,Overweight,SW,Very Low,No,33,29.4,4,$6059.17,$12118.00
+9c0b9370-33fe-49cc-b8a7-28a601109c52,false,Female,Adult,Obese,NE,Very Low,No,58,31.8,2,$13607.37,$27215.00
+9c20ea8f-01bc-4913-9dd6-6a93cb3c4aa4,false,Female,Adult,Obese,SW,Very Low,No,30,32.4,1,$4149.74,$4150.00
+9c539daf-9ab1-4da2-b283-2d07b4b039b8,true,Female,Youth,Obese,NE,Very Low,No,23,36.7,2,$38511.63,$38512.00
+9c68f69c-8610-47d0-8a7b-5f72875d6e82,true,Female,Youth,Obese,SW,Low,Yes,19,34.7,2,$36397.58,$36398.00
+9c8d698f-71d2-4aec-ae84-358206b18bc4,false,Male,Youth,Obese,SE,Very Low,No,21,31,0,$16586.50,$16587.00
+9c9a022f-afa5-4b27-a657-7a6ae20f9d6b,false,Female,Youth,Obese,NW,Very Low,No,19,30.5,0,$2128.43,$2128.00
+9cd910de-d037-4431-b4f8-b974a729b689,false,Female,Adult,Normal,NW,Very Low,No,46,20,2,$9193.84,$18388.00
+9cf92130-35f9-484a-b350-6a60f999048a,false,Male,Adult,Obese,SW,Very Low,No,49,30.3,0,$8116.68,$16233.00
+9d23c62e-460e-4fdc-9dc4-90bab40f8dcf,true,Male,Adult,Obese,SW,Medium,Yes,49,30.9,0,$39727.61,$79455.00
+9d277496-2ec9-4a46-b8ea-fbddd50d2fdf,false,Female,Youth,Obese,SW,Very Low,No,20,33.3,0,$1880.49,$1880.00
+9da25c93-c9ec-47f3-af8e-e7227653890f,true,Female,Adult,Obese,SE,Very Low,No,55,35.2,0,$44423.80,$88848.00
+9dc5a5b2-8453-4607-a083-a4fafce0fd72,true,Male,Adult,Normal,SE,Very Low,No,40,19.8,1,$17179.52,$34359.00
+9dd0fd01-e795-4b47-a86b-9027bf2654bf,false,Female,Adult,Obese,SE,Very Low,No,58,39.1,0,$11856.41,$23713.00
+9dd74fc0-0d87-487c-9460-da1a6a499baa,false,Male,Adult,Overweight,NE,Very Low,No,58,25.2,0,$11931.13,$23862.00
+9e0c382c-7828-44b6-b5d3-68acc869312d,true,Male,Adult,Obese,SE,Very Low,No,56,31.8,2,$43813.87,$87628.00
+9e4d5260-5b82-4c6d-8730-094043ac050d,false,Male,Adult,Obese,SW,Very Low,No,45,30.2,1,$7441.05,$14882.00
+9e555d92-6750-4dba-bfa3-ee916f44d5af,false,Male,Adult,Obese,SE,Very Low,No,48,37.3,2,$8978.19,$17956.00
+9e668ca7-b131-4ad2-b747-1dd2f86aac23,true,Male,Youth,Obese,SE,Very Low,No,28,31.7,0,$34672.15,$34672.00
+9ea5ba66-728e-414a-95be-68d129be6308,false,Female,Adult,Obese,SW,Very Low,No,53,35.9,2,$11163.57,$22327.00
+9eab3c27-4182-4142-aa4b-d3bace087004,true,Female,Youth,Obese,SW,Very Low,No,27,31.4,0,$34838.87,$34839.00
+9ee66fc9-a42c-4dd8-a0d2-3e5c79a03e1d,false,Female,Adult,Overweight,SW,Very Low,No,37,29.5,2,$6311.95,$12624.00
+9ee89aa0-111c-4a06-965e-e9d9e51eea69,false,Male,Adult,Overweight,NW,Very Low,No,40,26.3,1,$6389.38,$12779.00
+9ee8a213-f010-4a54-81c9-47d301f4c9d2,true,Male,Adult,Obese,SE,Very Low,No,43,38.1,2,$42560.43,$85121.00
+9ef6f86e-5e79-4e74-9efb-fe4216b11987,false,Female,Adult,Obese,NE,Very Low,No,51,40.7,0,$9875.68,$19751.00
+9f0fcbb4-0ae8-4dc4-93bf-24a748b686c8,true,Female,Senior,Obese,SE,Very Low,No,60,32.5,0,$45008.96,$90018.00
+9f25c5e3-a121-48c7-ab7c-5f2886921255,false,Male,Adult,Obese,SW,Very Low,No,35,38.6,1,$4762.33,$9525.00
+9f2e4f72-ac69-4e7c-99b7-f3d0c4ca8465,true,Female,Adult,Normal,NE,Very Low,No,44,20.2,1,$19594.81,$39190.00
+9f9ffa67-f017-4e42-b897-95c059a8901e,true,Male,Adult,Overweight,SE,Very Low,No,47,25.4,1,$21978.68,$43957.00
+9fcc2392-730f-42e5-b17a-a83d51df20d4,true,Male,Youth,Obese,NW,Very Low,No,19,31.9,0,$33750.29,$33750.00
+9fd5febd-51f7-4982-aab9-5618e70cb94f,false,Female,Youth,Obese,SE,Very Low,No,29,35.5,0,$3366.67,$3367.00
+a08958a8-aa9a-49ba-8604-2939877ef6f9,false,Female,Youth,Overweight,NW,Low,Yes,19,27.9,3,$18838.70,$18839.00
+a0a4c3f1-226a-4c1a-9d65-538034f62265,false,Female,Youth,Normal,NW,Low,Yes,26,22.2,0,$3176.29,$3176.00
+a0d04360-5bd7-4edf-a5d0-f36b10f94a2a,false,Female,Youth,Overweight,NW,Very Low,No,20,29,0,$2257.48,$2257.00
+a1571732-b9eb-4fee-b710-bed32fa9c823,false,Female,Adult,Obese,NE,Medium,Yes,34,33.3,1,$5594.85,$11190.00
+a1583c89-829d-4ef0-be45-8c7dbd3a9464,true,Female,Youth,Normal,NE,Very Low,No,18,21.7,0,$14283.46,$14283.00
+a1f82419-cad8-48c6-85b4-4a83af8f7393,false,Female,Adult,Obese,NE,Very Low,No,58,33,0,$12430.95,$24862.00
+a2779e2e-ca0b-48ca-8092-fa5e2181f2ca,true,Male,Youth,Overweight,NW,Low,Yes,19,29.1,0,$17352.68,$17353.00
+a27d38a7-2d4a-49ac-9b95-6a928335bbed,true,Male,Adult,Obese,NW,Medium,Yes,46,30.5,3,$40720.55,$81441.00
+a2b9e092-7050-4c45-8ce9-c610239c1518,false,Male,Adult,Overweight,SE,Very Low,No,52,26.4,3,$25992.82,$51986.00
+a2be7288-849e-42d0-9cbe-fb5df50e74da,false,Male,Adult,Obese,NE,Very Low,No,58,34.9,0,$11944.59,$23889.00
+a2ccc961-2d4e-4759-b9bf-7e4675adbbd6,false,Female,Adult,Normal,NW,Very Low,No,53,24.8,1,$10942.13,$21884.00
+a3498ed1-f239-4cd8-b81e-d560941cbb3b,false,Male,Youth,Overweight,SW,Very Low,No,19,27.6,0,$1252.41,$1252.00
+a34f362f-5feb-4909-82d3-a6cad6ba522f,false,Female,Adult,Obese,SE,Very Low,No,48,33.3,0,$8283.68,$16567.00
+a395ba07-1204-49f5-96aa-389c862ad83a,false,Male,Adult,Normal,NW,Very Low,No,53,24.3,0,$9863.47,$19727.00
+a3a2c38c-88f8-44d3-abbe-374abd7643fb,false,Male,Adult,Obese,NW,Very Low,No,51,31.6,0,$9174.14,$18348.00
+a3c51b6a-be20-45d6-b6e8-d695c950cd99,true,Male,Adult,Obese,SW,Very Low,No,30,35.3,0,$36837.47,$36837.00
+a40dfbbf-82e6-45a5-9150-9f7172fc65ad,false,Male,Senior,Obese,SE,Very Low,No,62,31.5,1,$27000.98,$108004.00
+a41b1caa-212c-45da-8bd7-5f6c6956182b,false,Male,Youth,Obese,NW,Very Low,No,29,33.3,2,$19442.35,$19442.00
+a4382f23-4534-407e-b1d1-5646b27b8172,true,Male,Adult,Overweight,SW,Very Low,No,39,28.3,1,$21082.16,$42164.00
+a44978c0-bd6d-40d2-9889-da02f615268a,true,Female,Adult,Obese,SE,Very Low,No,51,38.1,0,$44400.41,$88801.00
+a4d0a93e-11c8-43cb-8194-4d6c0991d7f3,false,Male,Adult,Obese,NW,Medium,Yes,46,40.4,2,$8733.23,$17466.00
+a50b71c1-a5a3-4e59-b73a-066eb267ecfc,false,Female,Adult,Overweight,NW,Very Low,No,56,25.7,0,$11454.02,$22908.00
+a51e1434-3706-4f28-85f8-70feb7d8c575,false,Male,Senior,Obese,NW,High,Yes,61,38.4,0,$12950.07,$51800.00
+a5604aca-6e95-4762-b9f3-82630b8914c1,false,Male,Adult,Normal,NE,Very Low,No,51,22.4,0,$9361.33,$18723.00
+a571bfdc-0daf-4fc7-b0a6-cd9958b21ec4,true,Male,Youth,Obese,NW,Low,Yes,19,37,0,$36219.41,$36219.00
+a597c4b0-0992-458e-a7f8-8ac56ed19354,false,Female,Adult,Normal,NE,Very Low,No,47,24.3,0,$8534.67,$17069.00
+a5a662f2-35e6-4f49-8157-925a30ba0e76,false,Female,Adult,Obese,SE,Very Low,No,40,36.2,0,$5920.10,$11840.00
+a5ae21d8-dc99-4acf-8433-384b6484cad3,false,Female,Youth,Normal,NW,Very Low,No,23,23.2,2,$14426.07,$14426.00
+a5c5d1ba-dd98-4565-acc8-577730ad7080,false,Male,Youth,Obese,SE,Very Low,No,27,33.7,0,$2498.41,$2498.00
+a61d19f9-4046-4cbb-a64f-8a6ecacfa77a,false,Female,Adult,Obese,NW,Very Low,No,55,32.8,2,$12268.63,$24537.00
+a6307551-c72d-40b5-996c-c7c50b43240a,false,Female,Youth,Normal,NW,Very Low,No,19,22.5,0,$2117.34,$2117.00
+a6603577-5e7e-4184-90be-fbf9fc4ed18f,false,Female,Youth,Overweight,NE,Low,Yes,25,28.6,0,$3213.62,$3214.00
+a671e5a5-c3c4-46fb-8980-66487d86f19c,false,Female,Adult,Obese,SW,Very Low,No,34,33.7,1,$5012.47,$10025.00
+a693a0bc-3d7f-41c8-8ca2-cdd51808dd36,false,Male,Adult,Normal,NE,Very Low,No,47,19.2,1,$8627.54,$17255.00
+a6acb4e6-7181-4c73-88e7-ec1d489935ac,false,Female,Senior,Overweight,NW,Very Low,No,63,26.2,0,$14256.19,$57025.00
+a6d99c7c-7e33-47f8-9daf-2a3656cc72ad,false,Male,Youth,Overweight,SE,Low,Yes,18,26.2,2,$2304.00,$2304.00
+a70f1cc7-ed59-41c9-931f-68ec3b3ffc84,true,Female,Adult,Obese,SE,Very Low,No,43,46.2,0,$45863.21,$91726.00
+a73de83f-d79c-4ea3-9a22-fd9c380166d5,false,Male,Senior,Obese,NE,High,Yes,62,32.1,0,$13555.00,$54220.00
+a7573763-04cf-46de-9504-ce5d8d0bcffe,false,Female,Adult,Obese,SW,Medium,Yes,46,30.8,3,$9414.92,$18830.00
+a79ae3d8-4b5f-4e74-8337-0b27b12d4163,true,Female,Adult,Obese,NW,Very Low,No,40,32.8,2,$40003.33,$80007.00
+a7bb6d40-3a5b-4158-b2c8-3cafd711036a,false,Male,Adult,Overweight,NW,Very Low,No,41,28.4,1,$6664.69,$13329.00
+a7c8664b-8ec2-4a24-8fa8-7d7601112be3,false,Female,Senior,Normal,NE,High,Yes,63,23.1,0,$14451.84,$57807.00
+a7cc62c5-2a8a-4b2a-8e5e-d387b0b69c17,false,Female,Youth,Underweight,SW,Very Low,No,19,17.8,0,$1727.79,$1728.00
+a80ab007-50d7-4c66-9dc8-747a7d02b188,false,Male,Adult,Obese,SE,Medium,Yes,32,46.5,2,$4686.39,$9373.00
+a828b0c0-b10b-4209-9731-83740e829a2a,false,Female,Adult,Overweight,SW,Very Low,No,58,29,0,$11842.44,$23685.00
+a82fc754-a368-4ce5-988f-714f2178fa5c,false,Male,Senior,Obese,SW,Very Low,No,62,37.4,0,$12979.36,$51917.00
+a88c1911-30d1-403c-baff-2d2b14a78594,false,Female,Adult,Obese,SE,Very Low,No,49,36.6,3,$10381.48,$20763.00
+a8a91a3a-a56b-4cca-8335-52050814112f,false,Female,Adult,Obese,NE,Medium,Yes,43,35.7,2,$19144.58,$38289.00
+a94f0eb1-3c24-47be-93a0-48647a1c2b0d,false,Male,Adult,Overweight,NE,Very Low,No,51,27.7,1,$9957.72,$19915.00
+a9688ddf-2e8a-49bf-bc80-6a2638f5082b,false,Female,Adult,Obese,NE,Very Low,No,51,33.9,0,$9866.30,$19733.00
+aa32f868-8614-4083-990f-63f5daa8754c,false,Female,Adult,Obese,SE,Very Low,No,55,40.8,3,$12485.80,$24972.00
+aa7fad74-b15c-4a0d-b2b1-b1c6488cb14d,true,Male,Adult,Overweight,SW,Very Low,No,33,27.1,1,$19040.88,$38082.00
+aa7fbd0c-ce7f-457a-83bf-7f03a64d55ac,false,Male,Adult,Obese,NE,Very Low,No,50,32.1,2,$25333.33,$50667.00
+aae25a5a-6790-414d-b857-937cdad8d680,false,Female,Adult,Overweight,SW,Medium,Yes,31,25.8,2,$4934.71,$9869.00
+aae58091-42aa-48f2-875b-184061345b8e,false,Female,Adult,Normal,NE,Very Low,No,30,22.9,1,$4719.52,$4720.00
+ab28d83a-57fb-4626-b0f5-74354fd3ddb8,true,Female,Youth,Obese,SW,Very Low,No,25,30.2,0,$33900.65,$33901.00
+ab36fab7-e30d-4c10-9462-ac1d86578ab1,false,Female,Adult,Normal,NW,Very Low,No,54,24.6,3,$12479.71,$24959.00
+ab8bb793-791d-4242-80ea-751efdc7f4f7,false,Male,Youth,Obese,NW,Very Low,No,29,32.1,2,$4433.92,$4434.00
+ac1eedcb-ae9c-4152-b2a4-1ede66775577,false,Female,Adult,Obese,SW,Medium,Yes,32,41.1,0,$3989.84,$7980.00
+ac451c96-614e-4048-b3da-778cdd6bf04f,false,Female,Adult,Overweight,SW,Medium,Yes,44,25,1,$7623.52,$15247.00
+acc97745-0fe8-4a91-a0be-64fbfc6f2f69,false,Male,Adult,Normal,SW,Medium,Yes,46,22.3,0,$7147.11,$14294.00
+acf637f4-b26d-41f1-a7dc-9bda60d404bf,false,Female,Adult,Obese,NE,Very Low,No,48,35.9,1,$26392.26,$52785.00
+acff5fd1-0af7-4f73-8670-53873044cf9b,false,Female,Adult,Normal,SE,Medium,Yes,58,22.8,0,$11833.78,$23668.00
+ad477195-8bc3-4ae9-bded-a392080607c3,false,Female,Adult,Obese,NW,Very Low,No,53,37.4,1,$10959.69,$21919.00
+adae2ab4-5984-4bbb-b8c8-a5e3e721a0f6,false,Male,Adult,Overweight,NE,Medium,Yes,47,28.2,4,$10407.09,$20814.00
+adc3c3bd-cd1e-4072-a882-e0faf96fb0a9,false,Male,Youth,Obese,SE,Low,Yes,18,34.4,0,$1137.47,$1137.00
+aded7086-eb7d-44da-9963-71baa8753b38,false,Male,Senior,Obese,SW,Very Low,No,64,34.5,0,$13822.80,$55291.00
+adf52478-6ba3-43a0-8509-956fec258cc0,true,Female,Adult,Overweight,SE,Very Low,No,52,25.3,2,$24667.42,$49335.00
+ae094273-fcb1-4cb9-8259-6172f163e831,false,Male,Adult,Obese,SW,Medium,Yes,34,42.9,1,$4536.26,$9073.00
+ae1cba16-9a49-4d89-a80e-4e434e24a506,false,Male,Adult,Obese,SE,Very Low,No,44,38.1,1,$7152.67,$14305.00
+ae50fcde-3af0-457b-a609-b089667cf75c,true,Male,Youth,Obese,SE,Very Low,No,27,31.1,1,$34806.47,$34806.00
+ae59d8e1-805a-4e75-843d-23ac73bcc6b9,false,Female,Adult,Obese,SE,Medium,Yes,59,36.5,1,$28287.90,$56576.00
+aeb26c61-26db-481b-abff-d5b1dfe08673,false,Male,Youth,Normal,SW,Very Low,No,28,23.8,2,$3847.67,$3848.00
+aebcd09b-d564-4634-96b3-5d8d12f1d639,false,Female,Adult,Overweight,NW,Medium,Yes,55,27,0,$11082.58,$22165.00
+aed4b08d-c36e-452e-897c-03f769de6274,false,Male,Adult,Normal,NW,Very Low,No,35,24.1,1,$5125.22,$10250.00
+aed5e21d-b424-45e2-a69c-1b60f029d274,false,Female,Senior,Obese,NE,Very Low,No,62,36.9,1,$31620.00,$126480.00
+af314dcc-2482-4d04-af1e-7760b96b4637,false,Male,Adult,Obese,NW,Very Low,No,57,33.6,1,$11945.13,$23890.00
+af717011-0b31-4e92-b67a-b5f5ee96fc01,true,Male,Adult,Overweight,NW,Very Low,No,30,28.7,3,$20745.99,$20746.00
+afd81f59-fbaf-4c61-a7d7-b2b925d8f3b0,false,Male,Adult,Overweight,NW,Very Low,No,58,28.6,0,$11735.88,$23472.00
+b005606a-6328-4f70-acef-12c0d9de9808,false,Male,Adult,Overweight,NE,Very Low,No,30,25.5,0,$3645.09,$3645.00
+b00e36c7-71fb-4b01-9d7c-85d4dff217bb,false,Female,Adult,Obese,NW,Medium,Yes,37,34.1,1,$6112.35,$12225.00
+b08448f0-2486-4678-a60d-5fe388d704aa,false,Female,Youth,Obese,SE,Low,Yes,18,38.3,0,$14133.04,$14133.00
+b0eac547-e3d4-4398-a607-b6118347b3da,false,Female,Adult,Overweight,SE,Very Low,No,33,28.3,1,$4779.60,$9559.00
+b1341ad3-1cbb-4bcf-92f3-d4d77e711600,false,Female,Senior,Overweight,SW,Very Low,No,60,28.7,1,$13224.69,$26449.00
+b217bc1f-a0d8-408b-bb9c-4213f6aca5f9,false,Male,Adult,Normal,SW,Very Low,No,53,21.4,1,$10065.41,$20131.00
+b26ce958-b4c2-4c55-b401-1238b18250f1,false,Male,Senior,Obese,SE,Very Low,No,61,31.6,0,$12557.61,$50230.00
+b2fcc02d-000e-4707-aaac-f0c38636f748,false,Female,Youth,Normal,NW,Very Low,No,19,24.6,1,$2709.24,$2709.00
+b3c472ed-2553-466a-8478-c6158dc8e176,false,Female,Youth,Obese,SE,Very Low,No,29,38.8,3,$5138.26,$5138.00
+b3ff50af-f23b-418e-a9dc-ec1fa5a95417,false,Male,Senior,Normal,NW,Very Low,No,60,24.3,1,$13112.60,$26225.00
+b40ce31b-a5fa-4085-b7e1-2e67591c4ef5,false,Female,Adult,Overweight,SW,Very Low,No,49,27.1,1,$26140.36,$52281.00
+b41ae233-5d11-49e5-bbc1-38af0dd68dcc,false,Male,Adult,Obese,SE,Very Low,No,34,42.1,2,$5124.19,$10248.00
+b41f042a-231a-4a08-beed-c42f43972b0b,false,Female,Adult,Obese,SW,Very Low,No,47,36,1,$8556.91,$17114.00
+b48386c8-e87b-4c5a-9a52-4504a3e6b639,false,Male,Adult,Overweight,SW,Very Low,No,54,29.2,1,$10436.10,$20872.00
+b49dd6a7-83fb-446b-a72f-cf1cf6020058,false,Female,Adult,Obese,NE,Medium,Yes,53,33.3,0,$10564.88,$21130.00
+b4f348d1-1479-4fc5-9076-4823eb57b89b,false,Female,Adult,Overweight,NE,Very Low,No,59,26.5,0,$12815.44,$25631.00
+b513f57d-2250-48ef-a684-ae05ef191707,true,Female,Adult,Normal,SW,Very Low,No,36,22.6,2,$18608.26,$37217.00
+b51f3824-20f0-4613-8b22-0d772874dc40,false,Male,Adult,Overweight,NE,Very Low,No,55,29,0,$10796.35,$21593.00
+b521b7d7-80f6-4dc6-9fd2-62f80a978771,false,Female,Adult,Obese,NE,Very Low,No,50,44.7,0,$9541.70,$19083.00
+b53c172b-e65b-451d-a877-9b230390995a,false,Female,Adult,Overweight,SE,Medium,Yes,34,27.7,0,$4415.16,$8830.00
+b5487e03-4f1a-4754-9fe2-2dda69645a08,false,Male,Adult,Obese,SE,Very Low,No,55,38.3,0,$10226.28,$20453.00
+b5c0ddda-b55d-462e-9706-1c97b6832095,false,Female,Youth,Normal,NE,Very Low,No,25,23.5,0,$3206.49,$3206.00
+b5f733dc-5a4a-44e3-8d8d-033de32ce890,true,Male,Adult,Obese,SW,Very Low,No,42,30,0,$22144.03,$44288.00
+b5f86524-ad3b-429b-b544-3c7d9c81100a,false,Female,Adult,Obese,SE,Very Low,No,38,37.7,0,$5397.62,$10795.00
+b60b7b73-99ef-4f33-a704-fa1a9ec977cc,false,Female,Adult,Obese,SE,Medium,Yes,52,46.8,5,$12592.53,$25185.00
+b66ebec7-0ba9-49d4-a23b-9a95b15b3ed1,true,Male,Youth,Overweight,SW,Very Low,No,25,29.7,3,$19933.46,$19933.00
+b6a9ecd9-d115-416b-a96b-6382f40e10c1,false,Male,Youth,Obese,SW,Very Low,No,22,39.5,0,$1682.60,$1683.00
+b6b89dc4-caed-485d-9b66-d92ad1fe6bb0,true,Female,Adult,Normal,NE,Very Low,No,43,20,2,$19798.05,$39596.00
+b6ddf605-e208-4221-b3da-49dea05f3a95,false,Female,Adult,Obese,SE,Very Low,No,38,40.2,0,$5400.98,$10802.00
+b6e4b0dc-83c7-4ae3-96f5-905498dd9bd0,false,Female,Youth,Overweight,SE,Very Low,No,28,26.5,2,$4340.44,$4340.00
+b72ac5db-00e3-48d0-b8c1-a36602f424ee,false,Male,Adult,Normal,NE,Very Low,No,37,22.7,3,$6985.51,$13971.00
+b740e636-f56f-4273-8775-2e06060efc04,false,Female,Adult,Normal,NE,Very Low,No,57,22.2,0,$12029.29,$24059.00
+b7589cc3-11b3-4294-9637-857d0ba452b8,false,Male,Senior,Obese,NE,Very Low,No,64,38.2,0,$14410.93,$57644.00
+b7a05988-91ea-46b9-b414-76b8181cf0ae,false,Male,Adult,Obese,NE,Very Low,No,57,40.3,0,$20709.02,$41418.00
+b84e99b5-e90e-460f-9a5d-99c3a7f7c927,false,Male,Youth,Obese,NE,Very Low,No,20,30.1,5,$4915.06,$4915.00
+b877a8fd-3dfd-40d6-b082-8011889901f5,false,Female,Senior,Obese,SW,Very Low,No,63,31.8,0,$13880.95,$55524.00
+b89301c9-a589-48e9-8acb-2f9b114bcc50,false,Female,Senior,Obese,SE,Very Low,No,64,36,0,$14313.85,$57255.00
+b8a12e03-0a52-4f1d-87a8-f72448040ba6,false,Female,Senior,Obese,NE,Very Low,No,62,31.7,0,$14043.48,$56174.00
+b9248aa7-39f7-4b66-9d7e-8c421c34478e,false,Male,Adult,Overweight,SE,Very Low,No,36,29.7,0,$4399.73,$8799.00
+b9328a06-3eb2-4980-b2ff-481655164c60,false,Male,Adult,Obese,SE,Very Low,No,36,34.4,2,$5584.31,$11169.00
+b94c38f8-f88c-4293-b577-917ba8a2a9c1,false,Female,Youth,Obese,NW,Low,Yes,27,31.3,1,$3956.07,$3956.00
+b94d458e-6ea8-4979-b414-f0fdf8d41fba,false,Male,Youth,Overweight,NW,Very Low,No,19,25.6,0,$1632.56,$1633.00
+b96b6cfe-c2c0-418c-b24d-90c62969c515,false,Female,Adult,Overweight,NE,Very Low,No,56,28.8,0,$11658.38,$23317.00
+b96fe789-fbc6-432b-86dd-feddcb68f820,false,Female,Youth,Obese,SE,Very Low,No,18,38.3,0,$1631.82,$1632.00
+b97466a0-151c-428a-92ba-bd32ebab1321,false,Female,Adult,Obese,SW,Very Low,No,59,34.8,2,$36910.61,$73821.00
+b9bf20e0-6b2e-40d3-b633-6960b3a67be9,false,Male,Youth,Overweight,NE,Very Low,No,28,29.3,2,$4438.26,$4438.00
+b9d9ac4c-a75a-4c71-b7c3-290bd9fa4918,false,Female,Youth,Overweight,NE,Very Low,No,18,26.3,0,$2198.19,$2198.00
+b9f37a2d-8f52-40b3-a9f6-7aeebdf317f1,false,Male,Youth,Overweight,NW,Very Low,No,19,25.2,0,$1632.04,$1632.00
+ba55aed4-fb1a-4fb3-b138-291671107f6d,false,Female,Senior,Obese,NE,Very Low,No,60,36,0,$13228.85,$26458.00
+ba5ddb4a-a26b-4a14-bee0-9adcdb50cefb,true,Male,Adult,Overweight,NW,Very Low,No,52,27.4,0,$24393.62,$48787.00
+ba6faaa2-5fbb-4eb2-bf67-ccd3a9c4e8f8,true,Female,Adult,Normal,NE,Very Low,No,53,22.6,3,$24873.38,$49747.00
+ba7a3efd-587f-41ec-8f54-d4011afbfe5a,false,Female,Adult,Obese,SE,Very Low,No,49,42.7,2,$9800.89,$19602.00
+bac8e793-3a2d-4a17-b765-1ca3e5a867d3,false,Female,Adult,Overweight,SE,Very Low,No,47,29.4,1,$8547.69,$17095.00
+bacea731-59c7-4503-add0-6715e361dd7f,false,Male,Adult,Obese,NE,Very Low,No,54,32.8,0,$10435.07,$20870.00
+badac8cd-f1dd-41d1-a455-659c5b7c18b5,true,Male,Adult,Normal,NE,Medium,Yes,52,24.3,3,$24869.84,$49740.00
+bb08d7cb-0df9-4973-9b74-1ebe1e9ca3da,false,Male,Adult,Overweight,NE,Medium,Yes,31,26.9,1,$4441.21,$8882.00
+bb35f52f-9a42-42f7-b33f-e57b815c6df3,false,Female,Adult,Obese,NE,Very Low,No,47,33.3,0,$20878.78,$41758.00
+bb5a3514-544d-4bde-8da8-152c9734dd7e,false,Male,Adult,Overweight,NW,Very Low,No,47,29.8,3,$9620.33,$19241.00
+bb5b926b-c264-45ec-9beb-6dbe563fb33d,true,Female,Adult,Normal,NW,Medium,Yes,52,24.1,1,$23887.66,$47775.00
+bb5bc9ba-836a-4f2d-a037-4dd0c61019a0,false,Male,Adult,Obese,NW,Very Low,No,48,36.7,1,$28468.92,$56938.00
+bb7155bf-aca5-4a5e-a998-8726a0e7ae2f,false,Female,Senior,Obese,NW,Very Low,No,62,32.7,0,$13844.80,$55379.00
+bc0016d7-0254-4a0f-9fb3-be681f0bb6a9,false,Male,Youth,Obese,NW,Very Low,No,21,36.9,0,$1917.32,$1917.00
+bc5e6e0b-eb24-4214-a232-28d32df2a476,false,Male,Adult,Overweight,NW,Very Low,No,31,28.6,1,$4243.59,$8487.00
+bca7286e-34d6-4b5b-8aca-fe5802893fb7,false,Female,Adult,Overweight,NW,Very Low,No,48,28.9,1,$9249.50,$18499.00
+bcb07617-d214-4de0-a1bd-05cc0b1919b9,false,Female,Youth,Overweight,NW,Low,Yes,28,26.3,3,$5312.17,$5312.00
+bcd91cc8-6d0b-4e8a-999c-bc9cef9f676c,false,Female,Youth,Obese,SE,Low,Yes,20,31.8,2,$3056.39,$3056.00
+bcdfb0f1-0ecf-4992-afbd-dc4bbfa0d6e1,false,Male,Adult,Obese,SE,Medium,Yes,33,35.8,2,$4890.00,$9780.00
+bcec048f-035e-4bb3-85bd-42018b6a8da7,false,Male,Senior,Overweight,NE,High,Yes,60,28.6,0,$30260.00,$60520.00
+bcf760ea-07e9-4027-86c6-a0c2a2371132,false,Male,Senior,Normal,NW,High,Yes,63,21.7,1,$14349.85,$57399.00
+bd7bf956-40a6-48ae-930c-40cecca8e118,false,Male,Youth,Overweight,NE,Very Low,No,18,28.3,1,$11272.33,$11272.00
+bda145cc-d04b-420c-bd1d-2550873e4a73,false,Male,Adult,Overweight,SW,Medium,Yes,35,28.9,3,$5926.85,$11854.00
+be050552-e5e5-4bdc-8a5d-963aa7bf0df8,true,Male,Youth,Obese,SW,Very Low,No,29,35.5,2,$44585.46,$44585.00
+be45c1a1-4745-4927-9e18-acbe57efe27c,false,Female,Adult,Obese,SE,Very Low,No,48,31.1,0,$8280.62,$16561.00
+be50bbcc-f109-4005-9056-72fecd9c7a6d,false,Female,Adult,Normal,SE,Medium,Yes,44,24,2,$8211.10,$16422.00
+be575ce9-528f-4bbc-bae0-c9a41c36d513,false,Male,Youth,Normal,NW,Very Low,No,19,22.6,0,$1628.47,$1628.00
+bea83671-f86a-4297-9faf-c92d88640f22,false,Female,Adult,Overweight,SW,Very Low,No,35,27.7,3,$6414.18,$12828.00
+beb5d62e-ae27-414e-8ae7-7f8ee7de8bff,false,Male,Adult,Normal,NE,Very Low,No,45,23.6,2,$8603.82,$17208.00
+bec13a2a-1b46-4739-8e13-f3a7c239474b,false,Female,Youth,Obese,NE,Very Low,No,25,41.3,0,$17878.90,$17879.00
+bf196971-20ad-4f11-aee6-67a442ed2f27,false,Male,Adult,Obese,NE,Very Low,No,53,30.5,0,$10072.06,$20144.00
+bf246efe-9e3f-415b-932c-e377b9eecf10,false,Male,Youth,Normal,NW,Very Low,No,19,20.6,2,$2803.70,$2804.00
+bf2d0c21-da17-4d28-917f-2d8641200442,false,Female,Adult,Obese,SE,Very Low,No,35,34.2,1,$5245.23,$10490.00
+bf593917-6d46-4344-a65b-e940e567a38d,false,Female,Adult,Overweight,SW,Very Low,No,51,25.8,1,$9861.03,$19722.00
+bf6b8a2b-c6a6-4a31-aa35-408a3ab62b3c,false,Male,Adult,Obese,NW,Very Low,No,49,32.3,3,$10269.46,$20539.00
+bff8a602-0c90-473f-a2d3-2c1fe770474b,false,Female,Adult,Overweight,SE,Very Low,No,44,29.8,2,$8219.20,$16438.00
+c0554d14-7c62-4577-837c-ff01721c2967,false,Male,Youth,Normal,NE,Low,Yes,28,22.5,2,$4428.89,$4429.00
+c07e9e76-227f-4e0d-a366-05fb91b2275a,false,Male,Adult,Obese,SW,Very Low,No,33,42.4,5,$6666.24,$13332.00
+c0a24d2b-3ddb-4d9f-a2f9-3c93cf396073,true,Female,Youth,Normal,NE,Very Low,No,29,21.9,0,$16115.30,$16115.00
+c11ad619-1eb1-4696-b308-8c08569ba934,false,Male,Adult,Normal,NE,Medium,Yes,34,21.4,0,$4500.34,$9001.00
+c188cf83-7e25-4843-adf2-a082570d7988,false,Male,Youth,Overweight,SE,Very Low,No,26,29.2,1,$2902.91,$2903.00
+c1c9df51-baea-4db9-98c1-6ef16f581ae6,true,Male,Youth,Overweight,NE,Low,Yes,18,25.2,0,$15518.18,$15518.00
+c1ef26fd-843a-465e-b388-b85d31bdc737,false,Female,Adult,Normal,SW,Very Low,No,31,23.6,2,$4931.65,$9863.00
+c1ff43b9-a067-420b-bb9e-b8afaf4a95d4,true,Female,Senior,Overweight,SE,Very Low,No,61,29.9,3,$30942.19,$123769.00
+c249fd76-bf86-40ff-8c76-5c6cec08bbdd,false,Male,Adult,Obese,SW,Medium,Yes,56,36.1,3,$12363.55,$24727.00
+c2760e72-9b86-4d8b-b3ac-001a274a4974,false,Male,Adult,Obese,SE,Very Low,No,40,41.7,0,$5438.75,$10878.00
+c29186cf-b918-432a-8b0f-d054f1a4225b,false,Female,Senior,Obese,NW,Very Low,No,62,30.5,2,$15019.76,$60079.00
+c2aa56d6-1815-456a-b473-77401655d668,true,Female,Adult,Obese,SW,Very Low,No,46,34.6,1,$41661.60,$83323.00
+c2abf6ab-dd24-4526-a12e-84da10792ece,false,Male,Adult,Obese,NW,Very Low,No,34,35.8,0,$4320.41,$8641.00
+c3011532-4d6f-497d-b037-61dd1968bf92,false,Female,Youth,Obese,SW,Very Low,No,28,33.4,0,$3172.02,$3172.00
+c3d78e22-8beb-449e-aadd-8786978372ef,false,Female,Youth,Obese,SE,Low,Yes,21,34.9,0,$2020.55,$2021.00
+c41419e9-767a-40ba-a503-03255d88df59,false,Female,Adult,Overweight,SW,Very Low,No,50,25.6,0,$8932.08,$17864.00
+c453b959-3edb-4aeb-bdd9-7ee84474918c,false,Female,Adult,Normal,NE,Very Low,No,52,23.2,0,$10197.77,$20396.00
+c4552057-538d-4f5f-816a-cf5467692770,true,Male,Youth,Obese,NE,Very Low,No,23,31.7,3,$36189.10,$36189.00
+c484d69b-c29c-49ba-9149-1099ac283211,false,Male,Adult,Normal,SW,Very Low,No,56,22.1,0,$10577.09,$21154.00
+c49f25a1-6b78-47ed-bee3-f88fedf33b20,false,Female,Adult,Obese,SW,Very Low,No,41,31.6,0,$6186.13,$12372.00
+c4bb79c3-450f-4f6e-9ad5-932ffab5a070,false,Male,Adult,Obese,SE,Very Low,No,53,31.4,0,$27346.04,$54692.00
+c511a1c7-fef2-45cb-9c96-cf661a63a1bf,false,Female,Adult,Normal,SE,Very Low,No,39,23.9,5,$8582.30,$17165.00
+c541787b-11a2-4130-9e38-8d0c21be6397,false,Female,Adult,Obese,SE,Very Low,No,40,33,3,$7682.67,$15365.00
+c558054a-8fd9-4a86-83ad-93bad6be81b3,false,Female,Adult,Overweight,NE,Medium,Yes,38,27.3,1,$6555.07,$13110.00
+c5a64485-2cdd-4482-bd6f-a7e9c6712ad4,false,Male,Adult,Obese,NE,Very Low,No,57,40.9,0,$11566.30,$23133.00
+c5dec357-380e-4676-8f05-c3d107b4165a,true,Male,Adult,Obese,NE,Very Low,No,55,30.7,0,$42303.69,$84607.00
+c63fe471-fb9c-4a2c-8984-7c3947b0d3ca,false,Female,Senior,Obese,SW,Very Low,No,62,33.2,0,$13462.52,$53850.00
+c6657a79-c641-49dd-a6ef-72e9d6b81a12,false,Male,Youth,Obese,NE,Very Low,No,24,33.6,4,$17128.43,$17128.00
+c66c5986-c678-4ea1-9bd4-1a0b28fd05b2,true,Female,Adult,Overweight,SE,Medium,Yes,30,28.4,1,$19521.97,$19522.00
+c67e5090-9d46-4383-b0db-3d8892595513,false,Male,Youth,Overweight,NE,Low,Yes,29,29,1,$4040.56,$4041.00
+c6d40f9b-7023-41a8-ae75-9e530d54ffec,false,Female,Adult,Obese,NW,Very Low,No,39,31.9,2,$7209.49,$14419.00
+c6d5c4fc-7147-4080-b61a-e3b5f09766f4,false,Female,Youth,Obese,NE,Very Low,No,18,33.2,0,$2207.70,$2208.00
+c6ec3260-e379-40e0-9b0a-0fe4e82af09e,false,Male,Youth,Obese,SW,Very Low,No,23,35.2,1,$2416.96,$2417.00
+c70b87b1-00c7-410a-8637-fe577a65af1c,true,Male,Senior,Normal,SE,High,Yes,64,23.8,0,$26926.51,$107706.00
+c70be48b-7014-49b3-aff3-8b184c87d9cb,false,Female,Youth,Overweight,SW,Very Low,No,28,27.5,2,$20177.67,$20178.00
+c70d6f1e-346e-422d-825c-620821e11398,false,Male,Youth,Overweight,SE,Very Low,No,18,29.4,1,$1719.44,$1719.00
+c73f9de4-e366-4bd0-aab7-5c0b39c23e41,false,Female,Youth,Overweight,SW,Very Low,No,19,28.9,0,$1743.21,$1743.00
+c76fbb4d-de95-4a4e-9d4f-59c21ef9f5d5,true,Male,Adult,Obese,SE,Very Low,No,43,36,3,$42124.52,$84249.00
+c7e38b8f-a6da-474b-a46e-1e9ff7c6b83a,true,Male,Youth,Obese,SE,Very Low,No,25,33.3,2,$36124.57,$36125.00
+c7eff4d9-f7fc-4aea-87a3-83998e0b2e0e,true,Female,Youth,Overweight,NW,Very Low,No,19,28.3,0,$17468.98,$17469.00
+c8512c92-a7f4-4c8e-918a-4ae8bc1a14ae,false,Female,Adult,Obese,SW,Medium,Yes,33,32.9,2,$5375.04,$10750.00
+c86ac937-a922-49be-b9fb-223533f767c5,false,Female,Adult,Normal,NW,Very Low,No,57,23.2,0,$11830.61,$23661.00
+c89f6d42-0425-4d73-86b6-a107023ae3db,false,Male,Youth,Obese,SE,Very Low,No,23,50.4,1,$2438.06,$2438.00
+c91ebb39-ebc7-44e5-8b0c-758f3f8405aa,false,Male,Adult,Overweight,NW,Medium,Yes,32,28.9,0,$3866.86,$7734.00
+c9327d87-7534-43b8-8fdd-eff28096defc,true,Male,Senior,Obese,SW,Very Low,No,60,32.8,0,$52590.83,$105182.00
+c968822e-04a0-4d54-96a3-13a62d2435e1,false,Male,Adult,Overweight,NW,Very Low,No,49,28.7,3,$10264.44,$20529.00
+c9729584-69c9-4e05-97b9-cef3f68bfbb0,true,Female,Youth,Overweight,SE,Very Low,No,18,27.3,3,$18223.45,$18223.00
+c98e264c-a02f-4659-a241-12b868433a34,false,Male,Youth,Overweight,NW,Very Low,No,23,27.4,1,$2789.06,$2789.00
+c9938046-cad3-4214-83cb-0237f6286f8c,true,Male,Adult,Overweight,SW,Very Low,No,48,28,1,$23568.27,$47137.00
+c9b96938-5988-4187-8ed0-3795513d5f6e,false,Male,Youth,Obese,SE,Very Low,No,18,53.1,0,$1163.46,$1163.00
+c9c178bb-1c4e-4ae3-9f1d-bc8733b9599e,false,Female,Adult,Obese,NE,Very Low,No,52,30.9,0,$23045.57,$46091.00
+c9c72e87-3d85-40a9-b045-0b65a864be91,false,Male,Adult,Obese,SW,Very Low,No,37,30.8,0,$4646.76,$9294.00
+c9dc2ff1-210d-4d16-b05a-a8e6877fd568,false,Male,Youth,Obese,SE,Very Low,No,18,33.8,1,$1725.55,$1726.00
+c9f763ea-b2a2-4df3-b707-c484280994aa,false,Male,Adult,Obese,SW,Very Low,No,32,31.5,1,$4076.50,$8153.00
+ca317de3-5cbc-467a-b0fb-32d0781055f0,false,Male,Senior,Overweight,SE,Very Low,No,60,25.7,0,$12142.58,$24285.00
+ca799b97-11e5-4aeb-94eb-c2f8fbc933e1,false,Female,Adult,Overweight,SE,Medium,Yes,32,29.6,1,$4562.84,$9126.00
+cad257db-f537-4f4f-9aa2-ebe331150e19,true,Female,Youth,Normal,NW,Very Low,No,20,22.4,0,$14711.74,$14712.00
+cad2ba63-6ad2-4ec6-b3b2-4ee3d62af410,false,Female,Adult,Overweight,SE,Very Low,No,41,28.1,1,$6770.19,$13540.00
+caed5198-b6eb-40ed-bf48-c68a2e6e34c2,false,Male,Youth,Obese,NE,Very Low,No,26,32.5,1,$3490.55,$3491.00
+cb4798c9-0aa4-4e3f-9c39-87baab2d110b,false,Female,Adult,Overweight,NE,Very Low,No,57,28.8,4,$14394.40,$28789.00
+cb4c65e4-71b9-4859-81e9-9ba1774735cb,false,Female,Youth,Obese,SE,Very Low,No,25,34,1,$3227.12,$3227.00
+cb702125-2a0a-4ebd-ba6f-2813b470c67e,false,Female,Youth,Normal,SW,Low,Yes,22,24.3,0,$2150.47,$2150.00
+cbb95ad8-bbff-47d7-97b9-9d40f12e6c63,false,Male,Adult,Overweight,NW,Very Low,No,46,25.7,3,$9301.89,$18604.00
+cbb9ec1c-0497-4e9e-9b0c-a0c698fc9042,false,Female,Youth,Normal,NE,Very Low,No,22,23.2,0,$2731.91,$2732.00
+cbe03e8b-eba4-4c1f-917b-02f015be14b9,false,Male,Youth,Obese,SE,Low,Yes,20,31.1,2,$2566.47,$2566.00
+cc0edd92-2b2f-4b33-bbbc-7c32b9d23f2d,false,Male,Adult,Overweight,NW,Very Low,No,38,27.8,2,$6455.86,$12912.00
+cc35cb8f-5265-44e0-b1f9-b5989b3997ac,false,Female,Adult,Overweight,SE,Very Low,No,50,27.8,3,$19749.38,$39499.00
+ccec848f-362d-417c-8598-50c0c2ca2532,false,Male,Adult,Obese,SE,Very Low,No,58,36.1,0,$11363.28,$22727.00
+ccf8d8c5-46ac-41ab-a326-96de77507b74,false,Male,Youth,Obese,SE,Very Low,No,26,35.4,0,$2322.62,$2323.00
+cd13ee65-2d15-44b2-95d1-29e94ae1d223,false,Male,Adult,Obese,SE,Very Low,No,58,49.1,0,$11381.33,$22763.00
+cdab7c9a-42f3-491d-a60b-abb976df3e0a,true,Female,Adult,Normal,NW,Very Low,No,43,24.7,2,$21880.82,$43762.00
+cdad8fab-07b7-4b8a-b3ae-8e4414417135,true,Male,Youth,Overweight,NW,Very Low,No,19,26,1,$16450.89,$16451.00
+cdf49bee-9b61-4f7a-9e7d-519312cfa9f3,false,Female,Adult,Obese,NE,Very Low,No,42,33.2,1,$7639.42,$15279.00
+ce0cb2d0-ad8a-4f18-be78-80a0904d1e3f,true,Female,Adult,Obese,SE,Very Low,No,44,43.9,2,$46200.99,$92402.00
+ce19a3c8-4f3c-42c4-94bf-e5be329bb3cb,false,Male,Adult,Overweight,SE,Very Low,No,48,29.7,0,$7789.64,$15579.00
+ce28efd3-abc2-4b58-9aca-fc0ce5cd1e9c,true,Male,Adult,Normal,SW,Very Low,No,30,24.4,3,$18259.22,$18259.00
+ce5c2aa9-210e-4682-9652-770e33fa5e01,false,Male,Adult,Overweight,NE,Very Low,No,41,29.6,5,$9222.40,$18445.00
+ce76c7d9-7c57-4a63-82c4-80ef217b5b29,false,Male,Youth,Overweight,NE,Very Low,No,25,25,2,$23241.47,$23241.00
+ce8dbdf7-19bf-4a7e-b2a3-9dd3a98dfee8,false,Female,Youth,Overweight,SW,Low,Yes,22,27.1,0,$2154.36,$2154.00
+ce96aa63-34be-4dac-82c9-9b8e2d256d71,false,Female,Adult,Obese,NW,Very Low,No,58,33.4,0,$12231.61,$24463.00
+cea6ecfd-f2c9-4abc-abeb-323b5eb131cf,false,Female,Youth,Obese,NW,Low,Yes,21,32.7,2,$26018.95,$26019.00
+ceaf2261-5ad6-42d5-befb-4177c6ab2ec8,true,Male,Adult,Overweight,NE,Very Low,No,35,27.7,2,$20984.09,$41968.00
+ceb21ccb-c2be-4c38-8c0f-e0c9d60b168e,false,Female,Youth,Overweight,SE,Low,Yes,26,29.9,2,$3981.98,$3982.00
+cf8c0ac2-b079-4aa3-8839-318f32cc6a39,false,Female,Youth,Normal,NW,Low,Yes,27,21.5,0,$3353.47,$3353.00
+cfc08a19-a8c4-44c3-847b-e4bf80256cbf,false,Male,Senior,Overweight,SW,Very Low,No,60,28.9,0,$12146.97,$24294.00
+cfdeef56-0dbb-439b-ad91-e98cfd094876,false,Female,Adult,Obese,SW,Medium,Yes,55,30.5,0,$10704.47,$21409.00
+d0089d75-7fd2-4f7d-83b9-8f06d914ae97,false,Female,Adult,Obese,NE,Very Low,No,57,34.3,2,$13224.06,$26448.00
+d050b9fb-34d3-4e21-9e93-66b39d615115,false,Male,Adult,Overweight,NE,Medium,Yes,36,27.6,3,$6746.74,$13493.00
+d072cfb8-a695-4007-a711-b640f2c49d83,false,Male,Adult,Overweight,SW,Medium,Yes,48,29.6,0,$21232.18,$42464.00
+d078a60c-396e-411b-aa16-6f3a2cda3cf4,false,Male,Adult,Obese,NW,Very Low,No,54,33.6,1,$10825.25,$21651.00
+d07be0f0-d18b-4f18-bf9b-cfbab70b82ca,false,Male,Adult,Obese,SE,Medium,Yes,44,30.7,2,$7731.43,$15463.00
+d09b441c-6ca3-4612-ab3d-7943d00c008b,false,Female,Adult,Normal,NE,Very Low,No,34,19,3,$6753.04,$13506.00
+d0af45bf-46f7-4887-bd56-04e2b0b7bd3c,false,Male,Adult,Obese,NE,Medium,Yes,46,33.4,1,$8334.59,$16669.00
+d0fb576b-6924-4d6b-a436-f271b46db52a,false,Female,Youth,Obese,SW,Very Low,No,26,42.4,1,$3410.32,$3410.00
+d14b8519-8293-4107-877f-380cd08a7868,false,Male,Adult,Overweight,SW,Very Low,No,35,27.1,1,$4746.34,$9493.00
+d1586781-3d39-4ae8-bdf2-9b53de37ac06,false,Female,Senior,Obese,NE,Very Low,No,62,38.1,2,$15230.32,$60921.00
+d1659ac2-1651-4c7b-96b3-be2abf453715,false,Female,Adult,Normal,SW,Very Low,No,33,18.5,1,$4766.02,$9532.00
+d16a9377-c322-49ec-9af7-1bd949d8d656,false,Male,Adult,Normal,SW,Very Low,No,55,21.5,1,$10791.96,$21584.00
+d1c284d3-e310-4c7e-ae15-e8943ada37bf,false,Male,Adult,Obese,SE,Very Low,No,51,36,1,$9386.16,$18772.00
+d1c5ecdc-00a5-40d7-a333-9f84933e8d7a,true,Male,Senior,Obese,SW,Very Low,No,61,36.3,1,$47403.88,$189616.00
+d1d78273-b00e-4f06-a7e8-81765ac46c61,false,Male,Adult,Obese,NW,Very Low,No,43,30.1,3,$8410.05,$16820.00
+d1dce626-0a9d-4bea-84c0-91e11a61e687,true,Male,Youth,Obese,SW,Very Low,No,22,35.6,0,$35585.58,$35586.00
+d1ff1e0e-afd2-471c-9b55-1b91512dfc14,false,Male,Adult,Obese,NW,Very Low,No,48,32.3,1,$8765.25,$17531.00
+d21852de-5d2a-4fec-9a3f-da3f6fe6ea52,false,Male,Adult,Overweight,NW,Very Low,No,50,26.4,0,$8827.21,$17654.00
+d24bd4a3-831f-4a71-b11b-30e5ebdec5c4,false,Female,Youth,Obese,SW,Very Low,No,19,32.9,0,$1748.77,$1749.00
+d2629c52-5f6f-4a88-ba49-02e938f7ec7a,false,Male,Adult,Normal,NW,Medium,Yes,51,24.4,4,$11520.10,$23040.00
+d28a7ea2-f9b4-4fc5-9931-0d32f5dfbcd7,false,Female,Adult,Obese,SW,Very Low,No,56,35.8,1,$11674.13,$23348.00
+d32a867a-669f-4797-9894-d8a0b81e1ce8,true,Male,Youth,Obese,SE,Very Low,No,22,52.6,1,$44501.40,$44501.00
+d33eb890-d984-4720-bc70-3dd389457fa7,true,Male,Adult,Obese,NE,Very Low,No,37,34.2,1,$39047.29,$78095.00
+d3496c6b-5e25-4270-be1e-6da80466ad36,false,Female,Youth,Obese,SE,Low,Yes,18,37.3,1,$2219.45,$2219.00
+d352b1f1-963c-4f89-a2e8-76362998bd2f,false,Male,Adult,Obese,NE,Very Low,No,45,39.8,0,$7448.40,$14897.00
+d3825bf8-0274-4077-8a55-52fe0fc9c249,true,Male,Youth,Obese,SE,Low,Yes,18,38.2,0,$36307.80,$36308.00
+d397374c-f077-40c9-ae32-ef2bb486ce75,false,Male,Youth,Obese,NE,Very Low,No,25,30.6,0,$2727.40,$2727.00
+d3b04ea9-3511-44ff-a667-ea57a5374b87,false,Female,Senior,Overweight,NW,Very Low,No,60,25.8,0,$28923.14,$57846.00
+d3c087bb-dd8d-4461-9c18-b19ee92232b7,false,Female,Adult,Obese,NW,Very Low,No,31,32.7,1,$4738.27,$9477.00
+d3cadc9f-12a6-4df3-a3b9-a08c15627bbe,false,Female,Senior,Normal,NE,Very Low,No,63,21.7,0,$14449.85,$57799.00
+d3d90fcb-7178-4843-878a-0480570b6c9e,false,Female,Youth,Obese,NE,Very Low,No,18,30.1,0,$2203.47,$2203.00
+d3edcbd5-3978-4b0f-b3d7-b38bd14fbd8e,true,Male,Youth,Obese,SW,Very Low,No,19,34.9,0,$34828.65,$34829.00
+d3fdaa14-f6d2-47a0-899f-b09949ad58cc,false,Female,Adult,Obese,SE,Very Low,No,45,31.8,0,$17929.30,$35859.00
+d4203fc2-cdf6-48cb-b1e4-8102e1e007e7,false,Female,Senior,Obese,SW,Very Low,No,61,44,0,$13063.88,$52256.00
+d4d8c672-8b11-416f-b0af-67f1d83779d5,false,Male,Youth,Normal,SW,Very Low,No,19,20.7,0,$1242.82,$1243.00
+d4e63638-a702-4fbd-9a04-9a5842e1060c,true,Female,Adult,Obese,SE,Very Low,No,30,39.1,3,$40932.43,$40932.00
+d530777a-0145-44e9-98fb-acb80b423f60,false,Female,Youth,Overweight,SE,Very Low,No,22,28.8,0,$2156.75,$2157.00
+d5464084-f414-470b-9d87-a4882c161cbf,false,Female,Youth,Underweight,SW,Very Low,No,21,17.4,1,$2585.27,$2585.00
+d57e6bf8-7715-4447-a927-935420a0069f,false,Male,Youth,Obese,NW,Very Low,No,22,32.1,0,$2055.32,$2055.00
+d5c0bfa1-2337-48cf-8bb8-3b27a0f71ac7,false,Male,Adult,Obese,SE,Very Low,No,41,33.6,0,$5699.84,$11400.00
+d5ce7064-0f45-4cbd-81fe-6ac262de356d,false,Male,Adult,Obese,SE,Very Low,No,42,37.2,2,$7162.01,$14324.00
+d5f0514f-60cd-4503-94fb-777f66904ff3,false,Male,Youth,Obese,SE,Very Low,No,25,33.7,4,$4504.66,$4505.00
+d633d0c4-ca7e-472c-a8cb-cd28b9d756ea,false,Female,Adult,Obese,SW,Very Low,No,45,35.3,0,$7348.14,$14696.00
+d641d941-42b5-4dc9-a0de-abf77dbefaf7,false,Male,Adult,Overweight,SW,Very Low,No,45,28.7,2,$8027.97,$16056.00
+d6647ede-01b6-4dc8-b9fb-0be4bd99bac5,true,Male,Adult,Obese,NE,Medium,Yes,44,31.4,1,$39556.49,$79113.00
+d67d64eb-7264-43c7-834f-d285b40c03d8,false,Female,Youth,Obese,SE,Very Low,No,24,39.5,0,$2480.98,$2481.00
+d6ade3cd-797d-4b4a-a318-8161817da0e8,false,Female,Adult,Obese,NW,Very Low,No,44,37,1,$8023.14,$16046.00
+d76b8301-fc75-4125-8dca-e2cab6bac649,false,Female,Adult,Obese,SE,Very Low,No,43,35.6,1,$7345.73,$14691.00
+d7e52b07-d966-4e0f-a1b4-dc97145a387a,true,Female,Adult,Normal,SE,Very Low,No,53,22.9,1,$23244.79,$46490.00
+d7f71f82-9fa3-4caf-85ae-13e737415edb,false,Male,Youth,Overweight,NE,Very Low,No,27,26,0,$3070.81,$3071.00
+d86877a9-d718-4f6e-89e0-7c470e471b5b,false,Male,Youth,Overweight,NW,Very Low,No,20,29.7,0,$1769.53,$1770.00
+d8b51434-7744-4be3-91ae-83804c05111f,false,Male,Youth,Obese,NE,Low,Yes,18,39.1,0,$12890.06,$12890.00
+d8cf319d-2ee4-4e9d-a334-aee2d78adba4,false,Female,Adult,Overweight,SE,Very Low,No,32,28.9,0,$3972.92,$7946.00
+d8ec99b3-d701-4846-89ac-7a6c22013f80,true,Female,Senior,Obese,SW,High,Yes,64,33.8,1,$47928.03,$191712.00
+d9a8ffde-5e2c-44c4-a285-216e099913aa,false,Female,Youth,Obese,NW,Low,Yes,19,39.6,1,$2730.11,$2730.00
+d9b6e8f7-e9ec-4330-ae60-89375d3cdc99,false,Male,Youth,Obese,NW,Very Low,No,21,31.3,0,$1909.53,$1910.00
+d9e5f496-b449-47a1-8705-e7be1a4c48a9,false,Male,Adult,Obese,SW,Very Low,No,51,39.7,1,$9391.35,$18783.00
+dacd2169-eb55-4735-9181-94d021734c0b,false,Female,Adult,Obese,SE,Medium,Yes,51,34.1,0,$9283.56,$18567.00
+dae25a89-7171-48a9-8bdb-05d869959cee,false,Male,Adult,Obese,SE,Very Low,No,37,36.2,0,$19214.71,$38429.00
+daf77741-4ef1-4388-95a9-4c7972b90d77,false,Male,Youth,Obese,SE,Very Low,No,18,35.2,1,$1727.54,$1728.00
+daf7de16-f6d3-402a-9aef-fe5fe4e5c158,false,Male,Adult,Overweight,NE,Very Low,No,47,25.5,2,$9225.26,$18451.00
+db5e1b5b-f7f1-48d8-8afb-228adff31c77,false,Female,Adult,Overweight,SW,Very Low,No,43,29.9,1,$7337.75,$14676.00
+db8c52da-f67d-4548-ada9-a40288b49a7e,true,Male,Youth,Overweight,NE,Low,Yes,24,28.5,0,$35147.53,$35148.00
+db998f25-8ecd-4305-9b4b-c9cb653e80f4,false,Female,Youth,Obese,SW,Very Low,No,26,34.2,2,$3987.93,$3988.00
+dbb19179-d30a-4955-9ed3-3c07c642fca6,false,Female,Adult,Overweight,SW,Very Low,No,55,26.8,1,$35160.13,$70320.00
+dbbf5fb8-fb5d-4d2c-bba3-e851ec4d9371,false,Male,Senior,Obese,SE,Very Low,No,62,39.9,0,$12982.87,$51931.00
+dc06f389-66a6-491f-b2ec-cb381a51e0d5,false,Female,Adult,Overweight,SE,Very Low,No,31,25.7,0,$3756.62,$7513.00
+dc2a1b14-7748-48fc-a7eb-04caf1a82095,true,Male,Adult,Obese,SE,Very Low,No,57,42.1,1,$48675.52,$97351.00
+dc43087e-c59d-4426-959b-49862ff5219c,false,Male,Adult,Obese,SW,Very Low,No,38,34.7,2,$6082.41,$12165.00
+dc9511e3-857e-4185-9b4a-e2134be4ebbe,false,Female,Adult,Obese,NW,Very Low,No,54,35.8,3,$12495.29,$24991.00
+dcb8f990-08ad-401b-a892-a3e402c9a0b9,false,Female,Youth,Overweight,SW,Very Low,No,23,28,0,$13126.68,$13127.00
+dccd7102-a5eb-4e11-9478-1c8792d30d14,true,Male,Adult,Obese,SE,Very Low,No,47,36.1,1,$42211.14,$84422.00
+dd1bcf83-2f52-44ca-9380-1a37428fb2ff,false,Female,Adult,Overweight,SW,Very Low,No,53,28.1,3,$11741.73,$23483.00
+dd23b322-e26c-454b-a2ae-7475504abf7c,false,Male,Senior,Normal,NW,Very Low,No,64,24.7,1,$30166.62,$120666.00
+dd7d751e-401e-4d38-a0c2-e3134e2f5d7d,false,Male,Adult,Obese,NE,Very Low,No,40,34.1,1,$6600.21,$13200.00
+ddd3b3f3-a322-4371-b0ba-ab497dbb533b,false,Female,Adult,Obese,NW,Very Low,No,48,41.2,4,$11033.66,$22067.00
+ddf03c74-856a-4ff2-b531-8678232df5d2,true,Female,Adult,Obese,NE,Very Low,No,59,36.8,1,$47896.79,$95794.00
+ddfaa0eb-026a-45f3-b1e5-048314e1a7c0,false,Female,Adult,Obese,SW,Very Low,No,41,37.1,2,$7371.77,$14744.00
+ddfdce09-0e0d-4343-adec-a15c99fdbf41,false,Male,Adult,Obese,SW,Very Low,No,48,34.3,3,$9563.03,$19126.00
+de085e0f-6bd4-4757-871d-32d4fe4a4404,false,Male,Adult,Obese,SW,Very Low,No,42,35.8,2,$7160.09,$14320.00
+de4c6dee-7701-4615-90e7-9dd3f1611c0a,true,Male,Youth,Obese,SW,Very Low,No,20,39.4,2,$38344.57,$38345.00
+de971cb5-fa9e-4261-9a77-a158f6463cb7,false,Female,Adult,Obese,NW,Very Low,No,38,40.6,1,$6373.56,$12747.00
+dec7df30-14cb-41ce-a461-3233d2f96454,false,Female,Youth,Obese,SE,Very Low,No,24,34,0,$2473.33,$2473.00
+df239b79-5f1b-4e43-b10c-a1a1835bb106,false,Female,Adult,Overweight,NW,Very Low,No,50,28.1,3,$11085.59,$22171.00
+df4848e8-a2a2-4d46-b95c-e1c88cc4ff7d,true,Female,Adult,Overweight,NE,Very Low,No,43,25.3,1,$21771.34,$43543.00
+df5ed09b-98fa-412e-8d0e-0e1f1e81e9a2,false,Female,Youth,Obese,NE,Very Low,No,18,30.3,0,$2203.74,$2204.00
+dfa44572-a6db-4286-9dce-9cf7bf02c951,false,Male,Adult,Obese,NE,Very Low,No,55,35.2,1,$11394.07,$22788.00
+dfbb7990-2863-4c98-8edf-043e2661ce1d,false,Female,Adult,Overweight,SE,Very Low,No,31,29.3,1,$4350.51,$8701.00
+dfeec1c5-031f-476d-b01d-1a1e8ec96273,true,Female,Senior,Obese,SW,Very Low,No,63,37.7,0,$48824.45,$195298.00
+e0133b49-a106-4874-8cbd-d4354713b84d,false,Male,Adult,Obese,SW,Very Low,No,34,32.8,1,$14358.36,$28717.00
+e055b1e5-d912-4cb6-b8c4-c703658e3b93,false,Female,Adult,Normal,NW,Very Low,No,49,23.2,2,$10156.78,$20314.00
+e0a2945e-c56d-4843-bb8e-ec3c4bca473c,true,Female,Adult,Normal,NE,Medium,Yes,49,23.8,3,$24106.91,$48214.00
+e0a70a76-c00d-408f-a68e-e089b02e4611,false,Female,Youth,Overweight,SW,Very Low,No,20,29.6,0,$1875.34,$1875.00
+e0df23ae-ede4-4228-9ed9-43b25e25e848,false,Male,Adult,Obese,NW,Very Low,No,54,30.2,0,$10231.50,$20463.00
+e0dfccca-f56e-4ca7-9e49-5248e59680f3,false,Male,Youth,Obese,NW,Very Low,No,19,30.6,0,$1639.56,$1640.00
+e1659f10-40e1-4a3d-9931-44802f593ce1,false,Female,Adult,Overweight,SW,Very Low,No,34,27.5,1,$5003.85,$10008.00
+e1781c88-380f-48d0-82bb-00307a7d8f4b,false,Female,Youth,Overweight,SW,Very Low,No,28,25.8,0,$3161.45,$3161.00
+e194b80b-5968-4543-ab19-3f98a53afbcb,false,Female,Adult,Obese,SW,Very Low,No,42,37.9,0,$6474.01,$12948.00
+e19f5f84-1a77-4e1d-bb3f-b1d413060b7f,true,Male,Adult,Normal,NE,Very Low,No,45,22.9,0,$35069.37,$70139.00
+e1b54867-79c3-4af9-92d6-10db083f6c47,false,Female,Adult,Overweight,NW,Very Low,No,40,28.7,3,$8059.68,$16119.00
+e1ba4cd1-dffc-413f-a17e-487912c9b377,false,Female,Adult,Underweight,NW,Medium,Yes,51,18.1,0,$9644.25,$19289.00
+e1e611ea-60de-40f8-bf51-6eac4d749052,false,Female,Adult,Obese,SW,Very Low,No,41,32.2,1,$6775.96,$13552.00
+e20c8b15-ccc3-4a25-82b8-a65231080f2e,false,Female,Adult,Obese,SW,Very Low,No,57,38,2,$12646.21,$25292.00
+e2502867-918d-4e78-8601-7ead8cde8ee5,true,Male,Adult,Obese,SE,Very Low,No,41,35.8,1,$40273.65,$80547.00
+e2afa0cc-4adb-43f0-af71-ddeb0c0177f7,false,Female,Adult,Obese,NE,Very Low,No,54,32.7,0,$10923.93,$21848.00
+e30d7b07-25ce-4eb9-b07b-88f818b4a9e5,false,Female,Youth,Obese,NW,Very Low,No,24,33.3,0,$2855.44,$2855.00
+e310efff-d244-484a-9137-b227b0b03706,true,Female,Adult,Obese,NW,Very Low,No,45,30.5,1,$39725.52,$79451.00
+e3b3a489-4d10-47f3-81bf-541bac63e50c,false,Male,Senior,Normal,NW,Very Low,No,60,24.3,0,$12523.60,$25047.00
+e3b972af-b11c-4c0b-bde6-429d0112eba7,true,Female,Adult,Obese,NE,Very Low,No,31,38.1,1,$58571.07,$117142.00
+e3c254cc-3c1d-479f-8c61-36d4384ebfe2,false,Male,Adult,Obese,NE,Medium,Yes,49,31.4,1,$9290.14,$18580.00
+e3edea6b-c356-4761-9dd4-085cde88fa9a,false,Male,Adult,Obese,NW,Very Low,No,53,31.2,1,$10461.98,$20924.00
+e49c6761-ede4-45db-bb0e-bae6dbff374f,false,Male,Youth,Overweight,NE,Very Low,No,28,27,2,$4435.09,$4435.00
+e49fde60-f647-487c-b37f-21a0e6dba7ae,false,Female,Adult,Obese,SE,Very Low,No,56,37.5,2,$12265.51,$24531.00
+e4a99c73-6459-4c51-bbe2-bac7668a83f9,false,Female,Adult,Obese,NE,Medium,Yes,55,32.4,1,$11879.10,$23758.00
+e4b91c64-8aab-4a40-97bb-912dabe0797b,false,Female,Adult,Overweight,SE,Very Low,No,40,29.8,1,$6500.24,$13000.00
+e4cd18b1-d2b2-47c0-87fe-ab719ba8dd39,false,Male,Adult,Obese,SW,Medium,Yes,54,39.6,1,$10450.55,$20901.00
+e4e77edc-db44-468b-b18d-ba8d243b509a,false,Male,Senior,Obese,SW,Very Low,No,63,30.8,0,$13390.56,$53562.00
+e5179727-4310-487e-b002-331f420c14a1,true,Male,Adult,Overweight,SE,Very Low,No,42,26.1,1,$38245.59,$76491.00
+e56750b3-7b1b-4007-817a-c13b394b0866,false,Female,Adult,Overweight,SW,Very Low,No,42,25.3,1,$7045.50,$14091.00
+e56d4a0e-9a04-429f-903d-8bb53c2fbdb4,false,Male,Youth,Obese,SE,Low,Yes,18,33.7,0,$1136.40,$1136.00
+e5769cf2-9825-474d-8aa0-b3aa5dec8df2,false,Female,Senior,Overweight,SW,Very Low,No,62,25,0,$13451.12,$53804.00
+e5d534b2-f6c2-4302-85d8-f711beaf5952,false,Female,Youth,Obese,NW,Very Low,No,29,32.1,2,$4922.92,$4923.00
+e6208e99-40b5-470d-aaee-c66ca501eac4,false,Male,Youth,Normal,SW,Very Low,No,19,24.6,1,$1837.24,$1837.00
+e621f187-9575-449c-8703-0de7147e9f42,false,Female,Youth,Normal,SE,Low,Yes,18,20.8,0,$1607.51,$1608.00
+e66e6a1c-136f-4fad-ac32-4758b2933ba7,true,Male,Youth,Obese,SW,Very Low,No,19,34.8,0,$34779.62,$34780.00
+e677c9b5-f756-4e2a-b0c7-47d1651ad9d8,true,Male,Adult,Obese,SE,Very Low,No,37,37.1,1,$39871.70,$79743.00
+e6797049-0811-4016-994d-ad7b5388a70b,false,Female,Senior,Normal,SE,Very Low,No,60,24.5,0,$12629.90,$25260.00
+e6838f39-0b67-42e8-8ddd-59981f26b041,false,Female,Youth,Overweight,SW,Very Low,No,21,25.8,0,$2007.95,$2008.00
+e691e4e9-8015-4eca-b100-54f92d0437da,false,Male,Adult,Overweight,NW,Very Low,No,42,26.3,1,$6940.91,$13882.00
+e69bfb07-e2a5-448f-99a8-8a8fcfdf3d46,false,Male,Adult,Overweight,SW,Very Low,No,37,29.8,0,$20420.60,$40841.00
+e6d62083-45ba-42ce-a23e-7e6d22d878ca,false,Female,Youth,Overweight,SE,Very Low,No,26,29.5,1,$3392.37,$3392.00
+e6ec843c-7a73-4b8a-9d3e-c859808faf1d,false,Female,Adult,Obese,NE,Very Low,No,32,37.1,3,$6334.34,$12669.00
+e6f4b9a8-fe04-45b6-b5b6-efdf9ee5f9bf,false,Female,Youth,Obese,SW,Low,Yes,25,30.3,0,$2632.99,$2633.00
+e74c0b8f-270b-4308-830e-864894f1601c,false,Male,Adult,Obese,SE,Very Low,No,52,34.1,0,$9140.95,$18282.00
+e74fbc0a-661a-41e5-b16c-3135af0292cd,false,Female,Adult,Obese,SE,Very Low,No,30,43.1,2,$4753.64,$4754.00
+e772856b-54b7-4041-a79e-21edd019a1d2,false,Female,Youth,Obese,NW,Very Low,No,19,35.2,0,$2134.90,$2135.00
+e78da9ba-aed8-48b7-a794-194cc4d61b11,false,Male,Youth,Obese,SW,Very Low,No,19,34.1,0,$1261.44,$1261.00
+e7b94812-cd4e-4834-a56b-7fe56eccb39a,false,Male,Adult,Obese,SE,Very Low,No,55,33.9,3,$11987.17,$23974.00
+e7c1eb83-cbea-4e56-886d-9180403d9277,false,Male,Senior,Obese,SW,Very Low,No,63,33.1,0,$13393.76,$53575.00
+e7cd5d7b-2c67-4ebc-9230-b8d22e152e14,false,Female,Senior,Obese,NW,Very Low,No,62,33,3,$15612.19,$62449.00
+e7e211b5-67b7-4352-874c-12351e565308,false,Female,Adult,Overweight,NW,Very Low,No,44,26.4,0,$7419.48,$14839.00
+e865e67b-8173-4aed-9687-c412d077607d,false,Male,Youth,Overweight,NW,Very Low,No,24,26.8,1,$12609.89,$12610.00
+e8e0668b-601f-43da-b4e8-928a128a03c2,false,Male,Adult,Overweight,SW,Very Low,No,46,25.8,5,$10096.97,$20194.00
+e90ae476-389e-4ae8-8890-04a33f7393a2,false,Female,Adult,Obese,SE,Very Low,No,32,44.2,0,$3994.18,$7988.00
+e92faeb8-c1cf-41a9-9fcd-78368be3d2bd,false,Male,Adult,Overweight,NE,Very Low,No,43,26,0,$6837.37,$13675.00
+e937e2a9-7d2b-4327-a125-3e0fcbeb5977,false,Male,Youth,Overweight,SW,Low,Yes,25,26.8,3,$3906.13,$3906.00
+e9827639-2b7d-4099-8b68-0ec5a4a4b96d,false,Female,Adult,Overweight,SW,Very Low,No,46,28.9,2,$8823.28,$17647.00
+ea1f9b3e-4a7c-487e-9427-0cbb4d97f8bc,false,Female,Youth,Overweight,NW,Very Low,No,23,28.1,0,$2690.11,$2690.00
+ea2e0fff-190b-4e6b-8572-b98b15d64bd9,false,Female,Adult,Obese,SW,Very Low,No,41,32.6,3,$7954.52,$15909.00
+ea3eb564-a3ec-4ad1-a83e-10f28df5d3ff,false,Male,Adult,Overweight,NE,Medium,Yes,44,29.7,2,$32108.66,$64217.00
+ebf582d2-5978-42e8-b2fd-22aa8d25cd92,false,Male,Adult,Obese,SW,Very Low,No,56,40.3,0,$10602.39,$21205.00
+ec06b7ec-9478-4a3a-9d31-1f1354607233,true,Female,Adult,Obese,SE,Very Low,No,54,47.4,0,$63770.43,$127541.00
+ec1fa73c-628b-4d45-94d5-906056f2567e,false,Male,Adult,Overweight,SE,Very Low,No,40,25,2,$6593.51,$13187.00
+ec30f9fb-8562-452b-ba1c-b64ffde202ec,false,Male,Adult,Obese,NW,Very Low,No,52,36.8,2,$26467.10,$52934.00
+ec326a0f-7e2d-446f-a44b-799cce6a8053,true,Male,Adult,Obese,SE,Very Low,No,47,36.2,0,$41676.08,$83352.00
+ec91e4d4-119d-4d90-81f1-e35bb68882e5,false,Male,Adult,Overweight,NE,Very Low,No,38,28,1,$6067.13,$12134.00
+ec94c4df-8f1d-4b3c-9df4-66c449f2d1e8,false,Female,Youth,Obese,NE,Low,Yes,29,31.2,0,$3943.60,$3944.00
+ecf93097-e0e5-4ce5-b062-2ebbe4c5a59c,false,Male,Adult,Obese,SE,Very Low,No,41,40.3,0,$5709.16,$11418.00
+ecfd15a0-fb5d-450b-aad6-a15705ae3579,false,Female,Adult,Obese,SW,Very Low,No,35,34.8,1,$5246.05,$10492.00
+ed2476ff-1295-446f-ab8c-8e6828e1e69e,false,Male,Youth,Obese,SE,Very Low,No,18,30,1,$1720.35,$1720.00
+ed41007a-4624-4382-8e22-94f0e5cdb2d7,false,Female,Youth,Normal,NE,Very Low,No,23,24.2,2,$22395.74,$22396.00
+ed989bbe-ff0c-470a-b3eb-7c7792ea1ad6,false,Male,Adult,Obese,SW,Very Low,No,59,37.4,0,$21797.00,$43594.00
+ee4725fc-09d5-41a1-b719-3bf8a4db4172,false,Female,Youth,Obese,SW,Very Low,No,20,37,5,$4830.63,$4831.00
+ee503712-e159-4b1f-9365-5bdb0114d8e5,false,Female,Adult,Normal,NW,Medium,Yes,31,21.8,0,$4134.08,$8268.00
+ee7011b2-0eae-44d8-909d-0e61fece4056,false,Female,Adult,Overweight,SE,Very Low,No,59,27.8,3,$14001.29,$28003.00
+ee816d6b-6ddf-4f1b-a3d0-803019c3f5a1,false,Female,Youth,Obese,SE,Very Low,No,28,33.1,0,$3171.61,$3172.00
+ee88fe85-feb8-4794-89d0-de33ccd8c33c,true,Male,Youth,Obese,NE,Very Low,No,18,33.5,0,$34617.84,$34618.00
+eeafd3d4-b629-4033-8523-79e264d85956,true,Male,Adult,Obese,NW,Medium,Yes,58,37,2,$47496.49,$94993.00
+eedbbce1-379e-49dc-8bf0-30e68ef6bb89,false,Male,Adult,Obese,NW,Very Low,No,41,34.2,2,$7261.74,$14523.00
+eefef983-37ce-45ef-b3e1-bd023452c4a4,false,Female,Adult,Overweight,SW,Very Low,No,36,26.2,0,$4883.87,$9768.00
+ef15f673-2c44-4427-bace-a24ccfe5869b,false,Female,Adult,Overweight,SE,Very Low,No,36,29.9,1,$5478.04,$10956.00
+ef356b97-60c6-48d1-80d5-99c3e3877ae2,false,Male,Adult,Normal,NW,Medium,Yes,38,20,1,$5855.90,$11712.00
+ef3d5dac-a0b9-4f8a-8d63-c50b48af16d6,false,Male,Adult,Obese,NW,Very Low,No,55,37.7,3,$30063.58,$60127.00
+ef41742c-64f1-487c-9a96-85975bcd5278,false,Female,Adult,Normal,SW,Very Low,No,47,23.6,1,$8539.67,$17079.00
+ef4b909b-1818-4066-99eb-2c7837086b46,true,Female,Youth,Obese,SE,Low,Yes,23,32.8,2,$36021.01,$36021.00
+ef592dde-8771-416a-b729-d096dc893d88,false,Female,Adult,Overweight,SE,Very Low,No,49,27.2,0,$8601.33,$17203.00
+ef744e5a-8c26-4d14-84bd-9c575ad12936,true,Male,Youth,Obese,SE,Low,Yes,27,42.1,0,$39611.76,$39612.00
+efa880f0-8b53-4e1d-b94a-c7945c7d2326,false,Female,Adult,Overweight,SW,Very Low,No,42,29,1,$7050.64,$14101.00
+efbcdce2-0431-4a07-917c-08112ccd371b,false,Male,Adult,Obese,NE,Medium,Yes,46,39.4,1,$8342.91,$16686.00
+f15e6551-53a0-48ca-a7da-94b5cb32f5e6,false,Male,Adult,Obese,NE,Very Low,No,38,37.1,1,$6079.67,$12159.00
+f1a2e105-98b9-4f5c-8bce-7294a8f182a6,false,Female,Senior,Obese,NE,Very Low,No,64,39.3,0,$14901.52,$59606.00
+f1f2bb2c-658e-4fff-b816-e82c433d4f8b,false,Male,Youth,Obese,NW,Very Low,No,19,30.6,0,$1639.56,$1640.00
+f2427fc6-4e86-4167-95a8-176294e2cf23,false,Male,Youth,Overweight,NE,Very Low,No,18,28.5,0,$1712.23,$1712.00
+f2464f59-7d19-4ff9-86f0-775a40a1ee4c,false,Female,Senior,Obese,NE,Very Low,No,61,35.9,0,$13635.64,$54543.00
+f25ce636-93af-44f3-a5d3-97065cb5f080,false,Male,Adult,Overweight,NE,Medium,Yes,49,25.8,1,$9282.48,$18565.00
+f2c9c4af-55c0-4844-870d-83ecd2da5cee,false,Male,Youth,Overweight,SW,Very Low,No,24,29.3,0,$1977.82,$1978.00
+f36481bf-7df6-4887-9472-953600f4abe8,true,Male,Adult,Obese,SW,Very Low,No,37,34.1,4,$40182.25,$80365.00
+f3f1168a-2d5c-4394-adb8-85feb72597bb,false,Female,Youth,Overweight,NW,Very Low,No,28,25.9,1,$4133.64,$4134.00
+f43cdda3-b176-4905-ac10-cedee02cb7bd,true,Male,Youth,Obese,SW,Very Low,No,24,32.7,0,$34472.84,$34473.00
+f45e1377-50b2-401a-80e1-50c2151c2531,true,Female,Adult,Obese,SE,Very Low,No,42,40.4,2,$43896.38,$87793.00
+f487c6c5-5140-4c29-bddb-3eb92ecbdf63,false,Male,Senior,Overweight,NE,Very Low,No,60,29.6,0,$12731.00,$25462.00
+f48e711b-f2ac-4a5b-9ed1-b37a3c49092a,false,Female,Youth,Normal,SW,Very Low,No,19,18.6,0,$1728.90,$1729.00
+f4ecb551-5aa8-4422-99f5-d03241f03fa6,false,Male,Adult,Normal,NE,Very Low,No,45,24,2,$8604.48,$17209.00
+f54152c6-6cc1-4040-9854-93ce48cf509a,false,Male,Youth,Overweight,NW,Low,Yes,19,25.6,1,$2221.56,$2222.00
+f5bc4964-2b96-4850-8262-eedf872c122b,true,Male,Adult,Obese,NE,Very Low,No,50,32.3,1,$41919.10,$83838.00
+f5c293fa-48bb-4ddf-8c24-f45e97882746,false,Male,Adult,Overweight,SE,Very Low,No,59,29.7,2,$12925.89,$25852.00
+f5f8a6ff-d07b-4ea2-8904-c29d5869efd3,false,Male,Senior,Obese,SE,Very Low,No,62,38.8,0,$12981.35,$51925.00
+f60ccb7e-7526-44a4-bde4-ac4d07848124,false,Female,Youth,Obese,SE,Very Low,No,20,31.5,0,$1877.93,$1878.00
+f63ebd71-5a90-4eb0-b935-11b08a8b8fb1,true,Female,Adult,Obese,SE,Very Low,No,48,33.1,0,$40974.16,$81948.00
+f6532116-13ec-44a1-a62e-05c5f0fe1698,true,Female,Adult,Obese,SW,Very Low,No,37,47.6,2,$46113.51,$92227.00
+f688461a-1210-4c71-b466-f5a67e37db90,false,Male,Youth,Overweight,NW,Very Low,No,24,28.5,2,$3537.70,$3538.00
+f6fbb22e-1154-4039-a6ee-97f22533c2e5,false,Male,Youth,Obese,SE,Low,Yes,18,34.1,0,$1137.01,$1137.00
+f728d41d-8f56-47f9-a398-794e9529155c,false,Female,Adult,Overweight,NW,Very Low,No,59,26.7,3,$14382.71,$28765.00
+f796200d-60e7-47fd-909b-cc9fe0a3df08,false,Male,Adult,Obese,SE,Very Low,No,47,47.5,1,$8083.92,$16168.00
+f79ae69a-d865-4d36-8cc3-ae6bb6293b43,false,Female,Adult,Overweight,SE,Very Low,No,59,27.7,3,$14001.13,$28002.00
+f7b0dfac-deca-4017-b163-011b25a9f6ad,true,Male,Youth,Obese,SE,Very Low,No,19,44.9,0,$39722.75,$39723.00
+f7d40377-1ad8-4feb-b976-811537add74e,false,Male,Youth,Overweight,NE,Very Low,No,26,29.5,0,$2897.32,$2897.00
+f7fca69b-bb79-4e45-9398-145e367a30fa,false,Male,Adult,Obese,SW,Medium,Yes,48,30.2,2,$8968.33,$17937.00
+f81f2bab-dd28-4ffc-b6fd-4ab23b85e13a,false,Female,Adult,Obese,SE,Very Low,No,33,39.8,1,$4795.66,$9591.00
+f8306a0d-a144-40e7-965d-bf4a07f6ee91,true,Male,Adult,Obese,SE,Very Low,No,51,42.9,2,$47462.89,$94926.00
+f8354fb6-06af-4dea-b59d-f6e3ae747cce,true,Female,Adult,Obese,NE,Very Low,No,34,31.9,1,$37701.88,$75404.00
+f8e9f674-573a-450b-a8a6-77104581832f,false,Male,Adult,Obese,NE,Very Low,No,48,31.4,1,$8964.06,$17928.00
+f93c4942-6689-4d35-9b39-0ef26380fb61,false,Male,Adult,Obese,SE,Very Low,No,49,36.9,0,$8125.78,$16252.00
+f96ed9d6-2472-4c98-9efe-fa8130ea1f49,false,Male,Youth,Overweight,NW,Very Low,No,22,25.2,0,$2045.69,$2046.00
+f970b5a0-5a1c-446d-917a-45745abf567d,false,Male,Adult,Overweight,SW,Very Low,No,42,26.9,0,$5969.72,$11939.00
+f9a02d29-3f04-42b9-af33-537f9f2e70a7,true,Male,Youth,Obese,SW,Very Low,No,28,36.4,1,$51194.56,$51195.00
+f9bd222a-e784-4294-ba1a-4c1617913651,false,Female,Adult,Overweight,SE,Very Low,No,36,29,4,$7243.81,$14488.00
+fa1f59a7-85bd-42bf-b19c-6e64d7b3ec78,false,Female,Adult,Overweight,SW,Very Low,No,56,27.2,0,$11073.18,$22146.00
+fa8665f2-0392-4b4b-86a0-90f339450b43,true,Male,Adult,Obese,SE,Very Low,No,54,34.2,2,$44260.75,$88522.00
+fb657d53-03d3-4765-8500-fdb891d1d132,false,Female,Youth,Obese,SW,Very Low,No,22,36,0,$2166.73,$2167.00
+fb732a99-c895-49e7-8ef1-e6232a927c55,false,Male,Adult,Obese,NW,Medium,Yes,36,30.9,1,$5373.36,$10747.00
+fbd3ac66-d9e6-4aef-a687-37203a0427b6,false,Female,Youth,Obese,SE,Very Low,No,18,32.1,2,$2801.26,$2801.00
+fc0da0ba-84a4-45e7-8424-33258ae54209,true,Female,Adult,Obese,SW,Very Low,No,33,33.5,0,$37079.37,$74159.00
+fc25894e-427a-44ec-aa43-7869cf245b96,true,Male,Adult,Obese,NE,Very Low,No,36,41.9,3,$43753.34,$87507.00
+fc3c7a5c-fbe6-40cf-b3a7-697616c7e247,true,Male,Youth,Overweight,NE,Very Low,No,24,29.8,0,$18648.42,$18648.00
+fc4fd31a-51c7-405e-9163-d681ad1b7d9d,false,Female,Adult,Overweight,SE,Very Low,No,38,28.9,1,$5974.38,$11949.00
+fc7cee8c-1017-4d8e-91c3-642652ea6ba0,false,Male,Youth,Overweight,NE,Very Low,No,29,29.6,1,$20277.81,$20278.00
+fc8b7f35-11a5-4a8a-8249-10e0c5eed359,false,Male,Adult,Normal,SE,Very Low,No,38,21.1,3,$6652.53,$13305.00
+fccdc95d-3e6e-4107-83c5-befd37a9e5c1,true,Male,Adult,Obese,NE,Very Low,No,32,33.6,1,$37607.53,$75215.00
+fcf07baf-2933-4f8b-9e42-0a6ef1707d1c,false,Male,Adult,Obese,SE,Very Low,No,39,45.4,2,$6356.27,$12713.00
+fd0c8f92-836b-4284-adca-296fecfeeb9e,true,Female,Adult,Obese,NW,Very Low,No,53,36.9,3,$46661.44,$93323.00
+fd118364-d373-4475-b46f-21a29b77eff7,true,Male,Adult,Overweight,SE,Very Low,No,32,28.9,1,$19719.69,$39439.00
+fd425425-a0bf-40d4-8e01-d0332b5c961a,false,Female,Adult,Obese,SW,Very Low,No,33,38.9,3,$5972.38,$11945.00
+fda86c6d-747a-481f-acc3-a801da6789ea,false,Male,Senior,Obese,SW,Very Low,No,61,43.4,0,$12574.05,$50296.00
+fda8a92d-5688-45e0-9aaf-18707bf9cda3,false,Female,Adult,Obese,SW,Very Low,No,52,37.4,0,$9634.54,$19269.00
+fdbd7116-ba7e-4fd1-b039-59271dd185c4,false,Female,Youth,Normal,NE,Very Low,No,28,24.3,1,$23288.93,$23289.00
+fdc42df1-f12d-4a5c-9022-d8e356e164c5,false,Female,Adult,Obese,SW,Medium,Yes,52,44.7,3,$11411.69,$22823.00
+fe233191-b2c5-477e-8421-bceead3d02b3,false,Female,Adult,Normal,SW,Medium,Yes,48,22.8,0,$8269.04,$16538.00
+fe2951e8-4ea3-4d24-8ce0-fdd1ee6fe9cb,false,Female,Youth,Overweight,NE,Low,Yes,18,29.2,0,$7323.73,$7324.00
+fe4d3299-2f3d-4b0d-970f-5dc0d6a7a2d6,false,Female,Adult,Obese,SE,Very Low,No,58,41.9,0,$24227.34,$48455.00
+fecdf4b5-9fe7-4f04-91aa-0f2e3c8b48c6,false,Male,Adult,Obese,NE,Very Low,No,30,37.4,3,$5428.73,$5429.00
+fef15785-61c7-4755-bc7f-50a177c9e8b1,false,Male,Youth,Normal,NW,Very Low,No,21,23.8,2,$3077.10,$3077.00
+ff3072d6-38f6-4288-863b-8dd65722a3d9,false,Male,Adult,Overweight,NE,Very Low,No,54,25.5,1,$25517.11,$51034.00
+ff96efb1-0b07-460a-bf7f-ddc748a16763,false,Male,Adult,Obese,SE,Very Low,No,46,43.9,3,$8944.12,$17888.00
+ffcf3eda-6a7a-40ae-9e3a-9e224d692a1e,true,Female,Youth,Obese,NW,Very Low,No,19,30,0,$33307.55,$33308.00
+ffd2ab9c-4e97-4b9f-b0c5-14000490bc74,false,Female,Adult,Obese,NE,Very Low,No,42,32.9,0,$7050.02,$14100.00
+ffdca9f9-d6e1-4376-802c-f45f914d4d4d,false,Male,Adult,Overweight,SE,Very Low,No,35,27.6,1,$4747.05,$9494.00
