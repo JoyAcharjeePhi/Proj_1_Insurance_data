@@ -1,0 +1,20 @@
+# --- Power BI & Windows Junk ---
+# Ignore temporary Power BI files and local metadata
+*.tmp
+*.zip
+*.log
+*.pbix.settings
+*.pbit
+
+# --- Databricks & Python ---
+# Ignore local python cache and environment files
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# --- Sensitive Metadata ---
+# Prevent accidental upload of connection strings in JSON/Config
+config.json
+secrets.txt
+credentials/
